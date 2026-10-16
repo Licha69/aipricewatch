@@ -3,7 +3,7 @@
   "results": [
     {
       "tool": "cursor",
-      "status": "changed",
+      "status": "same",
       "chars": 15142
     },
     {
@@ -24,11 +24,11 @@
     {
       "tool": "chatgpt-codex",
       "status": "changed",
-      "chars": 7576
+      "chars": 7559
     },
     {
       "tool": "replit",
-      "status": "seeded",
+      "status": "same",
       "chars": 2558
     },
     {
@@ -49,11 +49,11 @@
     {
       "tool": "tabnine",
       "status": "changed",
-      "chars": 5160
+      "chars": 5220
     },
     {
       "tool": "jetbrains-ai",
-      "status": "changed",
+      "status": "same",
       "chars": 3941
     },
     {

@@ -24,7 +24,7 @@
     {
       "tool": "chatgpt-codex",
       "status": "changed",
-      "chars": 7576
+      "chars": 7544
     },
     {
       "tool": "replit",
@@ -49,7 +49,7 @@
     {
       "tool": "tabnine",
       "status": "changed",
-      "chars": 4926
+      "chars": 5220
     },
     {
       "tool": "jetbrains-ai",

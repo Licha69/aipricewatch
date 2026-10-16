@@ -2,7 +2,12 @@
   "tool": "chatgpt-codex",
   "date": "2026-10-16",
   "url": "https://chatgpt.com/pricing",
-  "price_lines": [],
-  "all_lines": 8,
+  "price_lines": [
+    "-$0",
+    "-$8",
+    "-$20",
+    "-$100"
+  ],
+  "all_lines": 12,
   "reviewed": false
 }

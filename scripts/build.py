@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """Plain static site generator -> dist/. BASE env sets the URL prefix (default /aipricewatch)."""
-import csv, json, re, os, pathlib, html, shutil, datetime, email.utils
+import hashlib, csv, json, re, os, pathlib, html, shutil, datetime, email.utils
 R=pathlib.Path(__file__).resolve().parent.parent; D=R/"dist"
 B=os.environ.get("BASE","/aipricewatch"); SITE=os.environ.get("SITE","https://licha69.github.io")+B
 e=html.escape
@@ -57,7 +57,7 @@ page("en/about/index.html","About & method","<p>AI Price Watch is run by Licha i
 page("fr/index.html","AI Price Watch (FR)","<p>Version française à venir.</p>","fr")
 (D/"index.html").write_text(f'<!doctype html><html lang="en"><head><meta charset="utf-8"><title>AI Price Watch</title><link rel="canonical" href="{SITE}/en/"><meta http-equiv="refresh" content="0;url={B}/en/"></head><body><p><a href="{B}/en/">Go to AI Price Watch</a></p></body></html>')
 def rfc(d): return email.utils.format_datetime(datetime.datetime.fromisoformat(d).replace(hour=12,tzinfo=datetime.timezone.utc))
-items="".join(f'<item><title>{e(name[x["tool"]])} pricing change ({x["date"]})</title><link>{SITE}/en/tools/{x["tool"]}/</link><guid isPermaLink="false">aipricewatch:{x["date"]}:{x["tool"]}</guid><pubDate>{rfc(x["date"])}</pubDate><description>{e(x["change"])}</description></item>' for x in hist)
+items="".join(f'<item><title>{e(name[x["tool"]])} pricing change ({x["date"]})</title><link>{SITE}/en/tools/{x["tool"]}/</link><guid isPermaLink="false">aipricewatch:{x["date"]}:{x["tool"]}:{hashlib.sha1(x["change"].encode()).hexdigest()[:8]}</guid><pubDate>{rfc(x["date"])}</pubDate><description>{e(x["change"])}</description></item>' for x in hist)
 now=email.utils.format_datetime(datetime.datetime.now(datetime.timezone.utc))
 (D/"rss.xml").write_text(f'<?xml version="1.0" encoding="utf-8"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>AI Price Watch</title><link>{SITE}/en/</link><atom:link href="{SITE}/rss.xml" rel="self" type="application/rss+xml"/><description>Dated price changes of AI coding and agent tools</description><language>en</language><lastBuildDate>{now}</lastBuildDate>{items}</channel></rss>')
 (D/".nojekyll").write_text("")

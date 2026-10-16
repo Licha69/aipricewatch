@@ -338,16 +338,20 @@
  ],
  "sourcegraph-amp": [
   [
-   "Free",
-   "$0"
+   "Hobby",
+   "free"
   ],
   [
-   "Individual",
+   "Megawatt (Individual)",
    "$20/mo"
   ],
   [
+   "Gigawatt (Individual)",
+   "price not shown in page text (unknown)"
+  ],
+  [
    "Teams",
-   "no extra charge"
+   "no extra charge; members can be on Hobby, Megawatt or Gigawatt"
   ],
   [
    "Enterprise",

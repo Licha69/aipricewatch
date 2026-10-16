@@ -1,0 +1,73 @@
+ARCHIVE https://web.archive.org/web/20241102082318/https://www.anthropic.com/pricing
+Claude
+Research
+Company
+Careers
+News
+Pricing
+Claude.ai plans
+Anthropic API
+Explore Claude.ai plans
+Free
+For individuals to get started
+Talk to Claude on the web, iOS and Android
+Ask about images and docs
+Access to Claude 3.5 Sonnet
+$0
+Free for everyone
+Get started
+Pro
+For Claude power users
+Everything in Free, plus:
+More usage than Free
+Priority bandwidth and availability
+Access to more models, like Claude 3 Opus
+Early access to new features
+$20
+Per person / month
+Get started
+Team
+For fast-growing teams
+Everything in Pro, plus:
+More usage than Pro
+Central billing and administration
+Early access to collaboration features
+$25
+Per person / month*
+Get started
+Enterprise
+For businesses operating at scale
+Everything in Team, plus:
+More usage than Team
+Expanded context window
+Single sign-on (SSO) and domain capture
+Role-based access with fine grained permissioning
+System for Cross-domain Identity Management (SCIM)
+Audit logs
+Data source integrations
+Contact sales
+*With annual subscription discount. Minimum 5 members.
+Claude
+API
+Team
+Pricing
+Research
+Company
+Customers
+News
+Careers
+Press Inquiries
+Support
+Status
+Availability
+Twitter
+LinkedIn
+YouTube
+Terms of Service – Consumer
+Terms of Service – Commercial
+Privacy Policy
+Usage Policy
+Responsible Disclosure Policy
+Compliance
+Privacy Choices
+© 2024 Anthropic PBC

@@ -1,0 +1,192 @@
+ARCHIVE https://web.archive.org/web/20240201213238/https://github.com/features/copilot/plans
+GitHub Copilot · Your AI pair programmer · GitHub
+Skip to content
+Toggle navigation
+Sign in
+Product
+Actions
+Automate any workflow
+Packages
+Host and manage packages
+Security
+Find and fix vulnerabilities
+Codespaces
+Instant dev environments
+Copilot
+Write better code with AI
+Code review
+Manage code changes
+Issues
+Plan and track work
+Discussions
+Collaborate outside of code
+Explore
+All features
+Documentation
+GitHub Skills
+Blog
+Solutions
+For
+Enterprise
+Teams
+Startups
+Education
+By Solution
+CI/CD & Automation
+DevOps
+DevSecOps
+Resources
+Learning Pathways
+White papers, Ebooks, Webinars
+Customer Stories
+Partners
+Open Source
+GitHub Sponsors
+Fund open source developers
+The ReadME Project
+GitHub community articles
+Repositories
+Topics
+Trending
+Collections
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+Search
+Clear
+Search syntax tips
+Provide feedback
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel
+Submit feedback
+Saved searches
+Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our
+documentation
+.
+Cancel
+Create saved search
+Sign in
+Sign up
+You signed in with another tab or window.
+Reload
+to refresh your session.
+You signed out in another tab or window.
+Reload
+to refresh your session.
+You switched accounts on another tab or window.
+Reload
+to refresh your session.
+Dismiss alert
+{{ message }}
+Take flight with the best Copilot plan for you
+Whether you’re an organization or individual, GitHub Copilot helps you build better software, faster.
+For organizations
+Recommended
+Copilot Business
+Copilot in the coding environment.
+$
+19
+per user / month
+Code completions
+Chat in IDE
+1
+and Mobile
+2
+CLI assistance
+3
+Security vulnerability filter
+Code referencing
+Public code filter
+IP indemnity
+Enterprise-grade security, safety, and privacy
+Buy now
+Contact sales
+Available Feb 2024
+Copilot Enterprise
+Copilot personalized to your organization throughout the software development lifecycle. Requires GitHub Enterprise Cloud.
+$
+39
+per user / month
+Everything in Copilot, plus:
+Chat personalized to your codebase
+Documentation search and summaries
+Pull request summaries
+Code review skills
+Fine-tuned models
+4
+Join waitlist
+For individuals
+Copilot Individual
+Code completions, Chat, and more for indie developers and freelancers.
+$
+10
+per month /
+$100 per year
+Start a free trial
+Free for verified students, teachers, and maintainers of popular open source projects.
+Chat in Visual Studio Code and Visual Studio now generally available. Chat in JetBrains IDEs currently in preview and generally available in 2024. Instructions to enable the preview can be found
+here
+.
+Chat in GitHub Mobile is coming soon.
+Currently in preview. Instructions to enable Copilot in the CLI in preview can be found
+here
+.
+Currently in preview. Copilot Enterprise grants you access to customization for fine-tuned models (available in 2024).
+Subscribe to our developer newsletter
+Get tips, technical guides, and best practices. Twice a month. Right in your inbox.
+Subscribe
+Product
+Features
+Enterprise
+Copilot
+Security
+Pricing
+Team
+Resources
+Roadmap
+Compare GitHub
+Platform
+Developer API
+Partners
+Electron
+GitHub Desktop
+Support
+Docs
+Community Forum
+Professional Services
+Premium Support
+Skills
+Status
+Contact GitHub
+Company
+About
+Customer stories
+Blog
+The ReadME Project
+Careers
+Press
+Inclusion
+Social Impact
+Shop
+GitHub on X
+GitHub on Facebook
+GitHub on LinkedIn
+GitHub on YouTube
+GitHub on Twitch
+GitHub on TikTok
+GitHub’s organization on GitHub
+© 2024 GitHub, Inc.
+Terms
+Privacy
+(
+Updated 08/2022
+)
+Sitemap
+What is Git?
+Manage cookies
+Do not share my personal information
+You can’t perform that action at this time.

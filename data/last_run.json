@@ -3,38 +3,38 @@
   "results": [
     {
       "tool": "cursor",
-      "status": "seeded",
+      "status": "same",
       "chars": 14770
     },
     {
       "tool": "github-copilot",
-      "status": "seeded",
+      "status": "same",
       "chars": 70640
     },
     {
       "tool": "windsurf",
-      "status": "error",
-      "error": "HTTP Error 404: Not Found"
+      "status": "same",
+      "chars": 3695
     },
     {
       "tool": "claude-claude-code",
-      "status": "seeded",
+      "status": "same",
       "chars": 22073
     },
     {
       "tool": "chatgpt-codex",
-      "status": "seeded",
-      "chars": 23713
+      "status": "same",
+      "chars": 7773
     },
     {
       "tool": "replit",
-      "status": "error",
-      "error": "HTTP Error 403: Forbidden"
+      "status": "changed",
+      "chars": 256
     },
     {
       "tool": "lovable",
       "status": "seeded",
-      "chars": 7476
+      "chars": 3910
     },
     {
       "tool": "bolt-new",
@@ -49,12 +49,12 @@
     {
       "tool": "tabnine",
       "status": "seeded",
-      "chars": 4499
+      "chars": 5220
     },
     {
       "tool": "jetbrains-ai",
       "status": "seeded",
-      "chars": 39
+      "chars": 3940
     },
     {
       "tool": "amazon-q-developer",
@@ -68,8 +68,8 @@
     },
     {
       "tool": "devin",
-      "status": "error",
-      "error": "HTTP Error 404: Not Found"
+      "status": "seeded",
+      "chars": 3695
     },
     {
       "tool": "zed",
@@ -94,7 +94,7 @@
     {
       "tool": "sourcegraph-amp",
       "status": "seeded",
-      "chars": 38823
+      "chars": 2258
     },
     {
       "tool": "factory",

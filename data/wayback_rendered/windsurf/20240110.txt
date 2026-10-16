@@ -1,0 +1,92 @@
+ARCHIVE https://web.archive.org/web/20240110142604/https://codeium.com/pricing
+Pricing
+Chat
+Enterprise
+Playground
+Blog
+Open options
+Company
+Get Codeium
+Plans & Pricing
+Choose the perfect plan to elevate your development journey
+Monthly
+Yearly
+Individual
+1 seat
+$0/month forever
+Install
+Features included
+Rapid code autocomplete
+In-editor AI chat assistant
+Unlimited usage
+Trained on permissive data
+Support via Discord
+Encryption in transit
+Teams
+new
+Up to 200 seats
+$12 per
+seat/month
+Start Free Trial
+All features of Individual and
+Admin usage dashboard
+Seat management and invites
+Advanced personalization on your code base
+GPT-4 Support
+Organization-wide zero day retention, guaranteed
+Doc searching (coming soon)
+Enterprise
+Unlimited seats
+Let's talk
+Contact us
+All features of Teams and
+SaaS and self-hosted (on-prem
+or VPC) deployments available
+Priority support via shared channel
+with Codeium team
+Optional finetuning on your
+code base
+Kick off and training for your organization
+Enterprise support portal access
+with documentation and ticketing
+Learn more about Codeium for Enterprise
+Footer
+Your modern coding superpowers.
+Mail
+mail
+Twitter
+twitter
+Discord
+discord
+LinkedIn
+linkedin
+YouTube
+youtube
+Product
+Codeium Chat
+Pricing
+Enterprise
+Supported Languages
+Compare
+Changelog
+Extensions
+Visual Studio Code
+JetBrains
+Neovim / Vim
+Jupyter
+See All
+Support
+Join us on Discord!
+Company
+About Us
+Blog
+Careers
+Contact
+Community
+FAQs
+Learn
+AI Glossary
+Resources
+Terms of Service
+Privacy Policy
+© 2023 Exafunction, Inc. All rights reserved.

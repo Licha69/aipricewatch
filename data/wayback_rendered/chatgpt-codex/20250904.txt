@@ -1,0 +1,684 @@
+ARCHIVE https://web.archive.org/web/20250904160806/https://openai.com/chatgpt/pricing
+Skip to main content
+Log in
+Switch to
+ChatGPT
+(opens in a new window)
+Sora
+(opens in a new window)
+API Platform
+(opens in a new window)
+Research
+Safety
+For Business
+For Developers
+ChatGPT
+Sora
+Stories
+Company
+News
+OpenAI
+ChatGPT
+Pricing
+See pricing for our individual, business, and enterprise plans.
+Free
+Explore how AI can help with everyday tasks
+$0
+/ month
+Get Free
+(opens in a new window)
+Limited access to our flagship model GPT‑5
+Real-time data from the web with search
+Try file uploads, voice, and image tools (with limits)
+Edit code with the macOS desktop app
+Use custom GPTs
+Create and use projects
+Have an existing plan? See billing help⁠
+(opens in a new window)
+Plus
+Level up productivity and creativity with expanded access
+$20
+/ month
+Get Plus
+(opens in a new window)
+Everything in Free and:
+Extended limits
+Voice mode with video and screensharing
+Access to deep research and multiple reasoning models
+Create and use tasks and custom GPTs
+Opportunities to try new features
+Limits apply⁠
+(opens in a new window)
+Pro
+Get the best of OpenAI with the highest level of access
+$200
+/ month
+Get Pro
+(opens in a new window)
+Everything in Plus and:
+Extended limits
+Voice mode with video and screensharing
+Access to deep research and multiple reasoning models
+Create and use projects, tasks, and custom GPTs
+Early access to new features
+Business
+A secure, collaborative workspace for startups and growing businesses
+Annual billing
+Monthly billing
+$25
+/ user / month billed annually
+Try for free
+(opens in a new window)
+Everything in Plus and:
+Unlimited GPT‑5 messages, with generous access to GPT‑5 thinking, and access to GPT‑5 pro—plus the flexibility to add credits as needed
+Connectors to internal knowledge
+A secure, dedicated workspace with essential admin controls, SAML SSO, and MFA
+Support for compliance with GDPR, CCPA, and other privacy laws. Aligned with CSA STAR⁠, SOC 2 Type 2, and ISO/IEC 27001, 27017, 27018, 27701
+Business features like data analysis, record mode, projects, and custom GPTs
+Encryption at rest and in transit, and no training on your business data by default. Learn more⁠
+Includes access to Codex and ChatGPT agent for reasoning and taking action across your documents, tools, and codebases
+Unlimited subject to abuse guardrails. Learn more⁠
+(opens in a new window)
+Enterprise
+Enterprise-grade AI, security, and support at scale
+Contact Sales
+Everything in Business and:
+Expanded context window that supports longer inputs and larger files
+Enterprise-level security and controls, including SCIM, user analytics, domain verification, and role-based access controls
+Advanced data privacy with custom data retention policies, encryption at rest and in transit, and no training on your business data by default. Learn more⁠
+24/7 priority support, SLAs, custom legal terms, and access to AI advisors (eligible customers)
+Invoicing and billing, volume discounts
+Trusted by teams at
+Compare features across plans
+Free
+Get Free
+(opens in a new window)
+Plus
+Get Plus
+(opens in a new window)
+Pro
+Get Pro
+(opens in a new window)
+Business
+Get Business
+(opens in a new window)
+Enterprise
+Contact sales
+(opens in a new window)
+Essentials
+Messages and interactions
+Unlimited
+Plan: Free, Feature: Messages and interactions, Unlimited
+Unlimited
+Plan: Plus, Feature: Messages and interactions, Unlimited
+Unlimited
+Plan: Pro, Feature: Messages and interactions, Unlimited
+Unlimited
+Plan: Business, Feature: Messages and interactions, Unlimited
+Unlimited
+Plan: Enterprise, Feature: Messages and interactions, Unlimited
+Chat history
+Unlimited
+Plan: Free, Feature: Chat history, Unlimited
+Unlimited
+Plan: Plus, Feature: Chat history, Unlimited
+Unlimited
+Plan: Pro, Feature: Chat history, Unlimited
+Unlimited
+Plan: Business, Feature: Chat history, Unlimited
+Unlimited
+Plan: Enterprise, Feature: Chat history, Unlimited
+Access on web, iOS, Android
+Plan: Free, Feature: Access on web, iOS, Android, Yes
+Plan: Plus, Feature: Access on web, iOS, Android, Yes
+Plan: Pro, Feature: Access on web, iOS, Android, Yes
+Plan: Business, Feature: Access on web, iOS, Android, Yes
+Plan: Enterprise, Feature: Access on web, iOS, Android, Yes
+Models
+GPT-5
+Plan: Free, Feature: GPT-5, Yes
+Expanded
+Plan: Plus, Feature: GPT-5, Expanded
+Unlimited*
+Plan: Pro, Feature: GPT-5, Unlimited*
+Unlimited*
+Plan: Business, Feature: GPT-5, Unlimited*
+Unlimited*
+Plan: Enterprise, Feature: GPT-5, Unlimited*
+GPT-5 thinking
+Plan: Free, Feature: GPT-5 thinking, Yes
+Expanded
+Plan: Plus, Feature: GPT-5 thinking, Expanded
+Unlimited*
+Plan: Pro, Feature: GPT-5 thinking, Unlimited*
+Flexible**
+Plan: Business, Feature: GPT-5 thinking, Flexible**
+Flexible**
+Plan: Enterprise, Feature: GPT-5 thinking, Flexible**
+GPT-5 pro
+Plan: Free, Feature: GPT-5 pro, No
+Plan: Plus, Feature: GPT-5 pro, No
+Plan: Pro, Feature: GPT-5 pro, Yes
+Flexible**
+Plan: Business, Feature: GPT-5 pro, Flexible**
+Flexible**
+Plan: Enterprise, Feature: GPT-5 pro, Flexible**
+GPT-5 thinking mini
+Plan: Free, Feature: GPT-5 thinking mini, Yes
+Expanded
+Plan: Plus, Feature: GPT-5 thinking mini, Expanded
+Unlimited*
+Plan: Pro, Feature: GPT-5 thinking mini, Unlimited*
+Flexible**
+Plan: Business, Feature: GPT-5 thinking mini, Flexible**
+Flexible**
+Plan: Enterprise, Feature: GPT-5 thinking mini, Flexible**
+GPT-4o
+Plan: Free, Feature: GPT-4o, No
+Standard
+Plan: Plus, Feature: GPT-4o, Standard
+Unlimited*
+Plan: Pro, Feature: GPT-4o, Unlimited*
+Unlimited*
+Plan: Business, Feature: GPT-4o, Unlimited*
+Unlimited*
+Plan: Enterprise, Feature: GPT-4o, Unlimited*
+GPT-4.1
+Plan: Free, Feature: GPT-4.1, No
+Standard
+Plan: Plus, Feature: GPT-4.1, Standard
+Unlimited*
+Plan: Pro, Feature: GPT-4.1, Unlimited*
+Flexible**
+Plan: Business, Feature: GPT-4.1, Flexible**
+Flexible**
+Plan: Enterprise, Feature: GPT-4.1, Flexible**
+GPT-4.5
+Plan: Free, Feature: GPT-4.5, No
+Plan: Plus, Feature: GPT-4.5, No
+Plan: Pro, Feature: GPT-4.5, Yes
+Plan: Business, Feature: GPT-4.5, No
+Flexible**
+Plan: Enterprise, Feature: GPT-4.5, Flexible**
+OpenAI o3
+Plan: Free, Feature: OpenAI o3, No
+Standard
+Plan: Plus, Feature: OpenAI o3, Standard
+Unlimited*
+Plan: Pro, Feature: OpenAI o3, Unlimited*
+Flexible**
+Plan: Business, Feature: OpenAI o3, Flexible**
+Flexible**
+Plan: Enterprise, Feature: OpenAI o3, Flexible**
+OpenAI o3 pro
+Plan: Free, Feature: OpenAI o3 pro, No
+Plan: Plus, Feature: OpenAI o3 pro, No
+Plan: Pro, Feature: OpenAI o3 pro, No
+Plan: Business, Feature: OpenAI o3 pro, No
+Flexible**
+Plan: Enterprise, Feature: OpenAI o3 pro, Flexible**
+OpenAI o4-mini
+Plan: Free, Feature: OpenAI o4-mini, No
+Unlimited*
+Plan: Plus, Feature: OpenAI o4-mini, Unlimited*
+Unlimited*
+Plan: Pro, Feature: OpenAI o4-mini, Unlimited*
+Flexible**
+Plan: Business, Feature: OpenAI o4-mini, Flexible**
+Flexible**
+Plan: Enterprise, Feature: OpenAI o4-mini, Flexible**
+Response times
+Limited on bandwidth
+& availability
+Plan: Free, Feature: Response times, Limited on bandwidth
+& availability
+Fast
+Plan: Plus, Feature: Response times, Fast
+Fast
+Plan: Pro, Feature: Response times, Fast
+Fast
+Plan: Business, Feature: Response times, Fast
+Fastest
+Plan: Enterprise, Feature: Response times, Fastest
+Context window non-reasoning
+16K
+Plan: Free, Feature: Context window non-reasoning, 16K
+32K
+Plan: Plus, Feature: Context window non-reasoning, 32K
+128K
+Plan: Pro, Feature: Context window non-reasoning, 128K
+32K
+Plan: Business, Feature: Context window non-reasoning, 32K
+128K
+Plan: Enterprise, Feature: Context window non-reasoning, 128K
+Context window reasoning
+196K
+Plan: Free, Feature: Context window reasoning, 196K
+196K
+Plan: Plus, Feature: Context window reasoning, 196K
+196K
+Plan: Pro, Feature: Context window reasoning, 196K
+196K
+Plan: Business, Feature: Context window reasoning, 196K
+196K
+Plan: Enterprise, Feature: Context window reasoning, 196K
+Regular quality & speed updates as models improve
+Plan: Free, Feature: Regular quality & speed updates as models improve, Yes
+Plan: Plus, Feature: Regular quality & speed updates as models improve, Yes
+Plan: Pro, Feature: Regular quality & speed updates as models improve, Yes
+Plan: Business, Feature: Regular quality & speed updates as models improve, Yes
+Plan: Enterprise, Feature: Regular quality & speed updates as models improve, Yes
+Features
+Advanced voice
+Limited
+Plan: Free, Feature: Advanced voice, Limited
+Plan: Plus, Feature: Advanced voice, Yes
+Unlimited*
+Plan: Pro, Feature: Advanced voice, Unlimited*
+Standard
+Plan: Business, Feature: Advanced voice, Standard
+Flexible*
+Plan: Enterprise, Feature: Advanced voice, Flexible*
+Advanced voice with video
+Plan: Free, Feature: Advanced voice with video, No
+Plan: Plus, Feature: Advanced voice with video, Yes
+Plan: Pro, Feature: Advanced voice with video, Yes
+Plan: Business, Feature: Advanced voice with video, Yes
+Plan: Enterprise, Feature: Advanced voice with video, Yes
+Standard voice
+Plan: Free, Feature: Standard voice, Yes
+Plan: Plus, Feature: Standard voice, Yes
+Plan: Pro, Feature: Standard voice, Yes
+Plan: Business, Feature: Standard voice, Yes
+Plan: Enterprise, Feature: Standard voice, Yes
+Memory
+Plan: Free, Feature: Memory, Yes
+Expanded
+Plan: Plus, Feature: Memory, Expanded
+Expanded
+Plan: Pro, Feature: Memory, Expanded
+Expanded
+Plan: Business, Feature: Memory, Expanded
+Expanded
+Plan: Enterprise, Feature: Memory, Expanded
+Memory with past chats
+Limited
+Plan: Free, Feature: Memory with past chats, Limited
+Plan: Plus, Feature: Memory with past chats, Yes
+Plan: Pro, Feature: Memory with past chats, Yes
+Coming soon
+Plan: Business, Feature: Memory with past chats, Coming soon
+Coming soon
+Plan: Enterprise, Feature: Memory with past chats, Coming soon
+Search
+Plan: Free, Feature: Search, Yes
+Plan: Plus, Feature: Search, Yes
+Plan: Pro, Feature: Search, Yes
+Plan: Business, Feature: Search, Yes
+Plan: Enterprise, Feature: Search, Yes
+Canvas
+Plan: Free, Feature: Canvas, Yes
+Plan: Plus, Feature: Canvas, Yes
+Plan: Pro, Feature: Canvas, Yes
+Plan: Business, Feature: Canvas, Yes
+Plan: Enterprise, Feature: Canvas, Yes
+Code edits on macOS
+Plan: Free, Feature: Code edits on macOS, Yes
+Plan: Plus, Feature: Code edits on macOS, Yes
+Plan: Pro, Feature: Code edits on macOS, Yes
+Plan: Business, Feature: Code edits on macOS, Yes
+Plan: Enterprise, Feature: Code edits on macOS, Yes
+ChatGPT agent
+Plan: Free, Feature: ChatGPT agent, No
+Limited
+Plan: Plus, Feature: ChatGPT agent, Limited
+Plan: Pro, Feature: ChatGPT agent, Yes
+Plan: Business, Feature: ChatGPT agent, Yes
+Coming soon
+Plan: Enterprise, Feature: ChatGPT agent, Coming soon
+Projects
+Plan: Free, Feature: Projects, Yes
+Plan: Plus, Feature: Projects, Yes
+Plan: Pro, Feature: Projects, Yes
+Plan: Business, Feature: Projects, Yes
+Plan: Enterprise, Feature: Projects, Yes
+Tasks
+Plan: Free, Feature: Tasks, No
+Plan: Plus, Feature: Tasks, Yes
+Plan: Pro, Feature: Tasks, Yes
+Plan: Business, Feature: Tasks, Yes
+Plan: Enterprise, Feature: Tasks, Yes
+Data analysis
+Limited
+Plan: Free, Feature: Data analysis, Limited
+Plan: Plus, Feature: Data analysis, Yes
+Plan: Pro, Feature: Data analysis, Yes
+Plan: Business, Feature: Data analysis, Yes
+Plan: Enterprise, Feature: Data analysis, Yes
+Vision
+Limited
+Plan: Free, Feature: Vision, Limited
+Plan: Plus, Feature: Vision, Yes
+Plan: Pro, Feature: Vision, Yes
+Plan: Business, Feature: Vision, Yes
+Plan: Enterprise, Feature: Vision, Yes
+Connectors to internal sources
+Plan: Free, Feature: Connectors to internal sources, No
+Plan: Plus, Feature: Connectors to internal sources, Yes
+Plan: Pro, Feature: Connectors to internal sources, Yes
+Plan: Business, Feature: Connectors to internal sources, Yes
+Plan: Enterprise, Feature: Connectors to internal sources, Yes
+ChatGPT record mode
+Plan: Free, Feature: ChatGPT record mode, No
+Plan: Plus, Feature: ChatGPT record mode, Yes
+Plan: Pro, Feature: ChatGPT record mode, Yes
+Plan: Business, Feature: ChatGPT record mode, Yes
+Plan: Enterprise, Feature: ChatGPT record mode, Yes
+File uploads
+Limited
+Plan: Free, Feature: File uploads, Limited
+Plan: Plus, Feature: File uploads, Yes
+Plan: Pro, Feature: File uploads, Yes
+Plan: Business, Feature: File uploads, Yes
+Plan: Enterprise, Feature: File uploads, Yes
+Discover & use GPTs
+Plan: Free, Feature: Discover & use GPTs, Yes
+Plan: Plus, Feature: Discover & use GPTs, Yes
+Plan: Pro, Feature: Discover & use GPTs, Yes
+Plan: Business, Feature: Discover & use GPTs, Yes
+Plan: Enterprise, Feature: Discover & use GPTs, Yes
+Create & share GPTs
+Plan: Free, Feature: Create & share GPTs, No
+Plan: Plus, Feature: Create & share GPTs, Yes
+Plan: Pro, Feature: Create & share GPTs, Yes
+Plan: Business, Feature: Create & share GPTs, Yes
+Plan: Enterprise, Feature: Create & share GPTs, Yes
+Share GPTs with your workspace
+Plan: Free, Feature: Share GPTs with your workspace, No
+Plan: Plus, Feature: Share GPTs with your workspace, No
+Plan: Pro, Feature: Share GPTs with your workspace, Yes
+Plan: Business, Feature: Share GPTs with your workspace, Yes
+Plan: Enterprise, Feature: Share GPTs with your workspace, Yes
+Opportunities to test new features
+Plan: Free, Feature: Opportunities to test new features, No
+Plan: Plus, Feature: Opportunities to test new features, Yes
+Plan: Pro, Feature: Opportunities to test new features, Yes
+Plan: Business, Feature: Opportunities to test new features, Yes
+Plan: Enterprise, Feature: Opportunities to test new features, Yes
+Image generation
+Limited
+Plan: Free, Feature: Image generation, Limited
+Plan: Plus, Feature: Image generation, Yes
+Plan: Pro, Feature: Image generation, Yes
+Plan: Business, Feature: Image generation, Yes
+Plan: Enterprise, Feature: Image generation, Yes
+Interactive tables and charts
+Plan: Free, Feature: Interactive tables and charts, No
+Plan: Plus, Feature: Interactive tables and charts, Yes
+Plan: Pro, Feature: Interactive tables and charts, Yes
+Plan: Business, Feature: Interactive tables and charts, Yes
+Plan: Enterprise, Feature: Interactive tables and charts, Yes
+Sora
+Plan: Free, Feature: Sora, No
+Limited
+Learn more
+Plan: Plus, Feature: Sora, Limited
+Expanded
+Learn more
+Plan: Pro, Feature: Sora, Expanded
+Limited
+Learn more
+Plan: Business, Feature: Sora, Limited
+Plan: Enterprise, Feature: Sora, No
+Codex agent research preview
+Plan: Free, Feature: Codex agent research preview, No
+Plan: Plus, Feature: Codex agent research preview, Yes
+Expanded
+Plan: Pro, Feature: Codex agent research preview, Expanded
+Plan: Business, Feature: Codex agent research preview, Yes
+Flexible**
+Plan: Enterprise, Feature: Codex agent research preview, Flexible**
+Deep research
+Limited
+Plan: Free, Feature: Deep research, Limited
+Plan: Plus, Feature: Deep research, Yes
+Plan: Pro, Feature: Deep research, Yes
+Plan: Business, Feature: Deep research, Yes
+Flexible**
+Plan: Enterprise, Feature: Deep research, Flexible**
+Connectors for deep research
+Plan: Free, Feature: Connectors for deep research, No
+Plan: Plus, Feature: Connectors for deep research, Yes
+Plan: Pro, Feature: Connectors for deep research, Yes
+Plan: Business, Feature: Connectors for deep research, Yes
+Plan: Enterprise, Feature: Connectors for deep research, Yes
+Study mode
+Plan: Free, Feature: Study mode, Yes
+Plan: Plus, Feature: Study mode, Yes
+Plan: Pro, Feature: Study mode, Yes
+Plan: Business, Feature: Study mode, Yes
+Plan: Enterprise, Feature: Study mode, Yes
+Privacy
+Content is used to train our models
+Opt-out available
+Learn more
+Plan: Free, Feature: Content is used to train our models, Opt-out available
+Opt-out available
+Learn more
+Plan: Plus, Feature: Content is used to train our models, Opt-out available
+Opt-out available
+Learn more
+Plan: Pro, Feature: Content is used to train our models, Opt-out available
+No.
+Read our Privacy commitment
+Plan: Business, Feature: Content is used to train our models, No.
+No.
+Read our Privacy commitment
+Plan: Enterprise, Feature: Content is used to train our models, No.
+Security & Administration
+SAML SSO
+Plan: Free, Feature: SAML SSO, No
+Plan: Plus, Feature: SAML SSO, No
+Plan: Pro, Feature: SAML SSO, No
+Plan: Business, Feature: SAML SSO, Yes
+Plan: Enterprise, Feature: SAML SSO, Yes
+Unified billing
+Plan: Free, Feature: Unified billing, No
+Plan: Plus, Feature: Unified billing, No
+Plan: Pro, Feature: Unified billing, No
+Plan: Business, Feature: Unified billing, Yes
+Plan: Enterprise, Feature: Unified billing, Yes
+Dedicated workspace
+Plan: Free, Feature: Dedicated workspace, No
+Plan: Plus, Feature: Dedicated workspace, No
+Plan: Pro, Feature: Dedicated workspace, No
+Plan: Business, Feature: Dedicated workspace, Yes
+Plan: Enterprise, Feature: Dedicated workspace, Yes
+GPTs analytics and management
+Plan: Free, Feature: GPTs analytics and management , No
+Plan: Plus, Feature: GPTs analytics and management , No
+Plan: Pro, Feature: GPTs analytics and management , No
+Plan: Business, Feature: GPTs analytics and management , Yes
+Plan: Enterprise, Feature: GPTs analytics and management , Yes
+Admin console
+Plan: Free, Feature: Admin console, No
+Plan: Plus, Feature: Admin console, No
+Plan: Pro, Feature: Admin console, No
+Plan: Business, Feature: Admin console, Yes
+Plan: Enterprise, Feature: Admin console, Yes
+Bulk member management
+Plan: Free, Feature: Bulk member management, No
+Plan: Plus, Feature: Bulk member management, No
+Plan: Pro, Feature: Bulk member management, No
+Plan: Business, Feature: Bulk member management, Yes
+Plan: Enterprise, Feature: Bulk member management, Yes
+Admin roles
+Plan: Free, Feature: Admin roles, No
+Plan: Plus, Feature: Admin roles, No
+Plan: Pro, Feature: Admin roles, No
+Plan: Business, Feature: Admin roles, Yes
+Plan: Enterprise, Feature: Admin roles, Yes
+Soc 2 Type 2 compliance
+Plan: Free, Feature: Soc 2 Type 2 compliance, No
+Plan: Plus, Feature: Soc 2 Type 2 compliance, No
+Plan: Pro, Feature: Soc 2 Type 2 compliance, No
+Plan: Business, Feature: Soc 2 Type 2 compliance, Yes
+Plan: Enterprise, Feature: Soc 2 Type 2 compliance, Yes
+ISO 27001, 27017, 27018, and 27701 certified
+Plan: Free, Feature: ISO 27001, 27017, 27018, and 27701 certified, No
+Plan: Plus, Feature: ISO 27001, 27017, 27018, and 27701 certified, No
+Plan: Pro, Feature: ISO 27001, 27017, 27018, and 27701 certified, No
+Plan: Business, Feature: ISO 27001, 27017, 27018, and 27701 certified, Yes
+Plan: Enterprise, Feature: ISO 27001, 27017, 27018, and 27701 certified, Yes
+Domain verification
+Plan: Free, Feature: Domain verification, No
+Plan: Plus, Feature: Domain verification, No
+Plan: Pro, Feature: Domain verification, No
+Plan: Business, Feature: Domain verification, Yes
+Plan: Enterprise, Feature: Domain verification, Yes
+SCIM
+Plan: Free, Feature: SCIM, No
+Plan: Plus, Feature: SCIM, No
+Plan: Pro, Feature: SCIM, No
+Plan: Business, Feature: SCIM, No
+Plan: Enterprise, Feature: SCIM, Yes
+Role-based access controls
+Plan: Free, Feature: Role-based access controls, No
+Plan: Plus, Feature: Role-based access controls, No
+Plan: Pro, Feature: Role-based access controls, No
+Plan: Business, Feature: Role-based access controls, No
+Plan: Enterprise, Feature: Role-based access controls, Yes
+Analytics dashboard
+Plan: Free, Feature: Analytics dashboard, No
+Plan: Plus, Feature: Analytics dashboard, No
+Plan: Pro, Feature: Analytics dashboard, No
+Plan: Business, Feature: Analytics dashboard, No
+Plan: Enterprise, Feature: Analytics dashboard, Yes
+Compliance API
+Plan: Free, Feature: Compliance API, No
+Plan: Plus, Feature: Compliance API, No
+Plan: Pro, Feature: Compliance API, No
+Plan: Business, Feature: Compliance API, No
+Plan: Enterprise, Feature: Compliance API, Yes
+Data residency in US, Europe, Japan, Canada, Korea, Singapore, India
+Plan: Free, Feature: Data residency in US, Europe, Japan, Canada, Korea, Singapore, India, No
+Plan: Plus, Feature: Data residency in US, Europe, Japan, Canada, Korea, Singapore, India, No
+Plan: Pro, Feature: Data residency in US, Europe, Japan, Canada, Korea, Singapore, India, No
+Plan: Business, Feature: Data residency in US, Europe, Japan, Canada, Korea, Singapore, India, No
+Plan: Enterprise, Feature: Data residency in US, Europe, Japan, Canada, Korea, Singapore, India, Yes
+Customer Service
+Enhanced support
+Plan: Free, Feature: Enhanced support, No
+Plan: Plus, Feature: Enhanced support, No
+Plan: Pro, Feature: Enhanced support, No
+Plan: Business, Feature: Enhanced support, No
+Plan: Enterprise, Feature: Enhanced support, Yes
+Dedicated onboarding
+Plan: Free, Feature: Dedicated onboarding, No
+Plan: Plus, Feature: Dedicated onboarding, No
+Plan: Pro, Feature: Dedicated onboarding, No
+Plan: Business, Feature: Dedicated onboarding, No
+Plan: Enterprise, Feature: Dedicated onboarding, Yes
+Ongoing account management
+Plan: Free, Feature: Ongoing account management, No
+Plan: Plus, Feature: Ongoing account management, No
+Plan: Pro, Feature: Ongoing account management, No
+Plan: Business, Feature: Ongoing account management, No
+Plan: Enterprise, Feature: Ongoing account management, Yes
+Custom security review
+Plan: Free, Feature: Custom security review, No
+Plan: Plus, Feature: Custom security review, No
+Plan: Pro, Feature: Custom security review, No
+Plan: Business, Feature: Custom security review, No
+Plan: Enterprise, Feature: Custom security review, Yes
+*Usage must be reasonable and comply with our policies⁠
+(opens in a new window)
+**Enterprise and Business can purchase credits for more access
+FAQ
+How does ChatGPT’s pricing work?
+The free version of ChatGPT is available to everyone. Paid plans (Plus, Business, and Enterprise) are priced per user per month. We offer monthly plans for Plus and Business and annual plans for Business and Enterprise.
+Is ChatGPT free to use?
+The free version of ChatGPT is available to everyone. Upgrading to Plus, Business, or Enterprise offers a more powerful experience through additional features and access to GPT‑4.
+Does OpenAI offer a ChatGPT plan for educational institutions?
+Yes, ChatGPT Edu is an affordable plan built for universities to deploy AI more broadly across their campus communities. Powered by GPT‑4o, ChatGPT Edu offers advanced capabilities, robust security and data privacy, and administrative controls. Contact our team to learn more.
+Does OpenAI offer a discount for nonprofits?
+Yes. Through OpenAI for Nonprofits, nonprofits can now access a 20% discount on ChatGPT Business ($20 per month per user for the annual plan and $24 per month per user for the monthly plan). Larger nonprofits ready for large-scale deployment can contact our sales team to access a 25% discount on ChatGPT Enterprise.
+How many users are supported on each subscription plan?
+Free and Plus plans are designed to be used by individuals. Business and Enterprise are for businesses. Business plans are available starting at 2 users. Please contact sales to learn more about our Enterprise plan.
+What are my payment options?
+You can purchase ChatGPT Plus, Pro, or Business with any major credit card. For ChatGPT Enterprise, please contact sales for alternative payment options such as invoicing.
+How secure is ChatGPT?
+All data is encrypted in transit (TLS 1.2). Data at rest is encrypted at rest (AES-256), and strict access controls are used to limit who can access data. Our security team has an on-call rotation that has 24/7/365 coverage and is paged in case of any potential security incident. We offer a Bug Bounty Program for responsible disclosure of vulnerabilities discovered on our platform and products. Please visit our Trust Portal⁠
+(opens in a new window)
+for more details.
+How does ChatGPT use my data?
+We give you control over your data. Read more about how your data is used and our Enterprise privacy.
+Our Research
+Research Index
+Research Overview
+Research Residency
+Latest Advancements
+OpenAI o3
+OpenAI o4-mini
+GPT-4o
+GPT-4o mini
+Sora
+Safety
+Safety Approach
+Security & Privacy
+Trust & Transparency
+ChatGPT
+Explore ChatGPT
+(opens in a new window)
+Business
+Enterprise
+Education
+Pricing
+Download
+(opens in a new window)
+Sora
+Sora Overview
+Features
+Pricing
+Sora log in
+(opens in a new window)
+API Platform
+Platform Overview
+Pricing
+API log in
+(opens in a new window)
+Documentation
+(opens in a new window)
+Developer Forum
+(opens in a new window)
+For Business
+Business Overview
+Solutions
+Contact Sales
+Company
+About Us
+Our Charter
+Careers
+Brand
+Support
+Help Center
+(opens in a new window)
+More
+News
+Stories
+Livestreams
+Podcast
+Terms & Policies
+Terms of Use
+Privacy Policy
+Other Policies
+(opens in a new window)
+(opens in a new window)
+(opens in a new window)
+(opens in a new window)
+(opens in a new window)
+(opens in a new window)
+(opens in a new window)
+OpenAI © 2015–2025Manage Cookies
+English
+United States

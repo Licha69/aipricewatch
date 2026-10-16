@@ -1,0 +1,75 @@
+ARCHIVE https://web.archive.org/web/20250303042746/https://www.anthropic.com/pricing
+Claude
+Research
+Company
+Careers
+News
+Try Claude
+Pricing
+Claude.ai plans
+Anthropic API
+Explore Claude.ai plans
+Free
+For individuals to get started
+Talk to Claude on the web, iOS and Android
+Ask about images and docs
+Access to one of our latest models
+$0
+Free for everyone
+Get started
+Pro
+For Claude power users
+Everything in Free, plus:
+More usage than Free
+Organize documents and chats with Projects
+Access additional Claude models
+Use Claude 3.7 Sonnet with extended thinking mode
+Early access to new features
+$18
+Per month with annual subscription discount; $216 billed up front. $20 if billed monthly.
+Get started
+Team
+For fast-growing teams
+Everything in Pro, plus:
+More usage than Pro
+Central billing and administration
+Early access to collaboration features
+$25
+Per person / month with annual subscription discount. $30 if billed monthly. Minimum 5 members.
+Get started
+Enterprise
+For businesses operating at scale
+Everything in Team, plus:
+More usage than Team
+Expanded context window
+Single sign-on (SSO) and domain capture
+Role-based access with fine grained permissioning
+System for Cross-domain Identity Management (SCIM)
+Audit logs
+Speak with sales
+Prices shown do not include applicable tax. These prices are for US customers only. Your currency & price may differ, see claude.ai/upgrade for more details
+Claude
+API
+Team
+Pricing
+Research
+Coding
+Company
+Customers
+News
+Careers
+Press Inquiries
+Support
+Status
+Availability
+Twitter
+LinkedIn
+YouTube
+Terms of Service – Consumer
+Terms of Service – Commercial
+Privacy Policy
+Usage Policy
+Responsible Disclosure Policy
+Compliance
+Privacy Choices
+© 2025 Anthropic PBC

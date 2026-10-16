@@ -1,0 +1,259 @@
+ARCHIVE https://web.archive.org/web/20240401173332/https://github.com/features/copilot/plans
+GitHub Copilot · Your AI pair programmer · GitHub
+Skip to content
+Toggle navigation
+Sign in
+Product
+Actions
+Automate any workflow
+Packages
+Host and manage packages
+Security
+Find and fix vulnerabilities
+Codespaces
+Instant dev environments
+Copilot
+Write better code with AI
+Code review
+Manage code changes
+Issues
+Plan and track work
+Discussions
+Collaborate outside of code
+Explore
+All features
+Documentation
+GitHub Skills
+Blog
+Solutions
+For
+Enterprise
+Teams
+Startups
+Education
+By Solution
+CI/CD & Automation
+DevOps
+DevSecOps
+Resources
+Learning Pathways
+White papers, Ebooks, Webinars
+Customer Stories
+Partners
+Open Source
+GitHub Sponsors
+Fund open source developers
+The ReadME Project
+GitHub community articles
+Repositories
+Topics
+Trending
+Collections
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+Search
+Clear
+Search syntax tips
+Provide feedback
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel
+Submit feedback
+Saved searches
+Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our
+documentation
+.
+Cancel
+Create saved search
+Sign in
+Sign up
+You signed in with another tab or window.
+Reload
+to refresh your session.
+You signed out in another tab or window.
+Reload
+to refresh your session.
+You switched accounts on another tab or window.
+Reload
+to refresh your session.
+Dismiss alert
+{{ message }}
+Pricing
+Take flight with GitHub Copilot.
+Organizations and developers all over the world use GitHub Copilot to code faster, drive impact, and focus on doing what matters most: building great software.
+Copilot Individual
+For individual developers, freelancers, students, and educators that want to code faster and happier.
+$
+10
+USD
+per month / $100 USD per year
+Start a free trial
+Free for verified students, teachers, and maintainers of popular open source projects.
+What's included
+Chat
+Unlimited messages and interactions
+Context-aware coding support and explanations
+Debugging and security remediation assistance
+Conversations tailored to your organization’s repositories
+Answers based on your organization’s knowledge base
+Access to knowledge from top open source repositories
+Pull request diff analysis
+Web search powered by Bing (beta)
+Code completion
+Real time code suggestions
+Comments to code
+Fine-tuned models (coming soon as add-on)
+Smart actions
+Inline chat and prompt suggestions
+Slash commands and context variables
+Commit message generation
+Pull request description and summarization
+Supported environments
+IDE, CLI and GitHub Mobile¹
+GitHub.com
+Management and policies
+Public code filter
+User management
+Data excluded from training by default
+IP indemnity
+Content exclusions
+SAML SSO authentication²
+Requires GitHub Enterprise Cloud
+Most popular
+Copilot Business
+For organizations ready to improve engineering velocity, code quality, and developer experience.
+$
+19
+USD
+per user / month
+Buy now
+Contact sales
+What's included
+Chat
+Unlimited messages and interactions
+Context-aware coding support and explanations
+Debugging and security remediation assistance
+Conversations tailored to your organization’s repositories
+Answers based on your organization’s knowledge base
+Access to knowledge from top open source repositories
+Pull request diff analysis
+Web search powered by Bing (beta)
+Code completion
+Real time code suggestions
+Comments to code
+Fine-tuned models (coming soon as add-on)
+Smart actions
+Inline chat and prompt suggestions
+Slash commands and context variables
+Commit message generation
+Pull request description and summarization
+Supported environments
+IDE, CLI and GitHub Mobile¹
+GitHub.com
+Management and policies
+Public code filter
+User management
+Data excluded from training by default
+IP indemnity
+Content exclusions
+SAML SSO authentication²
+Requires GitHub Enterprise Cloud
+New
+Copilot Enterprise
+For companies looking to customize GitHub Copilot to their organization and infuse AI across the developer workflow.
+$
+39
+USD
+per user / month
+Contact sales
+What's included
+Chat
+Unlimited messages and interactions
+Context-aware coding support and explanations
+Debugging and security remediation assistance
+Conversations tailored to your organization’s repositories
+Answers based on your organization’s knowledge base
+Access to knowledge from top open source repositories
+Pull request diff analysis
+Web search powered by Bing (beta)
+Code completion
+Real time code suggestions
+Comments to code
+Fine-tuned models (coming soon as add-on)
+Smart actions
+Inline chat and prompt suggestions
+Slash commands and context variables
+Commit message generation
+Pull request description and summarization
+Supported environments
+IDE, CLI and GitHub Mobile¹
+GitHub.com
+Management and policies
+Public code filter
+User management
+Data excluded from training by default
+IP indemnity
+Content exclusions
+SAML SSO authentication²
+Requires GitHub Enterprise Cloud
+Chat in GitHub Mobile is coming soon.
+Authentication with SAML single sign-on (SSO)
+available for organizations using GitHub Enterprise Cloud.
+Subscribe to our developer newsletter
+Get tips, technical guides, and best practices. Twice a month. Right in your inbox.
+Subscribe
+Product
+Features
+Enterprise
+Copilot
+Security
+Pricing
+Team
+Resources
+Roadmap
+Compare GitHub
+Platform
+Developer API
+Partners
+Electron
+GitHub Desktop
+Support
+Docs
+Community Forum
+Professional Services
+Premium Support
+Skills
+Status
+Contact GitHub
+Company
+About
+Customer stories
+Blog
+The ReadME Project
+Careers
+Press
+Inclusion
+Social Impact
+Shop
+GitHub on X
+GitHub on Facebook
+GitHub on LinkedIn
+GitHub on YouTube
+GitHub on Twitch
+GitHub on TikTok
+GitHub’s organization on GitHub
+© 2024 GitHub, Inc.
+Terms
+Privacy
+(
+Updated 08/2022
+)
+Sitemap
+What is Git?
+Manage cookies
+Do not share my personal information
+You can’t perform that action at this time.

@@ -1,0 +1,3 @@
+ARCHIVE https://web.archive.org/web/20250102205148/https://openai.com/chatgpt/pricing
+429 Too Many Requests
+You have sent too many requests in a given amount of time.

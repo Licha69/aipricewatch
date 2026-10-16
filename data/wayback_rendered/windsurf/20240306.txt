@@ -1,0 +1,183 @@
+ARCHIVE https://web.archive.org/web/20240306192230/https://codeium.com/pricing
+Pricing
+Open options
+Features
+Enterprise
+Playground
+Blog
+Open options
+Company
+Get Codeium
+Plans & Pricing
+Choose the perfect plan to elevate your development journey
+Monthly
+Yearly
+Individual
+1 seat
+$0/month forever
+Install
+Features included
+Rapid code autocomplete
+In-editor AI chat assistant
+Unlimited usage
+Trained on permissive data
+Support via Discord
+Encryption in transit
+Teams
+new
+Up to 200 seats
+$12 per
+seat/month
+Start free trial
+All features of Individual and
+Admin usage dashboard
+Seat management and invites
+Advanced personalization on your code base
+GPT-4 Support
+Organization-wide zero day retention, guaranteed
+Doc searching (coming soon)
+Enterprise
+Unlimited seats
+Let's talk
+Contact us
+All features of Teams and
+SaaS and self-hosted (on-prem
+or VPC) deployments available
+Priority support via shared channel
+with Codeium team
+Optional finetuning on your
+code base
+Kick off and training for your organization
+Enterprise support portal access
+with documentation and ticketing
+Compare features
+Individual
+Teams
+Enterprise
+Price
+Free
+Install
+$12/month
+Start free trial
+Let's talk
+Contact Us
+Features
+Unlimited code autocomplete
+Included in Individual
+Included in Teams
+Included in Enterprise
+In-editor AI chat assistant
+Included in Individual
+Included in Teams
+Included in Enterprise
+Trained on permissive data
+Included in Individual
+Included in Teams
+Included in Enterprise
+Encryption in transit
+Included in Individual
+Included in Teams
+Included in Enterprise
+Support via Discord
+Discord
+Discord
+Personalized Support
+Team members
+1
+Up to 200 users
+200+
+Additional features
+Admin usage dashboard
+Not included in Individual
+Included in Teams
+Included in Enterprise
+Seat management and invites
+Not included in Individual
+Included in Teams
+Included in Enterprise
+Advanced personalization on your code base
+Not included in Individual
+Included in Teams
+Included in Enterprise
+GPT-4 support
+Not included in Individual
+Included in Teams
+Included in Enterprise
+Multi-repo indexing
+Not included in Individual
+Included in Teams
+Included in Enterprise
+Organization-wide zero day retention, guaranteed
+Not included in Individual
+Included in Teams
+Included in Enterprise
+Enterprise features
+SSO/SAML authentication
+Not included in Individual
+Not included in Teams
+Included in Enterprise
+SaaS and self-hosted (on-prem or VPC) deployments available
+Not included in Individual
+Not included in Teams
+Included in Enterprise
+Priority support via shared channel with Codeium team
+Not included in Individual
+Not included in Teams
+Included in Enterprise
+Optional finetuning on your code base
+Not included in Individual
+Not included in Teams
+Included in Enterprise
+Kick off and training for your organization
+Not included in Individual
+Not included in Teams
+Included in Enterprise
+Enterprise support portal access with documentation and ticketing
+Not included in Individual
+Not included in Teams
+Included in Enterprise
+Learn more about Codeium for Enterprise
+Footer
+Your modern coding superpowers.
+Mail
+mail
+Twitter
+twitter
+Discord
+discord
+LinkedIn
+linkedin
+Reddit
+reddit
+YouTube
+youtube
+Product
+Codeium Chat
+Pricing
+Enterprise
+Supported Languages
+Compare
+Changelog
+Extensions
+Visual Studio Code
+JetBrains
+Neovim / Vim
+Jupyter
+See All
+Support
+Join us on Discord!
+Industry
+Tech Leaders 2024
+Company
+About Us
+Blog
+Careers
+Contact
+Community
+FAQ
+Resources
+Terms of Service
+Privacy Policy
+Media Kit
+University
+© 2023 Exafunction, Inc. All rights reserved.

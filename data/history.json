@@ -1,0 +1,194 @@
+[
+ {
+  "tool": "cursor",
+  "date": "2025-07-29",
+  "previous_capture": "2025-03-09",
+  "change": "Ultra plan added at $200/mo; Business ($40/user) now listed as Teams ($40/user).",
+  "source": "https://web.archive.org/web/20250729150422/https://cursor.com/pricing",
+  "previous_source": "https://web.archive.org/web/20250309042648/https://cursor.com/pricing"
+ },
+ {
+  "tool": "cursor",
+  "date": "2025-09-22",
+  "previous_capture": "2025-07-29",
+  "change": "Pro+ plan added at $60/mo (Pro stays $20, Ultra $200).",
+  "source": "https://web.archive.org/web/20250922053513/https://cursor.com/pricing",
+  "previous_source": "https://web.archive.org/web/20250729150422/https://cursor.com/pricing"
+ },
+ {
+  "tool": "github-copilot",
+  "date": "2025-01-01",
+  "previous_capture": "2024-01-01",
+  "change": "Free plan ($0) added. Individual $10/mo; Business $19/user; Enterprise $39/user.",
+  "source": "https://web.archive.org/web/20250101153657/https://github.com/features/copilot/plans",
+  "previous_source": "https://web.archive.org/web/20240101031345/https://github.com/features/copilot/plans"
+ },
+ {
+  "tool": "github-copilot",
+  "date": "2025-05-01",
+  "previous_capture": "2025-03-01",
+  "change": "Pro+ plan added at $39/mo (Pro stays $10).",
+  "source": "https://web.archive.org/web/20250501174406/https://github.com/features/copilot/plans",
+  "previous_source": "https://web.archive.org/web/20250301012636/https://github.com/features/copilot/plans"
+ },
+ {
+  "tool": "claude-claude-code",
+  "date": "2024-07-01",
+  "previous_capture": "2024-06-20",
+  "change": "Team shown at $30/person/mo (was $25). Back to $25 by the 2024-09-01 capture; likely a monthly vs annual billing display, not a real change.",
+  "source": "https://web.archive.org/web/20240701041020/https://www.anthropic.com/pricing",
+  "previous_source": "https://web.archive.org/web/20240620172520/https://www.anthropic.com/pricing"
+ },
+ {
+  "tool": "claude-claude-code",
+  "date": "2025-01-01",
+  "previous_capture": "2024-11-02",
+  "change": "Pro shown at $18 (was $20/mo); probably annual-billing display.",
+  "source": "https://web.archive.org/web/20250101035229/https://www.anthropic.com/pricing",
+  "previous_source": "https://web.archive.org/web/20241102082318/https://www.anthropic.com/pricing"
+ },
+ {
+  "tool": "claude-claude-code",
+  "date": "2025-05-01",
+  "previous_capture": "2025-03-03",
+  "change": "Pro shown at $17 (annual billing); Max plan (from $100/mo) added.",
+  "source": "https://web.archive.org/web/20250501055413/https://www.anthropic.com/pricing",
+  "previous_source": "https://web.archive.org/web/20250303042746/https://www.anthropic.com/pricing"
+ },
+ {
+  "tool": "claude-claude-code",
+  "date": "2026-03-01",
+  "previous_capture": "2026-01-01",
+  "change": "Team split into Standard seat $20 annual / $25 monthly and Premium seat $100 annual / $125 monthly.",
+  "source": "https://web.archive.org/web/20260301082827/https://claude.com/pricing",
+  "previous_source": "https://web.archive.org/web/20260101044440/https://claude.com/pricing"
+ },
+ {
+  "tool": "chatgpt-codex",
+  "date": "2025-03-04",
+  "previous_capture": "2024-09-04",
+  "change": "Pro plan added at $200/mo (Plus stays $20; Team $25 annual / $30 monthly).",
+  "source": "https://web.archive.org/web/20250304022419/https://openai.com/chatgpt/pricing",
+  "previous_source": "https://web.archive.org/web/20240904135327/https://openai.com/chatgpt/pricing"
+ },
+ {
+  "tool": "windsurf",
+  "date": "2024-09-12",
+  "previous_capture": "2024-07-02",
+  "change": "(Codeium) Teams up from $12 to $15 per seat/mo.",
+  "source": "https://web.archive.org/web/20240912213058/https://codeium.com/pricing",
+  "previous_source": "https://web.archive.org/web/20240702091032/https://codeium.com/pricing"
+ },
+ {
+  "tool": "windsurf",
+  "date": "2024-11-13",
+  "previous_capture": "2024-09-12",
+  "change": "(Codeium) Pro plan added at $10/mo; Teams now $24/seat.",
+  "source": "https://web.archive.org/web/20241113192745/https://codeium.com/pricing",
+  "previous_source": "https://web.archive.org/web/20240912213058/https://codeium.com/pricing"
+ },
+ {
+  "tool": "windsurf",
+  "date": "2025-01-02",
+  "previous_capture": "2024-11-13",
+  "change": "Pro up from $10 to $15/mo; Pro Ultimate added at $60/mo.",
+  "source": "https://web.archive.org/web/20250102033346/https://codeium.com/pricing",
+  "previous_source": "https://web.archive.org/web/20241113192745/https://codeium.com/pricing"
+ },
+ {
+  "tool": "windsurf",
+  "date": "2025-03-01",
+  "previous_capture": "2025-01-02",
+  "change": "Teams $35/user and Teams Ultimate $90/user listed.",
+  "source": "https://web.archive.org/web/20250301004626/https://codeium.com/pricing",
+  "previous_source": "https://web.archive.org/web/20250102033346/https://codeium.com/pricing"
+ },
+ {
+  "tool": "windsurf",
+  "date": "2025-05-03",
+  "previous_capture": "2025-03-01",
+  "change": "Plans simplified: Pro $15, Teams $30/user, Enterprise from $60/user; Ultimate tiers gone.",
+  "source": "https://web.archive.org/web/20250503174853/https://windsurf.com/pricing",
+  "previous_source": "https://web.archive.org/web/20250301004626/https://codeium.com/pricing"
+ },
+ {
+  "tool": "replit",
+  "date": "2024-11-10",
+  "previous_capture": "2024-09-02",
+  "change": "Replit Core shown as $15/mo (before: $120/yr). Could be a monthly display rather than a price change.",
+  "source": "https://web.archive.org/web/20241110231551/https://replit.com/pricing",
+  "previous_source": "https://web.archive.org/web/20240902043747/https://replit.com/pricing"
+ },
+ {
+  "tool": "replit",
+  "date": "2025-01-03",
+  "previous_capture": "2024-11-10",
+  "change": "Core now includes $25/mo of usage credits; Teams $40/user in credits; pay-as-you-go after.",
+  "source": "https://web.archive.org/web/20250103131859/https://replit.com/pricing",
+  "previous_source": "https://web.archive.org/web/20241110231551/https://replit.com/pricing"
+ },
+ {
+  "tool": "replit",
+  "date": "2025-05-04",
+  "previous_capture": "2025-03-01",
+  "change": "Core up from $15 to $20/mo; Teams listed at $35/user.",
+  "source": "https://web.archive.org/web/20250504133953/https://replit.com/pricing",
+  "previous_source": "https://web.archive.org/web/20250301224141/https://replit.com/pricing"
+ },
+ {
+  "tool": "lovable",
+  "date": "2025-01-16",
+  "previous_capture": "2024-11-22",
+  "change": "Scale tier ($200/mo) replaced by Scale 1 at $100/mo; Starter $20, Launch $50 unchanged.",
+  "source": "https://web.archive.org/web/20250116013033/https://lovable.dev/pricing",
+  "previous_source": "https://web.archive.org/web/20241122200902/https://lovable.dev/pricing"
+ },
+ {
+  "tool": "lovable",
+  "date": "2025-05-08",
+  "previous_capture": "2025-03-23",
+  "change": "New plans: Free $0, Pro $25/mo, Teams $30/mo (Starter $20 and Launch $50 gone).",
+  "source": "https://web.archive.org/web/20250508202137/https://lovable.dev/pricing",
+  "previous_source": "https://web.archive.org/web/20250323115415/https://lovable.dev/pricing"
+ },
+ {
+  "tool": "lovable",
+  "date": "2025-09-05",
+  "previous_capture": "2025-07-04",
+  "change": "Business plan at $50/mo listed (Pro stays $25).",
+  "source": "https://web.archive.org/web/20250905143121/https://lovable.dev/pricing",
+  "previous_source": "https://web.archive.org/web/20250704005822/https://lovable.dev/pricing"
+ },
+ {
+  "tool": "windsurf",
+  "date": "2026-10-16",
+  "previous_capture": "2026-01-02",
+  "change": "Pro up from $15 to $20/mo; Max plan added at $200/mo; Teams now $80/mo per team + $40/mo per full seat.",
+  "source": "live snapshot data/snapshots/windsurf/2026-10-16.txt",
+  "previous_source": "https://web.archive.org/web/20260102020917/https://windsurf.com/pricing"
+ },
+ {
+  "tool": "cursor",
+  "date": "2026-10-16",
+  "previous_capture": "2026-09-02",
+  "change": "The live pricing page now lists Free, Plus $8, Premium $30, Super $100, Ultra $200 and Teams $30/user, with notes like 'Only Grok models are available on this plan'. The 2026-09-02 capture showed Individual $20/mo (Pro/Pro+/Ultra) and Teams $40/user. Big change: confirm by hand.",
+  "source": "live snapshot data/snapshots/cursor/2026-10-16.txt",
+  "previous_source": "https://web.archive.org/web/20260902024928/https://cursor.com/pricing"
+ },
+ {
+  "tool": "github-copilot",
+  "date": "2026-10-16",
+  "previous_capture": "2025-09-01",
+  "change": "Max plan at $100/mo now listed (Free $0, Pro $10, Pro+ $39).",
+  "source": "live snapshot data/snapshots/github-copilot/2026-10-16.txt",
+  "previous_source": "https://web.archive.org/web/20250901141016/https://github.com/features/copilot/plans"
+ },
+ {
+  "tool": "chatgpt-codex",
+  "date": "2026-10-16",
+  "previous_capture": "2025-09-04",
+  "change": "Go plan now listed (CA$11/mo from a Canadian IP). USD price not checked.",
+  "source": "live snapshot data/snapshots/chatgpt-codex/2026-10-16.txt",
+  "previous_source": "https://web.archive.org/web/20250904160806/https://openai.com/chatgpt/pricing"
+ }
+]

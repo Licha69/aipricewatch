@@ -1,0 +1,343 @@
+ARCHIVE https://web.archive.org/web/20260901215950/https://claude.com/pricing
+Meet Claude
+Platform
+Solutions
+Pricing
+Resources
+Login
+Contact sales
+Contact sales
+Try Claude
+Try Claude
+Pricing
+Explore here
+Pricing
+Individual
+Team & Enterprise
+API
+Free
+Try Claude
+$0
+Free for everyone
+Try Claude
+Try Claude
+Chat on web, iOS, Android, and on your desktop
+Generate code and visualize data
+Write, edit, and create content
+Ability to search the web
+Memory across conversations
+Create files and execute code
+Unlock more from Claude with desktop extensions
+Connect Slack and Google Workspace services
+Integrate any context or tool through connectors with remote MCP
+Extended thinking for complex work
+Pro
+For everyday productivity
+$17
+Per month with annual subscription discount ($200 billed up front). $20 if billed monthly.
+Try Claude
+Try Claude
+Everything in Free, plus:
+More usage*
+Includes Claude Code
+Includes Claude Cowork
+Includes Claude Design
+Includes Claude Science
+Access to unlimited projects to organize chats and documents
+Access to Research
+Ability to use more Claude models
+Claude for Microsoft 365
+Max
+Get the most out of Claude
+From $100
+Per month
+Try Claude
+Try Claude
+Everything in Pro, plus:
+Choose 5x or 20x more usage than Pro*
+Higher output limits for all tasks
+Early access to advanced Claude features
+Priority access at high traffic times
+Usage limits apply. Prices shown don’t include applicable tax. Price and plans are subject to change at Anthropic's discretion.
+Compare features across plans
+Search
+Free
+Try Claude
+Try Claude
+Pro
+Try Claude
+Try Claude
+Max 5x
+Try Claude
+Try Claude
+Max 20x
+Try Claude
+Try Claude
+Features and capabilities
+Features Free Pro Max 5x Max 20x
+Chat on web, iOS, Android and Desktop
+Claude Code
+Claude Cowork
+Claude Design
+Claude Science
+@Claude
+Ability to search the web
+Desktop extensions
+Voice mode
+Incognito chats
+User preferences
+Artifacts
+Projects
+Project sharing and collaboration
+Create and edit files with code execution
+Research
+Memory
+Skills
+Connectors
+Web search
+Enterprise search
+Claude in Chrome
+Claude for Microsoft 365
+Claude for Microsoft Outlook
+Security and administration
+Features Free Pro Max 5x Max 20x
+Single sign-on (SSO) and domain capture
+Central billing and administration
+Admin controls for remote and local connectors
+Enterprise deployment for the Claude desktop app
+Role-based access
+System for Cross-domain Identity Management (SCIM)
+Audit logs
+Usage analytics
+Compliance API
+HIPAA-ready offering
+Custom data retention controls
+Organization wide skills deployment
+Payment options
+Features Free Pro Max 5x Max 20x
+Credit card
+n/a
+ACH
+Invoicing / net terms
+Billing cycle
+n/a
+Monthly and annual
+Monthly and annual
+Monthly and annual
+Adding seats midterm
+n/a
+n/a
+n/a
+n/a
+Models and usage
+Features Free Pro Max 5x Max 20x
+Fable
+Usage credits
+50% of weekly limits*
+50% of weekly limits*
+Opus
+Sonnet
+Haiku
+Context window
+200k
+200k
+200k
+200k
+Usage credits
+Priority access at high traffic times
+User and organizational level spend controls
+Model training
+Opt-out
+Opt-out
+Opt-out
+Opt-out
+FAQ
+Plans and usage
+Billing and payments
+Managing your plan
+Plans and usage
+What do I get with Claude Pro?
+How is Claude Max different from Pro?
+What are the usage limits on each plan, and what happens when I hit them?
+Is Claude Code included in my plan?
+How much does the Claude Enterprise plan cost?
+Homepage
+Next
+Anthropic
+© 2026 ANTHROPIC PBC
+Products
+Claude
+Claude
+Claude Code
+Claude Code
+Claude Code for Enterprise
+Claude Code for Enterprise
+Claude Cowork
+Claude Cowork
+@Claude
+@Claude
+Claude Design
+Claude Design
+Claude Science
+Claude Science
+Claude Security
+Claude Security
+Download app
+Download app
+Pricing
+Pricing
+Log in
+Log in
+Features
+Claude in Chrome
+Claude in Chrome
+Claude for Microsoft 365
+Claude for Microsoft 365
+Skills
+Skills
+Models
+Mythos
+Mythos
+Fable
+Fable
+Opus
+Opus
+Sonnet
+Sonnet
+Haiku
+Haiku
+Solutions
+AI agents
+AI agents
+Code modernization
+Code modernization
+Coding
+Coding
+Customer support
+Customer support
+Cybersecurity
+Cybersecurity
+Enterprise
+Enterprise
+Financial services
+Financial services
+Government
+Government
+Healthcare
+Healthcare
+Higher education
+Higher education
+K-12 teachers
+K-12 teachers
+Legal
+Legal
+Life sciences
+Life sciences
+Nonprofits
+Nonprofits
+Small business
+Small business
+Claude Platform
+Overview
+Overview
+Developer docs
+Developer docs
+Pricing
+Pricing
+Ecosystem
+Ecosystem
+Marketplace
+Marketplace
+Claude on AWS
+Claude on AWS
+Google Cloud
+Google Cloud
+Microsoft Foundry
+Microsoft Foundry
+Regional compliance
+Regional compliance
+Console login
+Console login
+Resources
+Blog
+Blog
+Claude partner network
+Claude partner network
+Community
+Community
+Connectors
+Connectors
+Courses
+Courses
+Customer stories
+Customer stories
+Engineering at Anthropic
+Engineering at Anthropic
+Events
+Events
+Plugins
+Plugins
+Powered by Claude
+Powered by Claude
+Service partners
+Service partners
+Tutorials
+Tutorials
+Use cases
+Use cases
+Company
+Anthropic
+Anthropic
+Careers
+Careers
+Policy
+Policy
+Economic Futures
+Economic Futures
+Research
+Research
+News
+News
+Policy on the AI Exponential
+Policy on the AI Exponential
+Responsible Scaling Policy
+Responsible Scaling Policy
+Security and compliance
+Security and compliance
+Transparency
+Transparency
+Programs
+Startups
+Startups
+Scientists
+Scientists
+Help and security
+Availability
+Availability
+Status
+Status
+Report abuse
+Report abuse
+Support center
+Support center
+Terms and policies
+Privacy choices
+Privacy policy
+Privacy policy
+Responsible disclosure policy
+Responsible disclosure policy
+Terms of service: Commercial
+Terms of service: Commercial
+Terms of service: Consumer
+Terms of service: Consumer
+Terms of Service: US K-12
+Terms of Service: US K-12
+Data Processing Agreement: US K-12
+Data Processing Agreement: US K-12
+Usage policy
+Usage policy
+x.com
+LinkedIn
+YouTube
+Instagram
+English (US)

@@ -1,0 +1,187 @@
+ARCHIVE https://web.archive.org/web/20260102030411/https://cursor.com/pricing
+Skip to content
+Cursor
+Features
+Enterprise
+Pricing
+Resources
+↓
+Sign in
+Download
+Pricing
+Monthly
+Yearly
+Individual Plans
+Hobby
+Free
+Includes:
+✓
+One-week Pro trial
+✓
+Limited Agent requests
+✓
+Limited Tab completions
+Download
+Pro
+$20
+/ mo.
+Everything in Hobby, plus:
+✓
+Extended limits on Agent
+✓
+Unlimited Tab completions
+✓
+Background Agents
+✓
+Maximum context windows
+Get Pro
+Pro+
+Recommended
+$60
+/ mo.
+Everything in Pro, plus:
+✓
+3x usage on all OpenAI, Claude, Gemini models
+Get Pro+
+Ultra
+$200
+/ mo.
+Everything in Pro, plus:
+✓
+20x usage on all OpenAI, Claude, Gemini models
+✓
+Priority access to new features
+Get Ultra
+Business Plans
+Teams
+$40
+/ user / mo.
+Everything in Pro, plus:
+✓
+Shared chats, commands, and rules
+✓
+Centralized team billing
+✓
+Usage analytics and reporting
+✓
+Org-wide privacy mode controls
+✓
+Role-based access control
+✓
+SAML/OIDC SSO
+Get Teams
+Enterprise
+Custom
+Everything in Teams, plus:
+✓
+Pooled usage
+✓
+Invoice/PO billing
+✓
+SCIM seat management
+✓
+AI code tracking API and audit logs
+✓
+Granular admin and model controls
+✓
+Priority support and account management
+Contact Sales
+Bugbot Add-on
+Free
+$0
+Includes:
+✓
+Limited code reviews each month
+✓
+Unlimited access to Cursor Ask
+✓
+Cursor connection to auto-fix bugs
+✓
+GitHub integration
+Try Bugbot
+Pro
+$40
+/ user / mo.
+Everything in Free, plus:
+✓
+14 day individual trial
+✓
+Unlimited reviews on up to 200 PRs/month
+✓
+Access to Bugbot Rules
+Get Bugbot Pro
+Teams
+$40
+/ user / mo.
+Everything in Pro, plus:
+✓
+14-day team trial
+✓
+Unlimited code reviews on all PRs
+✓
+Analytics and reporting dashboard
+✓
+Advanced rules and settings
+Get Bugbot Teams
+Enterprise
+Custom
+Everything in Teams, plus:
+✓
+30-day org-wide trial
+✓
+Advanced analytics and reporting
+✓
+Priority support and account management
+Contact Sales
+Trusted every day by millions of professional developers.
+Questions & Answers
+What is the right plan for me?
+↓
+What are my payment options?
+↓
+How does usage-based pricing work?
+↓
+How can I see and manage Cursor's usage in my organization?
+↓
+How does Cursor use my data?
+↓
+Where can I ask more questions?
+↓
+Product
+Features
+Enterprise
+Web Agents
+Bugbot
+CLI
+Pricing
+Resources
+Download
+Changelog
+Docs ↗
+Learn ↗
+Forum ↗
+Status ↗
+Company
+Careers
+Blog
+Community
+Workshops
+Students
+Brand
+Legal
+Terms of Service
+Privacy Policy
+Data Use
+Security
+Connect
+X ↗
+LinkedIn ↗
+YouTube ↗
+© 2025 Cursor
+🛡 SOC 2 Certified
+🖥
+☉
+☾
+🌐
+English
+↓

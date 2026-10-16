@@ -1,0 +1,150 @@
+ARCHIVE https://web.archive.org/web/20240701162041/https://github.com/features/copilot/plans
+Skip to content
+Join us for the 10th anniversary of GitHub Universe. Get tickets now for 35% off, only until July 8.
+Navigation Menu
+Product
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Search or jump to...
+Sign in
+Sign up
+Pricing
+Take flight with GitHub Copilot.
+Organizations and developers all over the world use GitHub Copilot to code faster, drive impact, and focus on doing what matters most: building great software.
+Copilot
+Individual
+For individual developers, freelancers, students, and educators that want to code faster and happier.
+$
+10
+USD
+per month / $100 USD per year
+Start a free trial
+Free for verified students, teachers, and maintainers of popular open source projects.
+Most popular
+Copilot
+Business
+For organizations ready to improve engineering velocity, code quality, and developer experience.
+$
+19
+USD
+per user / month
+Buy now
+Contact sales
+New
+Copilot
+Enterprise
+For companies looking to customize GitHub Copilot to their organization and infuse AI across the developer workflow.
+$
+39
+USD
+per user / month
+Contact sales
+Compare features
+Individual
+$
+10
+per user
+per month
+Business
+$
+19
+per user
+per month
+Enterprise
+$
+39
+per user
+per month
+Chat
+Unlimited messages and interactions
+Context-aware coding support and explanations
+Debugging and security remediation assistance
+Conversations tailored to your organization’s repositories
+Answers based on your organization’s knowledge base
+Access to knowledge from top open source repositories
+Pull request diff analysis
+Web search powered by Bing (beta)
+Code completion
+Real time code suggestions
+Comments to code
+Fine-tuned models (coming soon as add-on)
+Smart actions
+Inline chat and prompt suggestions
+Slash commands and context variables
+Commit message generation
+Pull request description and summarization
+Supported environments
+IDE, CLI and GitHub Mobile
+GitHub.com
+Management and policies
+Public code filter
+User management
+Data excluded from training by default
+IP indemnity
+Content exclusions
+SAML SSO authentication¹
+Requires GitHub Enterprise Cloud
+Start a free trial
+Buy now
+Contact sales
+Need human help?
+Let’s define how to propel your team into a new era.
+Contact sales
+Authentication with SAML single sign-on (SSO) available for organizations using GitHub Enterprise Cloud.
+Site-wide Links
+Subscribe to our developer newsletter
+Get tips, technical guides, and best practices. Twice a month. Right in your inbox.
+Subscribe
+Product
+Features
+Enterprise
+Copilot
+Security
+Pricing
+Team
+Resources
+Roadmap
+Compare GitHub
+Platform
+Developer API
+Partners
+Education
+Electron
+GitHub CLI
+GitHub Desktop
+GitHub Mobile
+Support
+Docs
+Community Forum
+Professional Services
+Premium Support
+Skills
+Status
+Contact GitHub
+Company
+About
+Customer stories
+Blog
+The ReadME Project
+Careers
+Press
+Inclusion
+Social Impact
+Shop
+© 2024 GitHub, Inc.
+Terms
+Privacy (Updated 08/2022)
+Sitemap
+What is Git?
+Manage cookies
+Do not share my personal information
+GitHub on X
+GitHub on Facebook
+GitHub on LinkedIn
+GitHub on YouTube
+GitHub on Twitch
+GitHub on TikTok
+GitHub’s organization on GitHub

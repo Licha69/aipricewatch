@@ -1,0 +1,387 @@
+ARCHIVE https://web.archive.org/web/20250501174406/https://github.com/features/copilot/plans
+Skip to content
+Navigation Menu
+Product
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+GitHub Copilot
+For business
+Extensions
+Tutorials
+What’s new
+Plans & pricing
+Take flight with GitHub Copilot
+Pricing plans
+For individuals
+For businesses
+Free
+A fast way to get started with GitHub Copilot.
+$0
+USD
+Get started
+Open in VS Code
+What's included
+Pro
+Most popular
+Unlimited completions and chats with access to more models.
+$19
+$10
+USD
+per month or $100 per year
+Try for 30 days free
+What's included
+Free for verified students, teachers, and maintainers of popular open source projects. Learn more
+Pro+
+Maximum flexibility and model choice.
+$39
+USD
+per month or $390 per year
+Get started
+What's included
+GitHub Copilot is available on your favorite platforms:
+GitHub
+GitHub
+VS Code
+VS Code
+Visual Studio
+Visual Studio
+Xcode
+Xcode
+JetBrains
+IDEs
+JetBrains IDEs
+Neovim
+Neovim
+Azure
+Data Studio
+Azure Data Studio
+Eclipse
+Eclipse
+Compare features
+Pricing plans
+Free
+$0
+Get started
+Pro
+$10 per month
+Get started
+Pro+
+$39 per month
+Get started
+Agents
+Agent mode
+Up to 50 per month
+Unlimited with GPT-4o
+Unlimited with GPT-4o
+Code review
+Not included
+Included
+Included
+Copilot Extensions
+Included
+Included
+Included
+Premium requests
+Premium requests
+Copilot Chat, agent mode, code review, and Copilot Extensions use premium requests, with usage varying by model. Learn more
+Up to 50 per month
+Up to 300 per month
+Up to 1,500 per month
+Purchase additional premium requests at $0.04/request1
+Not included
+Included
+Included
+Chat
+Interactions
+Up to 50 per month
+Unlimited with GPT-4o
+Unlimited with GPT-4o
+Inline chat
+Included
+Included
+Included
+Generate tests, docs, and more with slash commands
+Included
+Included
+Included
+Available models in chat
+Anthropic Claude 3.5 Sonnet
+Anthropic Claude 3.7 Sonnet
+Anthropic Claude 3.7 Sonnet Thinking
+Google Gemini 2.0 Flash
+Google Gemini 2.5 Pro (Preview)
+OpenAI GPT-4.5 (Preview)
+OpenAI GPT-4.1 (Preview)
+OpenAI o1 (Preview)
+OpenAI o3 (Preview)
+OpenAI o3-mini
+OpenAI o4-mini (Preview)
+Anthropic Claude 3.5 Sonnet
+Anthropic Claude 3.7 Sonnet
+Anthropic Claude 3.7 Sonnet Thinking
+Google Gemini 2.0 Flash
+Google Gemini 2.5 Pro (Preview)
+OpenAI GPT-4.5 (Preview)
+OpenAI GPT-4.1 (Preview)
+OpenAI o1 (Preview)
+OpenAI o3 (Preview)
+OpenAI o3-mini
+OpenAI o4-mini (Preview)
+Anthropic Claude 3.5 Sonnet
+Anthropic Claude 3.7 Sonnet
+Anthropic Claude 3.7 Sonnet Thinking
+Google Gemini 2.0 Flash
+Google Gemini 2.5 Pro (Preview)
+OpenAI GPT-4.5 (Preview)
+OpenAI GPT-4.1 (Preview)
+OpenAI o1 (Preview)
+OpenAI o3 (Preview)
+OpenAI o3-mini
+OpenAI o4-mini (Preview)
+Context-aware coding support and explanations
+Included
+Included
+Included
+Debugging and security remediation assistance
+Included
+Included
+Included
+Access to knowledge from top open source repositories
+Included
+Included
+Included
+Preview
+Web search powered by Bing
+Included
+Included
+Included
+Preview
+Explain failed Actions jobs
+Included
+Included
+Included
+Answers about issues, PRs, discussions, files, commits, etc.
+Included
+Included
+Included
+Multi-file editing in VS Code
+Included
+Included
+Included
+Code completion
+Real-time code suggestions with OpenAI GPT-4o Copilot
+Up to 2,000 per month
+Unlimited
+Unlimited
+Next edit suggestions
+Included
+Included
+Included
+Comments to code
+Included
+Included
+Included
+Customization
+Tailor chat conversations to your private codebase (unlimited repositories indexed)
+Included
+Included
+Included
+Unlimited integrations with GitHub Copilot Extensions
+Included
+Included
+Included
+Build a private extension for internal tooling
+Included
+Included
+Included
+Personalize responses with custom instructions
+Included
+Included
+Included
+Attach knowledge bases to chat for organizational context
+Not included
+Not included
+Not included
+Fine-tuned models for code completion (coming soon as add-on)
+Not included
+Not included
+Not included
+AI-native experiences
+Inline chat and prompt suggestions
+Included
+Included
+Included
+Slash commands and context variables
+Included
+Included
+Included
+Commit message generation
+Included
+Included
+Included
+Summaries for pull requests, issues, and discussions
+Not included
+Included
+Included
+Preview
+Code feedback in VS Code
+Included
+Included
+Included
+Explanations in Visual Studio’s Quick Info
+Included
+Included
+Included
+Debug assistant in Visual Studio
+Included
+Included
+Included
+Preview
+Upgrade assistant for Java in VS Code
+Not included
+Included
+Included
+Supported environments
+Editors and IDEs
+See all the supported editors
+Included
+Included
+Included
+github.com
+Included
+Included
+Included
+GitHub Mobile
+Included
+Included
+Included
+GitHub CLI and Windows Terminal
+Included
+Included
+Included
+Management and policies
+Public code filter with code referencing
+Included
+Included
+Included
+User management
+Not included
+Not included
+Not included
+Data excluded from training by default
+Included
+Included
+Included
+Enterprise-grade security
+Not included
+Not included
+Not included
+IP indemnity
+Not included
+Not included
+Not included
+Content exclusions
+Not included
+Not included
+Not included
+SAML SSO authentication2
+Not included
+Not included
+Not included
+Usage metrics
+Not included
+Not included
+Not included
+Requires GitHub Enterprise Cloud
+Not included
+Not included
+Not included
+Getting started
+Start using Copilot in your favorite platforms
+GitHub
+VS Code
+Visual Studio
+Xcode
+JetBrains IDEs
+Neovim
+Azure Data Studio
+Eclipse
+Need human help? Let’s define how to propel your team into a new era.
+Contact sales
+Frequently asked questions
+General
+Plans & pricing
+Privacy
+Responsible AI
+General
+What is GitHub Copilot?
+Who is eligible to access GitHub Copilot for free?
+What languages, IDEs, and platforms does GitHub Copilot support?
+Does GitHub Copilot “copy/paste”?
+What are the differences between the GitHub Copilot Business, GitHub Copilot Enterprise, and GitHub Copilot Individual plans?
+What data has GitHub Copilot been trained on?
+Which plan includes GitHub Copilot Autofix?
+What if I do not want GitHub Copilot?
+How do I control access to GitHub Copilot in my company?
+Footnotes
+Option to purchase additional premium requests not available to users that subscribe or have subscribed to Pro or Pro+ through GitHub Mobile on iOS or Android.
+Authentication with SAML single sign-on (SSO) available for organizations using GitHub Enterprise Cloud.
+Site-wide Links
+Subscribe to our developer newsletter
+Get tips, technical guides, and best practices. Twice a month. Right in your inbox.
+Subscribe
+Product
+Features
+Enterprise
+Copilot
+Security
+Pricing
+Team
+Resources
+Roadmap
+Compare GitHub
+Platform
+Developer API
+Partners
+Education
+GitHub CLI
+GitHub Desktop
+GitHub Mobile
+Support
+Docs
+Community Forum
+Professional Services
+Premium Support
+Skills
+Status
+Contact GitHub
+Company
+About
+Why GitHub
+Customer stories
+Blog
+The ReadME Project
+Careers
+Newsroom
+Inclusion
+Social Impact
+Shop
+© 2025 GitHub, Inc.
+Terms
+Privacy (Updated 02/2024)
+Sitemap
+What is Git?
+Manage cookies
+Do not share my personal information
+GitHub on LinkedIn
+GitHub on Instagram
+GitHub on YouTube
+GitHub on X
+GitHub on TikTok
+GitHub on Twitch
+GitHub’s organization on GitHub

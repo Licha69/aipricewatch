@@ -1,0 +1,220 @@
+ARCHIVE https://web.archive.org/web/20250501055413/https://www.anthropic.com/pricing
+Skip to main content
+Skip to footer
+Claude
+API
+Solutions
+Research
+Commitments
+Learn
+News
+EN
+Try ClaudeTry Claude
+Try Claude
+Download AppDownload App
+Download App
+Claude
+API
+Solutions
+Research
+Commitments
+Learn
+News
+EN
+Try ClaudeTry Claude
+Try Claude
+Download AppDownload App
+Download App
+Pricing
+Pricing
+Individual
+Team & Enterprise
+API
+Free
+Try Claude
+$0
+Free for everyone
+Try ClaudeTry Claude
+Try Claude
+Chat on web, iOS, and Android
+Generate code and visualize data
+Write, edit, and create content
+Analyze text and images
+Pro
+For everyday productivity
+$17
+Per month with annual subscription discount; $200 billed up front. $20 if billed monthly.
+Try ClaudeTry Claude
+Try Claude
+Everything in Free, plus:
+More usage
+Access to Projects to organize chats and documents
+Ability to use more Claude models
+Extended thinking for complex work
+Max
+5x–20x more usage than Pro
+From $100
+Per person billed monthly
+Try ClaudeTry Claude
+Try Claude
+Everything in Pro, plus:
+Substantially more usage of Claude
+Scale usage based on specific needs
+Higher output limits for all tasks
+Access to Research that saves hours*
+Early access to advanced Claude features
+Priority access at high traffic times
+Prices shown do not include applicable tax. Usage limits may apply.*
+Research is in early beta and currently available in the US, Japan, and Brazil.
+Team
+For collaboration across organizations
+$25
+Per person / month with annual subscription discount. $30 if billed monthly. Minimum 5 members.
+Create a Team planCreate a Team plan
+Create a Team plan
+Everything in Pro, plus:
+More usage
+Central billing and administration
+Early access to collaboration features
+Enterprise
+For businesses operating at scale
+Contact salesContact sales
+Contact sales
+Everything in Team, plus:
+More usage
+Enhanced context window
+Single sign-on (SSO) and domain capture
+Role-based access with fine grained permissioning
+System for Cross-domain Identity Management (SCIM)
+Audit logs
+Prices shown do not include applicable tax. Usage limits may apply.
+Education plan
+A comprehensive university‐wide plan for institutions, including its students, faculty, and staff.
+Learn moreLearn more
+Learn more
+Student & faculty access
+Comprehensive access for all university members at discounted rates
+Academic research & learning mode
+Dedicated API credits and educational features for student learning
+Training & enablement
+Resources for successful adoption across your institution
+Explore latest models
+Claude 3.7 Sonnet
+Most intelligent model, with visible step‑by‑step reasoning
+200K context window
+50% discount with batch processing*
+Input
+$3 / MTok
+Prompt caching write
+$3.75 / MTok
+Prompt caching read
+$0.30 / MTok
+Output
+$15 / MTok
+Claude 3.5 Haiku
+Fastest, most cost-effective model**
+200K context window
+50% discount with batch processing*
+Input
+$0.80 / MTok
+Prompt caching write
+$1 / MTok
+Prompt caching read
+$0.08 / MTok
+Output
+$4 / MTok
+Claude 3 Opus
+Powerful model for complex tasks
+200K context window
+50% discount with batch processing*
+Input
+$15 / MTok
+Prompt caching write
+$18.75 / MTok
+Prompt caching read
+$1.50 / MTok
+Output
+$75 / MTok
+*Learn more about batch processing
+**Claude 3.5 Haiku in Amazon Bedrock supports latency optimization for 60% faster inference speed, starting at $1 per million input tokens and $5 per million output tokens
+Start buildingStart building
+Start building
+Explore legacy models
+Claude 3.5 Sonnet
+200K context window
+50% discount with batch processing*
+Input
+$3 / MTok
+Prompt caching write
+$3.75 / MTok
+Prompt caching read
+$0.30 / MTok
+Output
+$15 / MTok
+Claude 3 Haiku
+200K context window
+50% discount with batch processing*
+Input
+$0.25 / MTok
+Prompt caching write
+$0.30 / MTok
+Prompt caching read
+$0.03 / MTok
+Output
+$1.25 / MTok
+*Learn more about batch processing
+Learn moreLearn more
+Learn more
+Footer
+Product
+Claude overview
+Claude Code
+Claude team plan
+Claude enterprise plan
+Claude education plan
+Download Claude apps
+Claude.ai pricing plans
+Claude.ai login
+API Platform
+API overview
+Developer docs
+Claude in Amazon Bedrock
+Claude on Google Cloud’s Vertex AI
+Pricing
+Console login
+Research
+Research overview
+Economic Index
+Claude models
+Claude 3.7 Sonnet
+Claude 3.5 Haiku
+Claude 3 Opus
+Commitments
+Transparency
+Responsible scaling policy
+Security and compliance
+Solutions
+AI agents
+Coding
+Customer support
+Learn
+Anthropic Academy
+Customer stories
+Engineering at Anthropic
+Explore
+About us
+Become a partner
+Careers
+News
+Help and security
+Status
+Availability
+Support center
+Terms and policies
+Privacy choices
+Privacy policy
+Responsible disclosure policy
+Terms of service - consumer
+Terms of service - commercial
+Usage policy
+© 2025 Anthropic PBC

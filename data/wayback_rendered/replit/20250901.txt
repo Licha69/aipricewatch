@@ -1,0 +1,224 @@
+ARCHIVE https://web.archive.org/web/20250901092447/https://replit.com/pricing
+Skip to content
+Features
+Replit AI
+Collaboration
+CDE
+Deployments
+Teams
+Pricing
+Guides
+Blog
+Careers
+Log in
+Start building
+Pricing
+Monthly
+Yearly
+Save $60
+Starter
+Free
+Explore the possibilities of making apps on Replit.
+Sign up
+Replit Agent trial included
+10 development apps (with temporary links)
+Public apps only
+Replit Core
+$20
+per month
+billed annually
+Make, launch, and scale your apps.
+Join Replit Core
+Full Replit Agent access
+$25 of monthly credits
+Unlimited public and private apps
+Access to Claude Sonnet 4 & OpenAI GPT-4o
+Deploy and host live apps
+Pay-as-you-go for additional usage
+Teams
+$35
+per user
+per month
+billed annually
+Bring the power of Replit to your entire team.
+Join Replit Teams
+Everything included with Replit Core
+$40/mo in usage credits included
+Credits granted upfront on annual plan
+50 Viewer seats
+Centralized billing
+Role-based access control
+Private deployments
+Pay-as-you-go for additional usage
+Have questions about Teams before buying? Contact Sales
+Enterprise
+Custom pricing
+Meet your security and performance needs.
+Contact us
+Everything in Teams
+Custom Viewer Seats
+SSO/SAML
+SCIM
+Advanced privacy controls
+Custom pricing
+Dedicated support
+Go live with Deployments
+Autoscale Deployments
+Autoscale adapts to your app’s demand, dynamically scaling servers.
+Starting at $1/month with Replit Core
+Reserved VM Deployments
+Reserved VM offers a consistent monthly rate for a VM with 99.9% uptime.
+Starting at $20/month with Replit Core
+Scheduled deployments
+Schedule your applications to run at predetermined time intervals seamlessly.
+Starting at $1/month with Replit Core
+Static deployments
+No server compute means free usage — you are only responsible for outbound data transfer. Replit Core includes 100 GiB per month.
+Starter users get 1 free static deployment
+Compare plans
+Starter
+Core
+Teams
+Enterprise
+Replit AI
+Agent
+Limited
+Assistant (Chat)
+Basic
+Advanced
+Advanced
+Advanced
+Code Completion
+Code Generation
+Basic
+Advanced
+Advanced
+Advanced
+Debugger
+Basic
+Advanced
+Advanced
+Advanced
+Development
+vCPUs
+1
+4
+8
+Up to 64 vCPUs
+Memory (GiB)
+2
+8
+16
+Up to 128 GiB RAM
+Outbound data transfer (GiB)
+1
+100
+1,000
+Custom
+SSH access
+Public Apps
+10
+Unlimited
+Unlimited
+Unlimited
+Private Apps
+Collaborators
+1
+3
+All team members
+All team members
+Development Time (minutes)
+1200
+Unlimited
+Unlimited
+Unlimited
+Storage
+Storage per app (GiB)
+2
+50
+256
+Custom
+Replit Database
+PostgreSQL storage (GiB)
+Custom
+PostgreSQL compute (hours)
+Custom
+App Storage
+App Storage data transfer (GiB)
+App Storage advanced operations
+App Storage basic operations
+Deployments
+Outbound data transfer (GiB)
+10
+100
+1,000
+Custom
+Reserved VM deployments
+Autoscale deployments
+Autoscale compute units
+Autoscale requests
+Scheduled deployments
+Scheduled compute units
+Static deployments
+1
+Private deployments
+Security & Compliance
+Role-based access control
+SSO
+Single-tenant with VPC
+Coming soon
+Custom invoicing
+Member Support
+Member Support
+Member-only events
+Early access to new features
+Member community
+Onboarding support
+Get started with Replit Teams
+Get enhanced security and compute for professional developers and teams shipping to production.
+Get started
+"The rapid prototypes we build on Replit shift the dialog from 'Should we?' to 'How should we?' and that's a world of difference when driving substantive change."
+Chris Stevens, CMO of Spot Hero
+Copyright © 2025 Replit, Inc. All rights reserved.
+twitter
+tiktok
+instagram
+facebook
+Replit
+Mobile app
+Blog
+Careers
+About
+Pricing
+Legal
+Terms of Service
+Replit Teams Agreement
+Privacy
+Subprocessors
+DPA
+Report Abuse
+Features
+IDE
+Multiplayer
+Deployments
+Replit AI
+Bounties
+Handy links
+Languages
+Docs
+Support
+Community
+Status
+Import from GitHub
+Copilot alternative
+Brand Kit
+Partnerships
+Programming languages
+Python
+JavaScript
+TypeScript
+Node.js
+Nix
+HTML, CSS, JS
+C++
+Golang

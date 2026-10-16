@@ -1,0 +1,346 @@
+ARCHIVE https://web.archive.org/web/20240403225116/https://openai.com/chatgpt/pricing
+ChatGPT Pricing
+Close
+Search
+Submit
+Skip to main content
+Site Navigation
+Research
+Overview
+Index
+GPT-4
+DALL·E 3
+Sora
+API
+Overview
+Pricing
+Docs
+ChatGPT
+Overview
+Team
+Enterprise
+Pricing
+Try ChatGPT
+Safety
+Company
+About
+Blog
+Careers
+Residency
+Charter
+Security
+Customer stories
+Search
+Navigation quick links
+Log in
+Try ChatGPT
+Menu
+Mobile Navigation
+Close
+Site Navigation
+Research
+Overview
+Index
+GPT-4
+DALL·E 3
+Sora
+API
+Overview
+Pricing
+Docs
+ChatGPT
+Overview
+Team
+Enterprise
+Pricing
+Try ChatGPT
+Safety
+Company
+About
+Blog
+Careers
+Residency
+Charter
+Security
+Customer stories
+Quick Links
+Log in
+Try ChatGPT
+Search
+Submit
+Pricing
+Overview
+Team
+Enterprise
+Pricing
+Try ChatGPT
+Overview
+Team
+Enterprise
+Pricing
+Try ChatGPT
+Pricing
+For individuals
+Free
+For individuals just getting started with ChatGPT
+$0
+Start now
+Included:
+Unlimited messages, interactions, and history
+Access to our GPT-3.5 model
+Access on web, iOS, Android
+See all features
+Model Quality
+Response times limited on bandwidth and availability
+8K context window
+Regular quality & speed updates as models improve
+Privacy
+Opt-out is available for content used to train models.
+Learn more
+Plus
+For individuals looking to amplify their productivity
+$20
+per user
+billed monthly
+Start now
+Everything in Free, and:
+Access to GPT-4, our most capable model
+Browse, create, and use GPTs
+Access to additional tools like DALL·E, Browsing, Advanced Data Analysis, and more
+See all features
+Model Quality
+Fast response time
+32K context window
+Create & share GPTs
+Image generation
+Browsing
+GPT-4 with vision
+Voice input & output
+Advanced Data Analysis (Standard access)
+Privacy
+Opt-out is available for content used to train models.
+Learn more
+For businesses
+Team
+For fast-moving teams looking to supercharge collaboration
+$25
+per user / month
+billed annually
+$30 per user / month billed monthly
+Start now
+Everything in Plus, and:
+Higher message caps on GPT-4 and tools like DALL·E, Browsing, Advanced Data Analysis, and more
+Create and share GPTs with your workspace
+Admin console for workspace management
+Team data excluded from training by default.
+Learn more
+See all features
+Model Quality
+Fast response time
+32K context window
+Create & share GPTs
+Image generation
+Browsing
+GPT-4 with vision
+Voice input & output
+Advanced Data Analysis (Expanded access)
+Privacy
+Content is not used to train models. Read our
+privacy commitments
+Security & Adminitstration
+Dedicated workspace
+Unified billing
+Manage GPTs in your workspace
+Admin console
+Bulk member management
+Admin roles
+SOC 2 Type 1 compliance
+Enterprise
+For innovative companies looking to scale securely
+Contact Sales
+Everything in Team, and:
+Unlimited, high speed access to GPT-4 and tools like DALL·E, Browsing, Advanced Data Analysis, and more
+Expanded context window for longer inputs
+SAML SSO
+Enterprise data excluded from training by default & custom data retention windows.
+Learn more
+Admin controls, domain verification, and analytics
+Priority support & ongoing account management
+See all features
+Model Quality
+Fastest response time
+128K context window
+Create & share GPTs
+Image generation
+Browsing
+GPT-4 with vision
+Voice input & output
+Advanced Data Analysis (Unlimited access)
+Credits to explore our API
+Privacy
+Content is not used to train models. Read our
+privacy commitments
+Security & Adminitstration
+Dedicated workspace
+Unified billing
+Manage GPTs in your workspace
+Admin console
+Bulk member management
+Admin roles
+SOC 2 Type 1 compliance
+SAML SSO
+Domain verification
+Sharing controls
+Workspace GPT Controls
+Analytics dashboard
+Customer Service
+Priority support
+Dedicated onboarding
+Ongoing account management
+Custom security review
+Trusted by teams at
+Compare features across plans
+Free
+Start now
+Plus
+Start now
+Team
+Start now
+Enterprise
+Contact sales
+Essentials
+Messages and interactions
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Chat history
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Access on web, iOS, Android
+Model Quality
+GPT-3.5 access
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+GPT-4 access*
+Standard
+Expanded
+Unlimited
+Response times
+Limited on bandwidth & availability
+Fast
+Fast
+Fastest
+Context window
+8K
+32K
+32K
+128K
+Regular quality & speed updates as models improve
+Features
+Create & share GPTs
+Share GPTs with your workspace
+Image generation
+Browsing
+GPT-4 with vision
+Voice input & output
+Advanced Data Analysis
+Standard
+Expanded
+Unlimited
+Credits to explore our API
+Privacy
+Content is used to train our models
+Opt-out available.
+Learn more
+Opt-out available.
+Learn more
+No. Read our
+privacy commitments
+No. Read our
+privacy commitments
+Custom data retention windows
+Security & Administration
+Multi-factor authentication
+Dedicated workspace
+Unified billing
+GPTs analytics and management
+Admin console
+Bulk member management
+Admin roles
+SOC 2 Type 2 compliance
+SAML SSO
+Domain verification
+Group permissions
+Granular GPT controls
+Analytics dashboard
+Customer Service
+Priority support
+Dedicated onboarding
+Ongoing account management
+Custom security review
+*Based on hourly message capacity
+Q&A
+How does ChatGPT’s pricing work?
+The free version of ChatGPT is available to everyone. Paid plans (Plus, Team, and Enterprise) are priced per user per month. We offer monthly plans for Plus and Team and annual plans for Team and Enterprise.
+Is ChatGPT free to use?
+The free version of ChatGPT is available to everyone. Upgrading to Plus, Team, or Enterprise offers a more powerful experience through additional features and access to GPT-4
+How many users are supported on each subscription plan?
+Free and Plus plans are designed to be used by individuals. Team and Enterprise are for businesses. Team plans are available starting at 2 users. Please
+contact sales
+to learn more about our Enterprise plan.
+What are my payment options?
+You can purchase ChatGPT Plus or Team with any major credit card. For ChatGPT Enterprise, please
+contact sales
+for alternative payment options such as invoicing.
+How secure is ChatGPT?
+All data is encrypted in transit (TLS 1.2). Data at rest is encrypted at rest (AES-256), and strict access controls are used to limit who can access data. Our security team has an on-call rotation that has 24/7/365 coverage and is paged in case of any potential security incident. We offer a
+Bug Bounty Program
+for responsible disclosure of vulnerabilities discovered on our platform and products. Please visit our
+Trust Portal
+for more details.
+How does ChatGPT use my data?
+We give you control over your data. Read more about
+how your data is used
+and our
+Enterprise privacy
+.
+Research
+Overview
+Index
+GPT-4
+DALL·E 3
+Sora
+API
+Overview
+Pricing
+Docs
+ChatGPT
+Overview
+Team
+Enterprise
+Pricing
+Try ChatGPT
+Company
+About
+Blog
+Careers
+Charter
+Security
+Customer stories
+Safety
+OpenAI © 2015 – 2024
+Terms & policies
+Privacy policy
+Brand guidelines
+Social
+Twitter
+YouTube
+GitHub
+SoundCloud
+LinkedIn
+Back to top

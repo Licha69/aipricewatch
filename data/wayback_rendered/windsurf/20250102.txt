@@ -1,0 +1,144 @@
+ARCHIVE https://web.archive.org/web/20250102033346/https://codeium.com/pricing
+Products
+Capabilities
+Engines
+Pricing
+Enterprise
+Resources
+Company
+Download
+Plans and Pricing
+Choose the perfect plan for your journey
+For Individuals
+For Organizations
+Dec 6, 2024: We've made some updates to our pricing structure
+Read more
+Free
+$0
+per month / forever
+Download
+Cascade credits:
+Free one-time trial gift on download: 50 premium User Prompt and 200 premium Flow Action credits
+5 premium model User Prompt credits
+5 premium model Flow Action credits
+Cannot purchase more premium model credits
+Access to Cascade Base model
+Pro
+Popular
+$15
+per month
+Select plan
+Cascade credits:
+500 premium model User Prompt credits
+1,500 premium model Flow Action credits
+Can purchase more premium model
+credits → $10 for 300 additional credits with monthly rollover
+Priority unlimited access to Cascade Base Model
+Pro Ultimate
+$60
+per month
+Select plan
+Cascade credits:
+Infinite premium model User Prompt credits
+3,000 premium model Flow Action credits
+Can purchase more premium model
+credits → $10 for 400 additional credits with monthly rollover
+Priority unlimited access to Cascade Base Model
+Free Base Features:
+Access to the Windsurf Editor
+Access to all Codeium Extensions
+Unlimited AI autocomplete
+Unlimited in-editor AI chats
+Unlimited AI command instructions
+No training non-permissive data
+Basic context awareness
+Limited indexing limits
+Attribution filtering
+Encryption in transit
+Optional zero-day retention
+Pro Base Features:
+Everything in Free base features and
+Priority access to GPT-4o, Claude Sonnet, and larger models
+Unlimited access to Supercomplete
+Expanded context lengths and advanced context awareness
+Increased indexing limits
+Higher limits on custom context and pinned context items
+Fast autocomplete speed
+Ultimate Base Features:
+Everything in Pro base features and
+Priority support
+Want to learn more about Cascade credits?
+Read FAQs
+Read the docs
+Compare Plans and Features
+For Individuals
+For Organizations
+Cascade Usage
+Cascade User Prompt Credits
+Cascade Flow Action Credits
+Can purchase more premium credits
+Premium credits cost
+Features
+Unlimited code autocomplete
+In-editor AI chat assistant
+No training on non-permissive data
+Encryption in transit
+Priority access to GPT-4o, Claude Sonnet, and larger models
+Unlimited access to Supercomplete
+Fast autocomplete speed
+Expanded context length and advanced context awareness
+Increased indexing limits
+Increased custom context limits
+Free
+$0/month
+Download
+5
+5
+N/A
+Pro
+$15/month
+Select plan
+500
+1,500
+$10 for additional 300 Flow Action and User Prompt credits
+Pro Ultimate
+$60/month
+Select plan
+Infinite
+3,000
+$10 for additional 400 Flow Action credits
+Frequently Asked Questions
+What are Flow Action and User Prompt credits?
+What happens if I run out of Flow Action or User Prompt credits?
+How can I check my usage?
+What happens to my unused credits for the month?
+Are credits consumed for Command and Chat in Codeium Extensions (VS Code and JetBrains IDEs)?
+Can I still use Cascade on the Free plan?
+How can I control how many purchased credits to give to Flow Actions and User Prompts?
+Where can I see my credit usage with Cascade?
+How do Flow Action and User Prompt credits for Team plans get divided?
+What forms of payment are accepted?
+Still have questions? Reach out to our support team.
+Footer
+Your modern coding superpowers.
+Mail
+mail
+Twitter
+twitter
+Discord
+discord
+LinkedIn
+linkedin
+Reddit
+reddit
+YouTube
+youtube
+Product
+Extensions
+Industry
+Company
+Community
+Resources
+Docs
+Feature Requests
+© 2025 Exafunction, Inc. All rights reserved.

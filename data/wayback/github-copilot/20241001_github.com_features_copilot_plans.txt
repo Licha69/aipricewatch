@@ -1,0 +1,361 @@
+ARCHIVE https://web.archive.org/web/20241001032532/https://github.com/features/copilot/plans
+GitHub Copilot · Your AI pair programmer · GitHub
+Skip to content
+Unlock your flow state with a better developer experience.
+Grab tickets now to GitHub Universe on Oct. 29-30.
+Navigation Menu
+Toggle navigation
+Sign in
+Product
+Actions
+Automate any workflow
+Packages
+Host and manage packages
+Security
+Find and fix vulnerabilities
+Codespaces
+Instant dev environments
+GitHub Copilot
+Write better code with AI
+Code review
+Manage code changes
+Issues
+Plan and track work
+Discussions
+Collaborate outside of code
+Explore
+All features
+Documentation
+GitHub Skills
+Blog
+Solutions
+By size
+Enterprise
+Teams
+Startups
+By industry
+Healthcare
+Financial services
+Manufacturing
+By use case
+CI/CD & Automation
+DevOps
+DevSecOps
+Resources
+Topics
+AI
+DevOps
+Security
+Software Development
+View all
+Explore
+Learning Pathways
+White papers, Ebooks, Webinars
+Customer Stories
+Partners
+Open Source
+GitHub Sponsors
+Fund open source developers
+The ReadME Project
+GitHub community articles
+Repositories
+Topics
+Trending
+Collections
+Enterprise
+Enterprise platform
+AI-powered developer platform
+Available add-ons
+Advanced Security
+Enterprise-grade security features
+GitHub Copilot
+Enterprise-grade AI features
+Premium Support
+Enterprise-grade 24/7 support
+Pricing
+Search or jump to...
+Search code, repositories, users, issues, pull requests...
+Search
+Clear
+Search syntax tips
+Provide feedback
+We read every piece of feedback, and take your input very seriously.
+Include my email address so I can be contacted
+Cancel
+Submit feedback
+Saved searches
+Use saved searches to filter your results more quickly
+Name
+Query
+To see all available qualifiers, see our
+documentation
+.
+Cancel
+Create saved search
+Sign in
+Sign up
+Reseting focus
+You signed in with another tab or window.
+Reload
+to refresh your session.
+You signed out in another tab or window.
+Reload
+to refresh your session.
+You switched accounts on another tab or window.
+Reload
+to refresh your session.
+Dismiss alert
+{{ message }}
+Copilot
+/
+Extensions
+Plans
+Plans
+Pricing
+Take flight with GitHub Copilot.
+Organizations and developers all over the world use GitHub Copilot to code faster, drive impact, and focus on doing what matters most: building great software.
+Copilot
+Individual
+For individual developers, freelancers, students, and educators that want to code faster and happier.
+$
+10
+USD
+per month / $100 USD per year
+Start a free trial
+Free for verified students, teachers, and maintainers of popular open source projects.
+Most popular
+Copilot
+Business
+For organizations ready to improve engineering velocity, code quality, and developer experience.
+$
+19
+USD
+per user / month
+Buy now
+Contact sales
+New
+Copilot
+Enterprise
+For companies looking for the most customization based on their organization’s knowledge and codebase.
+$
+39
+USD
+per user / month
+Contact sales
+Compare features
+Individual
+$
+10
+per user
+per month
+Business
+$
+19
+per user
+per month
+Enterprise
+$
+39
+per user
+per month
+Chat
+Chat
+Unlimited messages and interactions
+Individual
+Business
+Enterprise
+Context-aware coding support and explanations
+Individual
+Business
+Enterprise
+Debugging and security remediation assistance
+Individual
+Business
+Enterprise
+Access to knowledge from top open source repositories²
+Individual
+Business
+Enterprise
+Pull request diff analysis²
+Individual
+Business
+Enterprise
+Web search powered by Bing (Public Beta)
+Individual
+Business
+Enterprise
+Ability to ask about a failed Actions jobs (Public Beta)
+Individual
+Business
+Enterprise
+Answers about issues, PRs, discussions, files, commits etc.²
+Individual
+Business
+Enterprise
+Code completion
+Code completion
+Real time code suggestions
+Individual
+Business
+Enterprise
+Comments to code
+Individual
+Business
+Enterprise
+Customization
+Customization
+Tailor chat conversations to your private codebase (up to 5/50/unlimited repos)²
+Individual
+Business
+Enterprise
+Unlimited integrations with Copilot Extensions (Public Beta)
+Individual
+Business
+Enterprise
+Build a private extension for internal tooling (Public Beta)
+Individual
+Business
+Enterprise
+Attach knowledge bases to chat for organizational context
+Individual
+Business
+Enterprise
+Fine-tuned models for code completion (coming soon as add-on)
+Individual
+Business
+Enterprise
+AI-native experiences
+AI-native experiences
+Inline chat and prompt suggestions
+Individual
+Business
+Enterprise
+Slash commands and context variables
+Individual
+Business
+Enterprise
+Commit message generation
+Individual
+Business
+Enterprise
+Pull request summary generation²
+Individual
+Business
+Enterprise
+Supported environments
+Supported environments
+IDE, CLI and GitHub Mobile
+Individual
+Business
+Enterprise
+GitHub.com²
+Individual
+Business
+Enterprise
+Management and policies
+Management and policies
+Public code filter with code referencing
+Individual
+Business
+Enterprise
+User management
+Individual
+Business
+Enterprise
+Data excluded from training by default
+Individual
+Business
+Enterprise
+Enterprise-grade security
+Individual
+Business
+Enterprise
+IP indemnity
+Individual
+Business
+Enterprise
+Content exclusions
+Individual
+Business
+Enterprise
+SAML SSO authentication¹
+Individual
+Business
+Enterprise
+Requires GitHub Enterprise Cloud
+Individual
+Business
+Enterprise
+Usage metrics
+Individual
+Business
+Enterprise
+Start a free trial
+Buy now
+Contact sales
+Need human help?
+Let’s define how to propel your team into a new era.
+Contact sales
+Authentication with SAML single sign-on (SSO)
+available for organizations using GitHub Enterprise Cloud.
+Feature in public beta for Copilot Individual and Business plans. Requires use of repositories, issues, discussions, Actions, and other features of GitHub.
+Site-wide Links
+Subscribe to our developer newsletter
+Get tips, technical guides, and best practices. Twice a month. Right in your inbox.
+Subscribe
+Product
+Features
+Enterprise
+Copilot
+Security
+Pricing
+Team
+Resources
+Roadmap
+Compare GitHub
+Platform
+Developer API
+Partners
+Education
+GitHub CLI
+GitHub Desktop
+GitHub Mobile
+Support
+Docs
+Community Forum
+Professional Services
+Premium Support
+Skills
+Status
+Contact GitHub
+Company
+About
+Customer stories
+Blog
+The ReadME Project
+Careers
+Newsroom
+Inclusion
+Social Impact
+Shop
+©
+2024
+GitHub, Inc.
+Terms
+Privacy
+(
+Updated
+08/2022
+)
+Sitemap
+What is Git?
+Manage cookies
+Do not share my personal information
+GitHub on X
+GitHub on Facebook
+GitHub on LinkedIn
+GitHub on YouTube
+GitHub on Twitch
+GitHub on TikTok
+GitHub’s organization on GitHub
+You can’t perform that action at this time.

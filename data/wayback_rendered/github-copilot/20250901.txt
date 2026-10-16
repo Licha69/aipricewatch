@@ -1,0 +1,442 @@
+ARCHIVE https://web.archive.org/web/20250901141016/https://github.com/features/copilot/plans
+Skip to content
+Final days: Save $400 on Universe 2025 passes, only until September 17. Register now
+Navigation Menu
+Platform
+Solutions
+Resources
+Open Source
+Enterprise
+Pricing
+Sign in
+Sign up
+GitHub Copilot
+For business
+Extensions
+Tutorials
+What’s new
+Plans & pricing
+Take flight with GitHub Copilot
+Pricing plans
+For individuals
+For businesses
+Free
+A fast way to get started with GitHub Copilot.
+$
+0
+USD
+Get started
+Open in VS Code
+What's included:
+50 agent mode or chat requests per month
+2,000 completions per month
+Access to Claude Sonnet 3.5, GPT-4.1, and more
+Pro
+Most popular
+Unlimited completions and chats with access to more models.
+$
+10
+USD
+per month or $100 per year
+Try for 30 days free
+Everything in Free and:
+Unlimited agent mode and chats with GPT-5 mini
+Unlimited code completions
+Access to code review, Claude Sonnet 4, GPT-5, Gemini 2.5 Pro, and more
+6x more premium requests than Copilot Free to use the latest models, with the option to buy more
+Coding agent (preview)
+Free for verified students, teachers, and maintainers of popular open source projects. Learn more
+Pro+
+Maximum flexibility and model choice.
+$
+39
+USD
+per month or $390 per year
+Get started
+Everything in Pro and:
+Access to all models, including Claude Opus 4.1, o3, and more
+30x more premium requests than Copilot Free to use the latest models, with the option to buy more
+Access to GitHub Spark
+GitHub Copilot is available on your favorite platforms:
+GitHub
+GitHub
+VS Code
+VS Code
+Visual Studio
+Visual Studio
+Xcode
+Xcode
+JetBrains
+IDEs
+JetBrains IDEs
+Neovim
+Neovim
+Azure
+Data Studio
+Azure Data Studio
+Eclipse
+Eclipse
+Raycast
+Raycast
+Compare features
+Pricing plans
+Free
+$0
+Get started
+Pro
+$10 per month
+Get started
+Pro+
+$39 per month
+Get started
+Agents
+Agent mode
+Up to 50 per month
+Unlimited with GPT-4.1
+Unlimited with GPT-4.1
+Code review
+Not included
+Included
+Included
+Preview
+Coding agent
+Not included
+Included
+Included
+Copilot Extensions
+Included
+Included
+Included
+Premium requests
+Premium requests
+Copilot Chat, agent mode, code review, and Copilot Extensions use premium requests, with usage varying by model. Learn more
+Up to 50 per month
+Up to 300 per month
+Up to 1,500 per month
+Purchase additional premium requests at $0.04/request
+Not included
+Included
+Included
+Chat
+Interactions
+Up to 50 per month
+Unlimited with GPT-4.1
+Unlimited with GPT-4.1
+Inline chat
+Included
+Included
+Included
+Generate tests, docs, and more with slash commands
+Included
+Included
+Included
+Available models in chat
+Anthropic Claude Sonnet 3.5
+Anthropic Claude Sonnet 3.7
+Anthropic Claude Sonnet 3.7 Thinking
+Claude Sonnet 4
+Claude Opus 4.1 (Preview)
+Google Gemini 2.0 Flash
+Google Gemini 2.5 Pro
+OpenAI GPT-4.1
+OpenAI GPT-5 (Preview)
+OpenAI GPT-5 mini (Preview)
+OpenAI o3 (Preview)
+OpenAI o3-mini
+OpenAI o4-mini (Preview)
+xAI Grok Code Fast 1 (Preview)
+Anthropic Claude Sonnet 3.5
+Anthropic Claude Sonnet 3.7
+Anthropic Claude Sonnet 3.7 Thinking
+Claude Sonnet 4
+Claude Opus 4.1 (Preview)
+Google Gemini 2.0 Flash
+Google Gemini 2.5 Pro
+OpenAI GPT-4.1
+OpenAI GPT-5 (Preview)
+OpenAI GPT-5 mini (Preview)
+OpenAI o3 (Preview)
+OpenAI o3-mini
+OpenAI o4-mini (Preview)
+xAI Grok Code Fast 1 (Preview)
+Anthropic Claude Sonnet 3.5
+Anthropic Claude Sonnet 3.7
+Anthropic Claude Sonnet 3.7 Thinking
+Claude Sonnet 4
+Claude Opus 4.1 (Preview)
+Google Gemini 2.0 Flash
+Google Gemini 2.5 Pro
+OpenAI GPT-4.1
+OpenAI GPT-5 (Preview)
+OpenAI GPT-5 mini (Preview)
+OpenAI o3 (Preview)
+OpenAI o3-mini
+OpenAI o4-mini (Preview)
+xAI Grok Code Fast 1 (Preview)
+Context-aware coding support and explanations
+Included
+Included
+Included
+Debugging and security remediation assistance
+Included
+Included
+Included
+Access to knowledge from top open source repositories
+Included
+Included
+Included
+Preview
+Web search powered by Bing
+Included
+Included
+Included
+Preview
+Explain failed Actions jobs
+Included
+Included
+Included
+Answers about issues, PRs, discussions, files, commits, etc.
+Included
+Included
+Included
+Multi-file editing in VS Code
+Included
+Included
+Included
+GitHub Spark (Preview)
+Spark messages, powered by Claude Sonnet 3.7
+Not included
+Not included
+Up to 375 per month
+Manual edits
+Not included
+Not included
+Unlimited
+Active app building sessions
+Not included
+Not included
+10 at a time
+Number of apps you can build
+Not included
+Not included
+Unlimited
+Development and production compute, inference, storage, and hosting
+Not included
+Not included
+Included
+Copilot Spaces
+Preview
+Get better answers from GitHub Copilot by grounding it in the right code, docs, and notes.
+Included
+Included
+Included
+Code completion
+Real-time code suggestions with GPT-4.1 Copilot
+Up to 2,000 per month
+Unlimited
+Unlimited
+Next edit suggestions
+Included
+Included
+Included
+Comments to code
+Included
+Included
+Included
+Customization
+Tailor chat conversations to your private codebase (unlimited repositories indexed)
+Included
+Included
+Included
+Unlimited integrations with GitHub Copilot Extensions
+Included
+Included
+Included
+Build a private extension for internal tooling
+Included
+Included
+Included
+Personalize responses with custom instructions
+Included
+Included
+Included
+Attach knowledge bases to chat for organizational context
+Not included
+Not included
+Not included
+AI-native experiences
+Inline chat and prompt suggestions
+Included
+Included
+Included
+Slash commands and context variables
+Included
+Included
+Included
+Commit message generation
+Included
+Included
+Included
+Summaries for pull requests, issues, and discussions
+Not included
+Included
+Included
+Preview
+Code feedback in VS Code
+Included
+Included
+Included
+Explanations in Visual Studio’s Quick Info
+Included
+Included
+Included
+Debug assistant in Visual Studio
+Included
+Included
+Included
+Preview
+Upgrade assistant for Java in VS Code
+Not included
+Included
+Included
+Supported environments
+Editors and IDEs
+See all the supported editors
+Included
+Included
+Included
+github.com
+Included
+Included
+Included
+GitHub Mobile
+Included
+Included
+Included
+GitHub CLI and Windows Terminal
+Included
+Included
+Included
+Management and policies
+Public code filter with code referencing
+Included
+Included
+Included
+User management
+Not included
+Not included
+Not included
+Data excluded from training by default
+Included
+Included
+Included
+Enterprise-grade security
+Not included
+Not included
+Not included
+IP indemnity
+Not included
+Not included
+Not included
+Content exclusions
+Not included
+Not included
+Not included
+SAML SSO authentication
+Not included
+Not included
+Not included
+Usage metrics
+Not included
+Not included
+Not included
+Requires GitHub Enterprise Cloud
+Not included
+Not included
+Not included
+Getting started
+Start using Copilot in your
+favorite platforms
+GitHub
+VS Code
+Visual Studio
+Xcode
+JetBrains IDEs
+Neovim
+Azure Data Studio
+Eclipse
+Raycast
+Need human help? Let’s define how to propel your team into a new era.
+Contact sales
+Frequently asked questions
+General
+Plans & pricing
+Privacy
+Responsible AI
+General
+What is GitHub Copilot?
+Who is eligible to access GitHub Copilot for free?
+What languages, IDEs, and platforms does GitHub Copilot support?
+Does GitHub Copilot “copy/paste”?
+What are the differences between the GitHub Copilot Business, GitHub Copilot Enterprise, and GitHub Copilot Individual plans?
+What data has GitHub Copilot been trained on?
+Which plan includes GitHub Copilot Autofix?
+What if I do not want GitHub Copilot?
+How do I control access to GitHub Copilot in my company?
+Site-wide Links
+Subscribe to our developer newsletter
+Get tips, technical guides, and best practices. Twice a month.
+Subscribe
+Platform
+Features
+Enterprise
+Copilot
+AI
+Security
+Pricing
+Team
+Resources
+Roadmap
+Compare GitHub
+Ecosystem
+Developer API
+Partners
+Education
+GitHub CLI
+GitHub Desktop
+GitHub Mobile
+Support
+Docs
+Community Forum
+Professional Services
+Premium Support
+Skills
+Status
+Contact GitHub
+Company
+About
+Why GitHub
+Customer stories
+Blog
+The ReadME Project
+Careers
+Newsroom
+Inclusion
+Social Impact
+Shop
+© 2025 GitHub, Inc.
+Terms
+Privacy (Updated 02/2024)
+02/2024
+Sitemap
+What is Git?
+Manage cookies
+Do not share my personal information
+GitHub on LinkedIn
+GitHub on Instagram
+GitHub on YouTube
+GitHub on X
+GitHub on TikTok
+GitHub on Twitch
+GitHub’s organization on GitHub
+English

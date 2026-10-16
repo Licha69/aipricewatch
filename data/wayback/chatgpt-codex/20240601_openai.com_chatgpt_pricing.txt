@@ -1,0 +1,243 @@
+ARCHIVE https://web.archive.org/web/20240601130836/https://openai.com/chatgpt/pricing
+ChatGPT Pricing | OpenAI
+Skip to main content
+Research
+Products
+Safety
+Company
+ChatGPT
+Overview
+Team
+Enterprise
+Pricing
+Pricing
+Free
+For individuals just getting started with ChatGPT
+Assistance with writing, problem solving and more
+Access to GPT-3.5
+Limited access to GPT-4o
+Limited access to data analysis, file uploads, vision, web browsing, and custom GPTs
+$0
+/ month
+Start now
+Plus
+For individuals looking to amplify their productivity
+Early access to new features
+Access to GPT-4, GPT-4o, GPT-3.5
+Up to 5x more messages for GPT-4o
+Access to data analysis, file uploads, vision, and web browsing
+DALL•E image generation
+Create and use custom GPTs
+$20
+/ month
+Start now
+Limits apply
+Team
+For fast-moving teams looking to supercharge collaboration
+Everything included in Plus
+Higher message limits on GPT-4, GPT-4o, and tools like DALL·E, Browsing, data analysis, and more
+Create and share GPTs with your workspace
+Admin console for workspace management
+Team data excluded from training by default.
+Learn more
+$25
+per user / month billed annually
+$30
+per user / month billed monthly
+Start now
+Enterprise
+For innovative companies looking to scale securely
+Everything included in Team
+Unlimited, high speed access to GPT-4, GPT-4o, and tools like DALL·E, Browsing, data analysis, and more
+Expanded context window for longer inputs
+Enterprise data excluded from training by default & custom data retention windows.
+Learn more
+Admin controls, domain verification, and analytics
+Priority support & ongoing account management
+Contact sales
+Trusted by teams at
+Compare features across plans
+For Individuals
+For Businesses
+Free
+Start now
+Plus
+Start now
+Team
+Start now
+Enterprise
+Contact sales
+Essentials
+Messages and interactions
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Chat history
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Access on web, iOS, Android
+Model Quality
+GPT-3.5 access
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+GPT-4o
+Limited
+Up to 5x Free
+Higher limits than Plus
+Unlimited
+GPT-4 access*
+Standard
+Expanded
+Unlimited
+Response times
+Limited on bandwidth & availability
+Fast
+Fast
+Fastest
+Context window
+8K
+32K
+32K
+128K
+Regular quality & speed updates as models improve
+Features
+Voice
+Memory
+Browse
+Limited
+Data analysis
+Limited
+Vision
+Limited
+File uploads
+Limited
+Discover & use GPTs
+Limited
+Create & share GPTs
+Share GPTs with your workspace
+Early access to new features
+Image generation
+Interactive tables and charts
+Privacy
+Content is used to train our models
+Opt-out available
+Learn more
+Opt-out available
+Learn more
+No. Read our
+Privacy commitment
+No
+Custom data retention windows
+Security & Administration
+Dedicated workspace
+Unified billing
+GPTs analytics and management
+Admin console
+Bulk member management
+Admin roles
+Soc 2 Type 2 compliance
+SAML SSO
+Domain verification
+Granular GPT controls & group permissions
+Analytics dashboard
+Compliance API
+Customer Service
+Priority support
+Dedicated onboarding
+Ongoing account management
+Custom security review
+*Based on hourly message capacity
+FAQ
+How does ChatGPT’s pricing work?
+The free version of ChatGPT is available to everyone. Paid plans (Plus, Team, and Enterprise) are priced per user per month. We offer monthly plans for Plus and Team and annual plans for Team and Enterprise.
+Is ChatGPT free to use?
+The free version of ChatGPT is available to everyone. Upgrading to Plus, Team, or Enterprise offers a more powerful experience through additional features and access to GPT-4.
+Does OpenAI offer a ChatGPT plan for educational institutions?
+Yes, ChatGPT Edu is an affordable plan built for universities to deploy AI more broadly across their campus communities. Powered by GPT-4o, ChatGPT Edu offers advanced capabilities, robust security and data privacy, and administrative controls.
+Contact our team
+to learn more.
+Does OpenAI offer a discount for nonprofits?
+Yes. Through OpenAI for Nonprofits, eligible nonprofits can receive a 20% discount on subscriptions to ChatGPT Team and a 50% discount to ChatGPT Enterprise.
+To apply for the ChatGPT Team discount,
+click here
+(opens in a new window)
+. To apply for a nonprofit discount on ChatGPT Enterprise, please
+contact sales
+.
+How many users are supported on each subscription plan?
+Free and Plus plans are designed to be used by individuals. Team and Enterprise are for businesses. Team plans are available starting at 2 users. Please
+contact sales
+to learn more about our Enterprise plan.
+What are my payment options?
+You can purchase ChatGPT Plus or Team with any major credit card. For ChatGPT Enterprise, please
+contact sales
+for alternative payment options such as invoicing.
+How secure is ChatGPT?
+All data is encrypted in transit (TLS 1.2). Data at rest is encrypted at rest (AES-256), and strict access controls are used to limit who can access data. Our security team has an on-call rotation that has 24/7/365 coverage and is paged in case of any potential security incident. We offer a
+Bug Bounty Program
+for responsible disclosure of vulnerabilities discovered on our platform and products. Please visit our
+Trust Portal
+(opens in a new window)
+for more details.
+How does ChatGPT use my data?
+We give you control over your data. Read more about
+how your data is used
+(opens in a new window)
+and our
+Enterprise privacy
+.
+Our research
+Overview
+Index
+Latest advancements
+GPT-4
+DALL·E 3
+Sora
+ChatGPT
+For Everyone
+For Teams
+For Enterprises
+ChatGPT login
+(opens in a new window)
+API
+Platform overview
+Pricing
+Documentation
+(opens in a new window)
+API login
+(opens in a new window)
+Explore more
+OpenAI for business
+Stories
+Safety overview
+Safety overview
+Safety standards
+Teams
+Safety Systems
+Preparedness
+Superalignment
+Company
+About us
+News
+Our Charter
+Security
+Residency
+Careers
+Terms & policies
+Terms of use
+Privacy policy
+Brand guidelines
+Other policies
+OpenAI © 2015–2024
+(opens in a new window)
+(opens in a new window)
+(opens in a new window)
+(opens in a new window)
+(opens in a new window)
+(opens in a new window)
+(opens in a new window)

@@ -35,7 +35,7 @@ Codex
 Gemini
 Unlimited AI completion in JetBrains IDEs
 10 monthly AI credits
-US $100.00
+$100.00
 /per user, per year
 Buy
 Top up credits
@@ -48,7 +48,7 @@ Codex
 Gemini
 Unlimited AI completion in JetBrains IDEs
 35 monthly AI credits
-US $300.00
+$300.00
 /per user, per year
 Buy
 Top up credits
@@ -150,7 +150,7 @@ Careers
 Brand Assets
 Merchandise
 Trust Center
-Canada
+United States
 English
 Privacy and Security
 Privacy Notice

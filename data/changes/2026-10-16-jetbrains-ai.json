@@ -1,0 +1,13 @@
+{
+  "tool": "jetbrains-ai",
+  "date": "2026-10-16",
+  "url": "https://www.jetbrains.com/ai-ides/buy/",
+  "price_lines": [
+    "-US $100.00",
+    "+$100.00",
+    "-US $300.00",
+    "+$300.00"
+  ],
+  "all_lines": 6,
+  "reviewed": false
+}

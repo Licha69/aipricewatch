@@ -1,0 +1,17 @@
+{
+  "tool": "chatgpt-codex",
+  "date": "2026-10-16",
+  "url": "https://chatgpt.com/pricing",
+  "price_lines": [
+    "-CA$0",
+    "+$0",
+    "-CA$11",
+    "+$8",
+    "-CA$25",
+    "+$20",
+    "-CA$136",
+    "+$100"
+  ],
+  "all_lines": 14,
+  "reviewed": false
+}

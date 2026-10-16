@@ -3,8 +3,8 @@
   "results": [
     {
       "tool": "cursor",
-      "status": "same",
-      "chars": 14770
+      "status": "changed",
+      "chars": 15142
     },
     {
       "tool": "github-copilot",
@@ -23,87 +23,87 @@
     },
     {
       "tool": "chatgpt-codex",
-      "status": "same",
-      "chars": 7773
+      "status": "changed",
+      "chars": 7576
     },
     {
       "tool": "replit",
-      "status": "changed",
-      "chars": 256
+      "status": "seeded",
+      "chars": 2558
     },
     {
       "tool": "lovable",
-      "status": "seeded",
+      "status": "same",
       "chars": 3910
     },
     {
       "tool": "bolt-new",
-      "status": "seeded",
+      "status": "same",
       "chars": 4131
     },
     {
       "tool": "v0",
-      "status": "seeded",
+      "status": "same",
       "chars": 3108
     },
     {
       "tool": "tabnine",
-      "status": "seeded",
-      "chars": 5220
+      "status": "changed",
+      "chars": 5160
     },
     {
       "tool": "jetbrains-ai",
-      "status": "seeded",
-      "chars": 3940
+      "status": "changed",
+      "chars": 3941
     },
     {
       "tool": "amazon-q-developer",
-      "status": "seeded",
+      "status": "same",
       "chars": 17687
     },
     {
       "tool": "gemini-code-assist",
-      "status": "seeded",
+      "status": "same",
       "chars": 16924
     },
     {
       "tool": "devin",
-      "status": "seeded",
+      "status": "same",
       "chars": 3695
     },
     {
       "tool": "zed",
-      "status": "seeded",
+      "status": "same",
       "chars": 5541
     },
     {
       "tool": "warp",
-      "status": "seeded",
+      "status": "same",
       "chars": 11172
     },
     {
       "tool": "augment-code",
-      "status": "seeded",
+      "status": "same",
       "chars": 8134
     },
     {
       "tool": "qodo",
-      "status": "seeded",
+      "status": "same",
       "chars": 8160
     },
     {
       "tool": "sourcegraph-amp",
-      "status": "seeded",
+      "status": "same",
       "chars": 2258
     },
     {
       "tool": "factory",
-      "status": "seeded",
+      "status": "same",
       "chars": 3207
     },
     {
       "tool": "base44",
-      "status": "seeded",
+      "status": "same",
       "chars": 7279
     }
   ]

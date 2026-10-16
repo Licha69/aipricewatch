@@ -22,7 +22,7 @@ def browser_text(url):
     return "\n".join(re.sub(r"\s+"," ",l).strip() for l in t.splitlines() if l.strip())
 def slug(n): return re.sub(r"[^a-z0-9]+","-",n.lower()).strip("-")
 def main():
-    today=datetime.date.today().isoformat(); log=[]
+    today=datetime.date.today().isoformat(); log=[]; CHG.mkdir(parents=True,exist_ok=True); SNAP.mkdir(parents=True,exist_ok=True)
     for r in csv.DictReader(open(ROOT/"tools.csv")):
         s=slug(r["tool"]); d=SNAP/s; d.mkdir(parents=True,exist_ok=True)
         text=None

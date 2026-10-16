@@ -20,10 +20,13 @@ The $10–$20 starter plan is still around. The real change is at the top: almos
 
 ## Things to watch
 - **Cursor's pricing page changed a lot this month.** On 2026-10-16 it showed Plus $8, Premium $30, Super $100, Ultra $200 and Teams $30/user. The 2026-09-02 capture showed $20 Individual and $40 Teams. We're double-checking this before calling it a price cut.
-- **Seat vs usage pricing:** Claude Team now has Standard ($25/mo) and Premium ($125/mo) seats. Augment, Warp and Zed now sell plans as "$X of usage included".
+- **Seat vs usage pricing:** Augment, Warp and Zed sell plans as "$X of usage included". Claude Enterprise is now $20/seat plus usage at API rates.
 
 ## Got cheaper (or did it?)
 - **ChatGPT Pro: $200 → $100/mo** between the 2025-09-04 capture and today. We'll check whether it's the same plan.
+
+- **Claude Team cut prices (Mar 2026):** Standard seat $25 → $20/mo annual, Premium $150 → $100.
+- **Tabnine took its prices down:** the pricing page now redirects to Tricentis sales. Last published (Sep 2026): $39 and $59 per user/mo, annual.
 
 ## Steady
 - **Bolt:** Pro $25/mo and Teams $30/member, unchanged in every capture we checked (Apr–Oct 2026).

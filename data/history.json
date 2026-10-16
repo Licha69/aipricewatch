@@ -59,7 +59,7 @@
   "tool": "claude-claude-code",
   "date": "2026-03-01",
   "previous_capture": "2026-01-01",
-  "change": "Team split into Standard seat $20 annual / $25 monthly and Premium seat $100 annual / $125 monthly.",
+  "change": "Team price cut: Standard seat $25 \u2192 $20/mo annual ($30 \u2192 $25 monthly); Premium seat $150 \u2192 $100/mo annual ($125 monthly).",
   "source": "https://web.archive.org/web/20260301082827/https://claude.com/pricing",
   "previous_source": "https://web.archive.org/web/20260101044440/https://claude.com/pricing"
  },
@@ -163,8 +163,8 @@
   "tool": "windsurf",
   "date": "2026-10-16",
   "previous_capture": "2026-01-02",
-  "change": "Pro up from $15 to $20/mo; Max plan added at $200/mo; Teams now $80/mo per team + $40/mo per full seat.",
-  "source": "live snapshot data/snapshots/windsurf/2026-10-16.txt",
+  "change": "Pro up from $15 to $20/mo; Max plan added at $200/mo; Teams now $80/mo per team + $40/mo per full seat. windsurf.com/pricing now redirects to devin.ai/pricing.",
+  "source": "https://web.archive.org/web/20261016232952/https://devin.ai/pricing",
   "previous_source": "https://web.archive.org/web/20260102020917/https://windsurf.com/pricing"
  },
  {
@@ -172,7 +172,7 @@
   "date": "2026-10-16",
   "previous_capture": "2026-09-02",
   "change": "The live pricing page now lists Free, Plus $8, Premium $30, Super $100, Ultra $200 and Teams $30/user, with notes like 'Only Grok models are available on this plan'. The 2026-09-02 capture showed Individual $20/mo (Pro/Pro+/Ultra) and Teams $40/user. Big change: confirm by hand.",
-  "source": "live snapshot data/snapshots/cursor/2026-10-16.txt",
+  "source": "https://web.archive.org/web/20261016225410/https://cursor.com/pricing",
   "previous_source": "https://web.archive.org/web/20260902024928/https://cursor.com/pricing"
  },
  {
@@ -180,15 +180,15 @@
   "date": "2026-10-16",
   "previous_capture": "2025-09-01",
   "change": "Max plan at $100/mo now listed (Free $0, Pro $10, Pro+ $39).",
-  "source": "live snapshot data/snapshots/github-copilot/2026-10-16.txt",
+  "source": "https://web.archive.org/web/20261016093400/https://github.com/features/copilot/plans",
   "previous_source": "https://web.archive.org/web/20250901141016/https://github.com/features/copilot/plans"
  },
  {
   "tool": "chatgpt-codex",
   "date": "2026-10-16",
   "previous_capture": "2025-09-04",
-  "change": "Go plan now listed at $8/mo. Pro now shows $100/mo (was $200/mo in the 2025-09-04 capture). Plus stays $20.",
-  "source": "live snapshot data/snapshots/chatgpt-codex/2026-10-16.txt (GitHub Actions run 38978576248)",
+  "change": "Go plan now listed at $8/mo. Pro now shows from $100/mo with 3 usage tiers (was $200/mo in the 2025-09-04 capture). Plus stays $20.",
+  "source": "https://github.com/Licha69/aipricewatch/blob/main/data/snapshots/chatgpt-codex/2026-10-16.txt",
   "previous_source": "https://web.archive.org/web/20250904160806/https://openai.com/chatgpt/pricing"
  },
  {
@@ -196,7 +196,15 @@
   "date": "2026-10-16",
   "previous_capture": "2025-11-07",
   "change": "Pro plan now listed at $100/mo ($90 annual); Core stays $20/mo ($18 annual). Teams ($35/user in the 2025-11-07 capture) not shown.",
-  "source": "live snapshot data/snapshots/replit/2026-10-16.txt",
+  "source": "https://web.archive.org/web/20261016233107/https://replit.com/pricing",
   "previous_source": "https://web.archive.org/web/20251107024354/https://replit.com/pricing"
+ },
+ {
+  "tool": "tabnine",
+  "date": "2026-10-16",
+  "previous_capture": "2026-09-18",
+  "change": "Public pricing removed: tabnine.com/pricing now redirects to a Tricentis contact form (quote only). Last published: Code Assistant Platform $39/user/mo and Agentic Platform $59/user/mo, both annual. (Checked 2026-10-16: the URL returns 301 to tricentis.com/contact-us.)",
+  "source": "https://www.tabnine.com/pricing",
+  "previous_source": "https://web.archive.org/web/20260918001632/https://www.tabnine.com/pricing/"
  }
 ]

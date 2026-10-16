@@ -23,11 +23,11 @@
   ],
   [
    "Teams",
-   "$30/user/mo"
+   "$30+/user/mo"
   ],
   [
-   "note",
-   "page changed a lot recently; confirm by hand"
+   "Enterprise",
+   "custom"
   ]
  ],
  "github-copilot": [
@@ -37,19 +37,15 @@
   ],
   [
    "Pro",
-   "$10/mo"
+   "$10/mo (includes $15/mo of GitHub AI Credits)"
   ],
   [
    "Pro+",
-   "$39/mo"
+   "$39/mo (includes $70/mo of credits)"
   ],
   [
    "Max",
-   "$100/mo"
-  ],
-  [
-   "note",
-   "page also shows $15/$70/$200 figures in another section (context unverified)"
+   "$100/mo (includes $200/mo of credits)"
   ]
  ],
  "claude-claude-code": [
@@ -59,19 +55,19 @@
   ],
   [
    "Pro",
-   "$17/mo annual, $20 monthly"
+   "$17/mo annual ($200/yr), $20 monthly"
   ],
   [
    "Max",
-   "from $100/mo (up to $200)"
+   "from $100/mo"
   ],
   [
    "Team",
-   "$20/seat annual, $25 monthly; premium seat $100/$125"
+   "Standard seat $20 annual / $25 monthly; Premium seat $100 / $125 (2026-03-01 capture; tab not rendered on today's page)"
   ],
   [
    "Enterprise",
-   "custom"
+   "$20/seat/mo + usage at API rates, billed annually"
   ]
  ],
  "chatgpt-codex": [
@@ -89,7 +85,7 @@
   ],
   [
    "Pro",
-   "$100/mo"
+   "from $100/mo (3 usage tiers; higher tiers not shown)"
   ],
   [
    "Business / Enterprise",
@@ -97,7 +93,7 @@
   ],
   [
    "note",
-   "USD as seen from GitHub Actions (US); from Canada: Go CA$11, Plus CA$25, Pro CA$136"
+   "USD from a US fetch (GitHub Actions); chatgpt.com blocks most bots, so confirm in a browser"
   ]
  ],
  "bolt-new": [
@@ -160,7 +156,7 @@
  ],
  "zed": [
   [
-   "Free",
+   "Personal",
    "$0"
   ],
   [
@@ -174,8 +170,8 @@
  ],
  "augment-code": [
   [
-   "Standard (name unverified)",
-   "$20/mo usage"
+   "Standard",
+   "$20/mo usage (up to 50 seats)"
   ],
   [
    "Business",
@@ -215,19 +211,23 @@
   ],
   [
    "Starter",
-   "$16/mo"
+   "$16/mo billed annually"
   ],
   [
-   "(tier name unverified)",
-   "$40/mo"
+   "Builder",
+   "$40/mo billed annually"
   ],
   [
    "Pro",
-   "$80/mo"
+   "$80/mo billed annually"
   ],
   [
-   "Enterprise",
-   "$160/mo"
+   "Elite",
+   "$160/mo billed annually"
+  ],
+  [
+   "note",
+   "monthly billing also available (not checked)"
   ]
  ],
  "amazon-q-developer": [
@@ -242,22 +242,22 @@
  ],
  "gemini-code-assist": [
   [
-   "Standard (name unverified)",
+   "Gemini Code Assist Standard",
    "$19/user/mo annual, $22.80 monthly"
   ],
   [
-   "Enterprise (name unverified)",
+   "Gemini Code Assist Enterprise",
    "$45/user/mo annual, $54 monthly"
   ]
  ],
  "qodo": [
   [
-   "Paid tier",
-   "$30 (details unverified)"
+   "Pro Team",
+   "credit packs (about $0.012/credit; 2,500 / 5,000 / 20,000 credit options), 14-day trial"
   ],
   [
    "Enterprise",
-   "custom"
+   "custom (30+ users)"
   ]
  ],
  "windsurf": [
@@ -346,8 +346,12 @@
    "$20/mo"
   ],
   [
-   "Teams / Enterprise",
-   "unknown"
+   "Teams",
+   "no extra charge"
+  ],
+  [
+   "Enterprise",
+   "custom"
   ]
  ],
  "replit": [
@@ -366,8 +370,22 @@
  ],
  "tabnine": [
   [
-   "all plans",
-   "unknown (no prices in page text)"
+   "Code Assistant Platform",
+   "$39/user/mo (annual) \u2014 last published 2026-09-18"
+  ],
+  [
+   "Agentic Platform",
+   "$59/user/mo (annual) \u2014 last published 2026-09-18"
+  ],
+  [
+   "note",
+   "tabnine.com/pricing now redirects (301) to a Tricentis contact form; quote only today"
   ]
- ]
+ ],
+ "_status": {
+  "chatgpt-codex": "partial",
+  "tabnine": "partial",
+  "claude-claude-code": "partial",
+  "qodo": "partial"
+ }
 }

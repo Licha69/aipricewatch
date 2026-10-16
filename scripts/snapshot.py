@@ -44,7 +44,7 @@ def main():
         elif old==text: st="same"
         else:
             diff=[l for l in difflib.unified_diff(old.splitlines(),text.splitlines(),lineterm="",n=0) if l[:1] in "+-" and l[:3] not in("+++","---")]
-            price=[l for l in diff if re.search(r"[$€£]\s?\d|/mo|month|year|credits|requests",l,re.I)]
+            price=[l for l in diff if re.search(r"[$€£]\s?\d|^[+-]\s*\d{1,4}(\.\d\d)?\s*$|/mo|month|year|per user|per seat|credits|requests",l,re.I)]
             st="changed"
             (CHG/f"{today}-{s}.json").write_text(json.dumps({"tool":s,"date":today,"url":r["pricing_url"],"price_lines":price[:50],"all_lines":len(diff),"reviewed":False},indent=2))
         log.append({"tool":s,"status":st,"chars":len(text)}); print(s,st,len(text))

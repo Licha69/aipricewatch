@@ -1,0 +1,22 @@
+tool,pricing_url,http_status_2026-10-16
+"Cursor",https://cursor.com/pricing,200
+"GitHub Copilot",https://github.com/features/copilot/plans,200
+"Windsurf",https://windsurf.com/pricing,200
+"Claude (Claude Code)",https://claude.com/pricing,200
+"ChatGPT (Codex)",https://chatgpt.com/pricing,200
+"Replit",https://replit.com/pricing,403
+"Lovable",https://lovable.dev/pricing,200
+"Bolt.new",https://bolt.new/pricing,200
+"v0",https://v0.app/pricing,200
+"Tabnine",https://www.tabnine.com/pricing,200
+"JetBrains AI",https://www.jetbrains.com/ai-ides/buy/,200
+"Amazon Q Developer",https://aws.amazon.com/q/developer/pricing/,200
+"Gemini Code Assist",https://codeassist.google/,200
+"Devin",https://devin.ai/pricing,200
+"Zed",https://zed.dev/pricing,200
+"Warp",https://www.warp.dev/pricing,200
+"Augment Code",https://www.augmentcode.com/pricing,200
+"Qodo",https://www.qodo.ai/pricing/,200
+"Sourcegraph Amp",https://ampcode.com/,200
+"Factory",https://factory.ai/pricing,200
+"Base44",https://base44.com/pricing,200

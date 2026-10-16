@@ -1,0 +1,16 @@
+{"_note":"Plans as seen on the pricing page by the 2026-10-16 snapshot. USD, monthly unless noted. 'unknown' = not verified from page text.",
+"cursor":[["Free","$0/mo"],["Plus","$8/mo"],["Premium","$30/mo"],["(unnamed 4x tier)","$100/mo"],["Ultra","$200/mo"],["Teams","$30/user/mo"],["Enterprise","custom"]],
+"github-copilot":[["Free","$0"],["Pro","$10/mo"],["Pro+","$39/mo"],["Max","$100/mo"],["note","page shows several other price sets; review"]],
+"claude-claude-code":[["Free","$0"],["Pro","$17/mo annual, $20 monthly"],["Max","from $100/mo (up to $200)"],["Team","$20/seat annual, $25 monthly; premium seat $100/$125"],["Enterprise","custom"]],
+"chatgpt-codex":[["Free / Plus / Pro / Business","prices load via JavaScript: unknown"]],
+"bolt-new":[["Free","$0"],["Pro","$25/mo"],["Teams","$30/mo"],["Enterprise","custom"]],
+"v0":[["Free","$0/mo"],["Plus","$30/mo"],["Business","$100/user/mo"],["Enterprise","custom"]],
+"warp":[["Free","$0"],["Build","$20/mo ($18 annual)"],["Max","$200/mo ($180 annual)"],["Business","$50/user/mo ($45 annual)"],["Enterprise","custom"]],
+"zed":[["Free","$0"],["Pro","$10/mo incl. $5 tokens"],["Business","$30"]],
+"augment-code":[["Standard (name unverified)","$20/mo usage"],["Business","$100/mo usage"],["Enterprise","custom"]],
+"factory":[["Pro","$20"],["Plus","$100"],["Max","$200"],["Teams","$60/mo per team + $40/seat"],["Business / Enterprise","custom"]],
+"base44":[["Free","$0"],["Starter","$16/mo"],["(tier name unverified)","$40/mo"],["Pro","$80/mo"],["Enterprise","$160/mo"]],
+"amazon-q-developer":[["Free","$0"],["Pro","$19/user/mo"]],
+"gemini-code-assist":[["Standard (name unverified)","$19/user/mo annual, $22.80 monthly"],["Enterprise (name unverified)","$45/user/mo annual, $54 monthly"]],
+"qodo":[["Paid tier","$30 (details unverified)"],["Enterprise","custom"]]
+}

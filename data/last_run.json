@@ -1,0 +1,110 @@
+{
+  "date": "2026-10-16",
+  "results": [
+    {
+      "tool": "cursor",
+      "status": "seeded",
+      "chars": 14770
+    },
+    {
+      "tool": "github-copilot",
+      "status": "seeded",
+      "chars": 70640
+    },
+    {
+      "tool": "windsurf",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "tool": "claude-claude-code",
+      "status": "seeded",
+      "chars": 22073
+    },
+    {
+      "tool": "chatgpt-codex",
+      "status": "seeded",
+      "chars": 23713
+    },
+    {
+      "tool": "replit",
+      "status": "error",
+      "error": "HTTP Error 403: Forbidden"
+    },
+    {
+      "tool": "lovable",
+      "status": "seeded",
+      "chars": 7476
+    },
+    {
+      "tool": "bolt-new",
+      "status": "seeded",
+      "chars": 4131
+    },
+    {
+      "tool": "v0",
+      "status": "seeded",
+      "chars": 3108
+    },
+    {
+      "tool": "tabnine",
+      "status": "seeded",
+      "chars": 4499
+    },
+    {
+      "tool": "jetbrains-ai",
+      "status": "seeded",
+      "chars": 39
+    },
+    {
+      "tool": "amazon-q-developer",
+      "status": "seeded",
+      "chars": 17687
+    },
+    {
+      "tool": "gemini-code-assist",
+      "status": "seeded",
+      "chars": 16924
+    },
+    {
+      "tool": "devin",
+      "status": "error",
+      "error": "HTTP Error 404: Not Found"
+    },
+    {
+      "tool": "zed",
+      "status": "seeded",
+      "chars": 5541
+    },
+    {
+      "tool": "warp",
+      "status": "seeded",
+      "chars": 11172
+    },
+    {
+      "tool": "augment-code",
+      "status": "seeded",
+      "chars": 8134
+    },
+    {
+      "tool": "qodo",
+      "status": "seeded",
+      "chars": 8160
+    },
+    {
+      "tool": "sourcegraph-amp",
+      "status": "seeded",
+      "chars": 38823
+    },
+    {
+      "tool": "factory",
+      "status": "seeded",
+      "chars": 3207
+    },
+    {
+      "tool": "base44",
+      "status": "seeded",
+      "chars": 7279
+    }
+  ]
+}

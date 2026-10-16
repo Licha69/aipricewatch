@@ -187,8 +187,16 @@
   "tool": "chatgpt-codex",
   "date": "2026-10-16",
   "previous_capture": "2025-09-04",
-  "change": "Go plan now listed (CA$11/mo from a Canadian IP). USD price not checked.",
-  "source": "live snapshot data/snapshots/chatgpt-codex/2026-10-16.txt",
+  "change": "Go plan now listed at $8/mo. Pro now shows $100/mo (was $200/mo in the 2025-09-04 capture). Plus stays $20.",
+  "source": "live snapshot data/snapshots/chatgpt-codex/2026-10-16.txt (GitHub Actions run 38978576248)",
   "previous_source": "https://web.archive.org/web/20250904160806/https://openai.com/chatgpt/pricing"
+ },
+ {
+  "tool": "replit",
+  "date": "2026-10-16",
+  "previous_capture": "2025-11-07",
+  "change": "Pro plan now listed at $100/mo ($90 annual); Core stays $20/mo ($18 annual). Teams ($35/user in the 2025-11-07 capture) not shown.",
+  "source": "live snapshot data/snapshots/replit/2026-10-16.txt",
+  "previous_source": "https://web.archive.org/web/20251107024354/https://replit.com/pricing"
  }
 ]

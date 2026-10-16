@@ -77,23 +77,27 @@
  "chatgpt-codex": [
   [
    "Free",
-   "CA$0/mo (shown in CAD from a Canadian IP)"
+   "$0/mo"
   ],
   [
    "Go",
-   "CA$11/mo"
+   "$8/mo"
   ],
   [
    "Plus",
-   "CA$25/mo"
+   "$20/mo"
   ],
   [
    "Pro",
-   "CA$136/mo"
+   "$100/mo"
   ],
   [
    "Business / Enterprise",
    "unknown"
+  ],
+  [
+   "note",
+   "USD as seen from GitHub Actions (US); from Canada: Go CA$11, Plus CA$25, Pro CA$136"
   ]
  ],
  "bolt-new": [
@@ -348,8 +352,16 @@
  ],
  "replit": [
   [
-   "all plans",
-   "unknown (Cloudflare bot check blocks the script)"
+   "Core",
+   "$20/mo ($18/mo billed annually)"
+  ],
+  [
+   "Pro",
+   "$100/mo ($90/mo billed annually)"
+  ],
+  [
+   "note",
+   "fetched from GitHub Actions; Cloudflare blocks the box"
   ]
  ],
  "tabnine": [

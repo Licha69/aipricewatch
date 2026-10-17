@@ -18,13 +18,13 @@
     },
     {
       "tool": "claude-claude-code",
-      "status": "same",
+      "status": "changed",
       "chars": 22073
     },
     {
       "tool": "chatgpt-codex",
       "status": "changed",
-      "chars": 7576
+      "chars": 7561
     },
     {
       "tool": "replit",
@@ -48,7 +48,7 @@
     },
     {
       "tool": "tabnine",
-      "status": "changed",
+      "status": "same",
       "chars": 5160
     },
     {
@@ -88,8 +88,8 @@
     },
     {
       "tool": "qodo",
-      "status": "same",
-      "chars": 8160
+      "status": "changed",
+      "chars": 8162
     },
     {
       "tool": "sourcegraph-amp",

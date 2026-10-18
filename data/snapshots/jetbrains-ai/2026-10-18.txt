@@ -1,0 +1,163 @@
+Cookie Settings
+Our website uses some cookies and records your IP address for the purposes of accessibility, security, and managing your access to the telecommunication network. You can disable data collection and cookies by changing your browser settings, but it may affect how this website functions. Learn more
+With your consent, JetBrains may also use cookies and your IP address to collect individual statistics and provide you with personalized offers and ads subject to the Privacy Notice and the Terms of Use. JetBrains may use third-party services for this purpose. You can adjust or withdraw your consent at any time by visiting the Opt-Out.
+Accept All
+Manage Settings
+Products
+For Business
+Education
+Solutions
+Support
+Pricing
+AI in IDEs
+What’s new
+FAQ
+Pricing
+AI Plans & Pricing
+Access top coding agents in JetBrains Air, with usage that scales by plan.
+For Individual Use
+For Organizations
+Yearly billing
+save 2 months
+Monthly billing
+AI Free
+Ideal if you want IDE-native code completion alongside your own models or agents.
+Unlimited AI completion in JetBrains IDEs
+3 monthly AI credits
+Free
+Try in your IDE
+Don’t have a JetBrains IDE? Choose your IDE
+AI Pro
+Designed for regular AI-enhanced IDE workflows, with enough credits for occasional agent use.
+Junie
+Claude Agent
+Codex
+Gemini
+Unlimited AI completion in JetBrains IDEs
+10 monthly AI credits
+$100.00
+/per user, per year
+Buy
+Top up credits
+Free 30-day trial
+AI Ultimate
+Best suited for frequent coding agent use, with 5 bonus AI credits.
+Junie
+Claude Agent
+Codex
+Gemini
+Unlimited AI completion in JetBrains IDEs
+35 monthly AI credits
+$300.00
+/per user, per year
+Buy
+Top up credits
+Bonus credits
+Taxes may still be added. The tax rate depends on your country tax rules, entered tax identification number (e.g. VAT ID), and selected purchase method.
+Prices shown are approximate. Your final price is displayed at checkout.
+Running low on AI credits?
+Top up anytime and keep using AI features without interruption.
+Buy AI credits
+Priced at API rates
+Valid for 12 months
+Get the complete JetBrains developer suite, with JetBrains AI included
+Everything you need for any stack, plus recurring AI credits in one subscription.
+10 IDEs
+.NET tools
+10 monthly AI credits
+Explore the All Products Pack
+Connect your own AI providers and agents
+Use your existing AI subscriptions
+Sign in with your existing provider accounts to use 25+ supported agents via the Agent Client Protocol (ACP).
+Cursor
+Codex
+GitHub Copilot
++ more agents
+Bring Your Own Key (BYOK)
+Use your own API keys from third-party LLM providers.
+Anthropic
+OpenAI
+Google
+FAQ
+What is JetBrains AI?
+How is JetBrains AI priced?
+What are AI credits?
+Do you offer free AI access?
+Can I use my own AI provider in JetBrains products?
+We’re always ready to help!
+Do you have any questions about our products, pricing, licensing models, or how best to address your developers’ needs? We’d love to help!
+Contact us
+AI
+JetBrains Air
+Junie
+Air in IDEs
+Air Governance
+Air Teams
+AI News
+Developer Tools
+All Products
+IDEs
+.NET and Visual Studio
+Team Tools
+Plugin Marketplace
+Toolbox App
+Solutions
+Business
+Remote Development
+Game Development
+DevOps
+Initiatives
+Kotlin
+Open Source
+JetBrains Research
+JetBrains Mono
+MPS
+Education
+Students
+Teachers
+Teams
+Course Catalog
+University Programs
+Store
+Plans and Pricing
+All Products Pack
+dotUltimate
+Partners and Resellers
+Customers and Awards
+Support
+Technical Support
+Contact Sales
+Documentation
+JetBrains Account
+Resources
+Blog
+Early Access
+Events and Livestreams
+Newsletters
+Industry Reports
+Inspectopedia
+AI Agents Hub
+Community
+Developer Communities
+Open-Source Partnerships
+Developer Recognition
+Content Creators
+Course Creators
+Company
+About
+Contacts
+Careers
+Brand Assets
+Merchandise
+Trust Center
+United States
+English
+Privacy and Security
+Privacy Notice
+Terms of Use
+Attributions
+Legal
+Genuine Tools
+Opt-Out
+Copyright © 2000-2026 JetBrains s.r.o.
+Developed with drive and IntelliJ IDEA

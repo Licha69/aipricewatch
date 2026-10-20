@@ -1,30 +1,30 @@
 {
-  "date": "2026-10-19",
+  "date": "2026-10-20",
   "results": [
     {
       "tool": "cursor",
-      "status": "same",
+      "status": "changed",
       "chars": 15142
     },
     {
       "tool": "github-copilot",
-      "status": "same",
-      "chars": 70640
+      "status": "changed",
+      "chars": 70284
     },
     {
       "tool": "windsurf",
-      "status": "changed",
+      "status": "same",
       "chars": 3585
     },
     {
       "tool": "claude-claude-code",
-      "status": "same",
-      "chars": 22073
+      "status": "changed",
+      "chars": 22101
     },
     {
       "tool": "chatgpt-codex",
       "status": "changed",
-      "chars": 7559
+      "chars": 7576
     },
     {
       "tool": "replit",
@@ -33,13 +33,13 @@
     },
     {
       "tool": "lovable",
-      "status": "changed",
+      "status": "same",
       "chars": 3939
     },
     {
       "tool": "bolt-new",
       "status": "changed",
-      "chars": 5734
+      "chars": 5712
     },
     {
       "tool": "v0",
@@ -49,7 +49,7 @@
     {
       "tool": "tabnine",
       "status": "changed",
-      "chars": 5160
+      "chars": 5220
     },
     {
       "tool": "jetbrains-ai",
@@ -68,7 +68,7 @@
     },
     {
       "tool": "devin",
-      "status": "changed",
+      "status": "same",
       "chars": 3585
     },
     {
@@ -79,7 +79,7 @@
     {
       "tool": "warp",
       "status": "changed",
-      "chars": 11172
+      "chars": 11174
     },
     {
       "tool": "augment-code",
@@ -93,8 +93,8 @@
     },
     {
       "tool": "sourcegraph-amp",
-      "status": "same",
-      "chars": 2258
+      "status": "changed",
+      "chars": 2264
     },
     {
       "tool": "factory",
@@ -103,7 +103,7 @@
     },
     {
       "tool": "base44",
-      "status": "changed",
+      "status": "same",
       "chars": 7313
     }
   ]

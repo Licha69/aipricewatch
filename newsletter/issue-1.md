@@ -35,4 +35,4 @@ The $10–$20 starter plan is still around. The real change is at the top: almos
 ## Sources
 Full dated history with archive links: https://licha69.github.io/aipricewatch/en/changes/
 
-*Some links on the site may be affiliate links; see our disclosure. Spot a mistake? Reply and we'll fix it.*
+*No links on the site or in this issue are affiliate links today. Spot a mistake? Reply and we'll fix it.*

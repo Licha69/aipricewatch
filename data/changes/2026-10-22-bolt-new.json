@@ -1,0 +1,11 @@
+{
+  "tool": "bolt-new",
+  "date": "2026-10-22",
+  "url": "https://bolt.new/pricing",
+  "price_lines": [
+    "-/month per member",
+    "+/month"
+  ],
+  "all_lines": 2,
+  "reviewed": false
+}

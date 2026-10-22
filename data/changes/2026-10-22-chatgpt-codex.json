@@ -1,0 +1,15 @@
+{
+  "tool": "chatgpt-codex",
+  "date": "2026-10-22",
+  "url": "https://chatgpt.com/pricing",
+  "price_lines": [
+    "-/ month",
+    "-/ month",
+    "-/ month",
+    "-/ month",
+    "-**Enterprise and Business can purchase credits for more access",
+    "-The free version of ChatGPT is available to everyone. Paid plans (Go, Plus, Business, and Enterprise) are priced per user per month. We offer monthly plans for Go, Plus and Business and annual plans for Business and Enterprise."
+  ],
+  "all_lines": 260,
+  "reviewed": false
+}

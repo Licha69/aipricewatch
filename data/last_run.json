@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-23",
+  "date": "2026-10-24",
   "results": [
     {
       "tool": "cursor",
@@ -8,7 +8,7 @@
     },
     {
       "tool": "github-copilot",
-      "status": "changed",
+      "status": "same",
       "chars": 41191
     },
     {
@@ -24,12 +24,12 @@
     {
       "tool": "chatgpt-codex",
       "status": "changed",
-      "chars": 6884
+      "chars": 6867
     },
     {
       "tool": "replit",
-      "status": "same",
-      "chars": 2558
+      "status": "changed",
+      "chars": 2551
     },
     {
       "tool": "lovable",
@@ -48,7 +48,7 @@
     },
     {
       "tool": "tabnine",
-      "status": "changed",
+      "status": "same",
       "chars": 5215
     },
     {
@@ -83,7 +83,7 @@
     },
     {
       "tool": "augment-code",
-      "status": "same",
+      "status": "changed",
       "chars": 8134
     },
     {
@@ -93,7 +93,7 @@
     },
     {
       "tool": "sourcegraph-amp",
-      "status": "changed",
+      "status": "same",
       "chars": 2397
     },
     {

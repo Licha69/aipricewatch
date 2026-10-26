@@ -1,0 +1,10 @@
+{
+  "tool": "claude-claude-code",
+  "date": "2026-10-26",
+  "url": "https://claude.com/pricing",
+  "price_lines": [
+    "+Usage credits"
+  ],
+  "all_lines": 2,
+  "reviewed": false
+}

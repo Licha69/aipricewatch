@@ -1,0 +1,21 @@
+{
+  "tool": "bolt-new",
+  "date": "2026-10-26",
+  "url": "https://bolt.new/pricing",
+  "price_lines": [
+    "-$18",
+    "+$25",
+    "-$216",
+    "-$300",
+    "-/ year",
+    "+Billed monthly",
+    "-$27",
+    "+$30",
+    "-$324",
+    "-$360",
+    "-/ year",
+    "+Per member, billed monthly"
+  ],
+  "all_lines": 16,
+  "reviewed": false
+}

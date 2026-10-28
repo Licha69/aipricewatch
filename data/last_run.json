@@ -1,5 +1,5 @@
 {
-  "date": "2026-10-27",
+  "date": "2026-10-28",
   "results": [
     {
       "tool": "cursor",
@@ -9,7 +9,7 @@
     {
       "tool": "github-copilot",
       "status": "changed",
-      "chars": 41336
+      "chars": 41162
     },
     {
       "tool": "windsurf",
@@ -23,8 +23,8 @@
     },
     {
       "tool": "chatgpt-codex",
-      "status": "same",
-      "chars": 6882
+      "status": "changed",
+      "chars": 6884
     },
     {
       "tool": "replit",
@@ -33,7 +33,7 @@
     },
     {
       "tool": "lovable",
-      "status": "changed",
+      "status": "same",
       "chars": 3881
     },
     {
@@ -48,7 +48,7 @@
     },
     {
       "tool": "tabnine",
-      "status": "changed",
+      "status": "same",
       "chars": 5215
     },
     {
@@ -83,13 +83,13 @@
     },
     {
       "tool": "augment-code",
-      "status": "same",
-      "chars": 8134
+      "status": "changed",
+      "chars": 8203
     },
     {
       "tool": "qodo",
       "status": "changed",
-      "chars": 8162
+      "chars": 8148
     },
     {
       "tool": "sourcegraph-amp",
@@ -99,7 +99,7 @@
     {
       "tool": "factory",
       "status": "changed",
-      "chars": 3203
+      "chars": 3194
     },
     {
       "tool": "base44",

@@ -1,0 +1,12 @@
+{
+  "tool": "chatgpt-codex",
+  "date": "2026-10-29",
+  "url": "https://chatgpt.com/pricing",
+  "price_lines": [
+    "+Up to in monthly API credits to build your own apps and agents.****",
+    "+Monthly API credits",
+    "+****Activation and eligibility requirements apply. First grant is prorated. Unused credits expire at the end of the applicable billing cycle. Annual Business plans receive credits annually. The API credit benefit is subject to change or discontinuation, including credit amounts and future renewals. More information available here\u2060."
+  ],
+  "all_lines": 12,
+  "reviewed": false
+}

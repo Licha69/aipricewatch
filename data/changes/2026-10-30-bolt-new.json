@@ -1,0 +1,13 @@
+{
+  "tool": "bolt-new",
+  "date": "2026-10-30",
+  "url": "https://bolt.new/pricing",
+  "price_lines": [
+    "+Tokens are how Bolt measures the work it does on your project. Bolt uses tokens when it reads your prompts and project files, makes a plan, or writes code. Your plan includes a monthly token allowance, and you can check your balance on the",
+    "-Do tokens rollover from month to month?",
+    "+Do tokens roll over from month to month?",
+    "+What\u2019s the difference between monthly and annual billing?"
+  ],
+  "all_lines": 14,
+  "reviewed": false
+}

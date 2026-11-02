@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-01",
+  "date": "2026-11-02",
   "results": [
     {
       "tool": "cursor",
@@ -8,8 +8,8 @@
     },
     {
       "tool": "github-copilot",
-      "status": "same",
-      "chars": 41076
+      "status": "changed",
+      "chars": 42521
     },
     {
       "tool": "windsurf",
@@ -23,23 +23,23 @@
     },
     {
       "tool": "chatgpt-codex",
-      "status": "changed",
+      "status": "same",
       "chars": 7373
     },
     {
       "tool": "replit",
-      "status": "changed",
+      "status": "same",
       "chars": 2557
     },
     {
       "tool": "lovable",
-      "status": "same",
-      "chars": 3898
+      "status": "changed",
+      "chars": 3902
     },
     {
       "tool": "bolt-new",
-      "status": "same",
-      "chars": 5460
+      "status": "changed",
+      "chars": 5432
     },
     {
       "tool": "v0",
@@ -48,13 +48,13 @@
     },
     {
       "tool": "tabnine",
-      "status": "same",
-      "chars": 5215
+      "status": "changed",
+      "chars": 5531
     },
     {
       "tool": "jetbrains-ai",
-      "status": "same",
-      "chars": 3941
+      "status": "changed",
+      "chars": 3984
     },
     {
       "tool": "amazon-q-developer",
@@ -78,8 +78,8 @@
     },
     {
       "tool": "warp",
-      "status": "same",
-      "chars": 11276
+      "status": "changed",
+      "chars": 11284
     },
     {
       "tool": "augment-code",
@@ -88,13 +88,13 @@
     },
     {
       "tool": "qodo",
-      "status": "same",
+      "status": "changed",
       "chars": 8148
     },
     {
       "tool": "sourcegraph-amp",
-      "status": "same",
-      "chars": 2384
+      "status": "changed",
+      "chars": 2405
     },
     {
       "tool": "factory",

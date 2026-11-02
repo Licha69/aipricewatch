@@ -1,0 +1,20 @@
+{
+  "tool": "github-copilot",
+  "date": "2026-11-02",
+  "url": "https://github.com/features/copilot/plans",
+  "price_lines": [
+    "+0",
+    "+2,000 completions per month",
+    "+10",
+    "+per user / month",
+    "+$15 monthly total credits for Pro",
+    "+39",
+    "+per user / month",
+    "+$70 monthly total credits for Pro+",
+    "+100",
+    "+per user / month",
+    "+$200 monthly total credits for Max"
+  ],
+  "all_lines": 81,
+  "reviewed": false
+}

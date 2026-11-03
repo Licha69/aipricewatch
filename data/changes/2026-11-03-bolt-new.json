@@ -1,0 +1,26 @@
+{
+  "tool": "bolt-new",
+  "date": "2026-11-03",
+  "url": "https://bolt.new/pricing",
+  "price_lines": [
+    "+Monthly",
+    "-Monthly",
+    "+28",
+    "+with yearly billing",
+    "-1M tokens/month to try Bolt",
+    "+1M tokens per month",
+    "+Up to 333k web requests",
+    "-10M tokens/month, rollover included",
+    "+Start at 10M tokens per month",
+    "+Up to 1M web requests",
+    "+Unused tokens roll over to next month",
+    "-Monthly AI Tokens",
+    "-Web Requests / Month",
+    "+Teams plans give you centralized billing, team settings, and a shared workspace for collaborating on Bolt projects. You pay per team member, and paid members get a monthly token allowance based on your plan. Tokens aren\u2019t shared between members. You can also add free members who can view team projects. But since free members don\u2019t get tokens, they can\u2019t send prompts.",
+    "+On paid plans, yes. Unused tokens from your monthly allowance stay in your balance for up to two months, as long as your paid subscription is active. Free plan tokens don\u2019t roll over. To see how token rollover works with examples, check the",
+    "+With an annual plan, you pay for the full year up front at a discounted price. With a monthly plan, you pay month by month. In both cases, your token allowance refreshes once a month, and any tokens you don\u2019t use stay in your balance for up to two months after you receive them.",
+    "+The Free plan includes 1 million tokens a month, with a daily limit of 300,000. Free plan tokens don\u2019t roll over."
+  ],
+  "all_lines": 332,
+  "reviewed": false
+}

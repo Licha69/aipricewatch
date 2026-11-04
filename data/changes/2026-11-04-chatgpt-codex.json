@@ -1,0 +1,16 @@
+{
+  "tool": "chatgpt-codex",
+  "date": "2026-11-04",
+  "url": "https://chatgpt.com/pricing",
+  "price_lines": [
+    "+$0",
+    "+$8",
+    "+$20",
+    "+$100",
+    "-Up to in monthly API credits to build your own apps and agents.****",
+    "+Up to $500 in monthly API credits to build your own apps and agents.****",
+    "+$100 with Pro 100, $200 with Pro 200, or $500 with Pro 500.****"
+  ],
+  "all_lines": 16,
+  "reviewed": false
+}

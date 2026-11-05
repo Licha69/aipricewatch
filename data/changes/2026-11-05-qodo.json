@@ -1,0 +1,22 @@
+{
+  "tool": "qodo",
+  "date": "2026-11-05",
+  "url": "https://www.qodo.ai/pricing/",
+  "price_lines": [
+    "+$0.015/credit, pooled across the team",
+    "-~18 Reviews/Mo",
+    "-2,500 credits",
+    "-~36 Reviews/Mo",
+    "-5,000 credits",
+    "-~144 Reviews/Mo",
+    "-20,000 credits",
+    "+~14 Reviews/Mo",
+    "+2,000 credits",
+    "+~29 Reviews/Mo",
+    "+4,000 credits",
+    "+~114 Reviews/Mo",
+    "+16,000 credits"
+  ],
+  "all_lines": 16,
+  "reviewed": false
+}

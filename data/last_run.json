@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-05",
+  "date": "2026-11-06",
   "results": [
     {
       "tool": "cursor",
@@ -8,7 +8,7 @@
     },
     {
       "tool": "github-copilot",
-      "status": "changed",
+      "status": "same",
       "chars": 42534
     },
     {
@@ -33,8 +33,8 @@
     },
     {
       "tool": "lovable",
-      "status": "same",
-      "chars": 3898
+      "status": "changed",
+      "chars": 3902
     },
     {
       "tool": "bolt-new",
@@ -48,8 +48,8 @@
     },
     {
       "tool": "tabnine",
-      "status": "same",
-      "chars": 5215
+      "status": "changed",
+      "chars": 5531
     },
     {
       "tool": "jetbrains-ai",
@@ -58,13 +58,13 @@
     },
     {
       "tool": "amazon-q-developer",
-      "status": "same",
-      "chars": 17687
+      "status": "changed",
+      "chars": 17620
     },
     {
       "tool": "gemini-code-assist",
-      "status": "same",
-      "chars": 16924
+      "status": "changed",
+      "chars": 5403
     },
     {
       "tool": "devin",
@@ -78,7 +78,7 @@
     },
     {
       "tool": "warp",
-      "status": "changed",
+      "status": "same",
       "chars": 9197
     },
     {
@@ -89,7 +89,7 @@
     {
       "tool": "qodo",
       "status": "changed",
-      "chars": 8164
+      "chars": 7809
     },
     {
       "tool": "sourcegraph-amp",
@@ -98,7 +98,7 @@
     },
     {
       "tool": "factory",
-      "status": "changed",
+      "status": "same",
       "chars": 3186
     },
     {

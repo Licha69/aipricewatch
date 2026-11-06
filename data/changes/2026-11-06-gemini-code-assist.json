@@ -1,0 +1,26 @@
+{
+  "tool": "gemini-code-assist",
+  "date": "2026-11-06",
+  "url": "https://codeassist.google/products/business",
+  "price_lines": [
+    "+If you have a monthly subscription, you can continue",
+    "+until December 31, 2027. After this date, monthly subscriptions can't be renewed.",
+    "-Pricing is based on per user per month licenses, with monthly or annual commitment terms.",
+    "-Gemini Code Assist Standard (monthly)",
+    "-$22.80 per user per month.",
+    "-$19 per user per month with an upfront annual commitment.",
+    "-Gemini Code Assist Enterprise (monthly)",
+    "-$54 per user per month.",
+    "-$45 per user per month with an upfront annual commitment.",
+    "-Pricing is based on per user per month licenses, with monthly or annual commitment terms.",
+    "-Gemini Code Assist Standard (monthly)",
+    "-$22.80 per user per month.",
+    "-$19 per user per month with an upfront annual commitment.",
+    "-Gemini Code Assist Enterprise (monthly)",
+    "-$54 per user per month.",
+    "-$45 per user per month with an upfront annual commitment.",
+    "-Estimate your monthly costs for Google Cloud, including region-specific pricing and fees."
+  ],
+  "all_lines": 444,
+  "reviewed": false
+}

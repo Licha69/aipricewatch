@@ -1,0 +1,14 @@
+{
+  "tool": "sourcegraph-amp",
+  "date": "2026-11-07",
+  "url": "https://ampcode.com/pricing",
+  "price_lines": [
+    "+Yes. Hobby has no monthly fee, and you can use your own model subscription or key and buy Amp credits as needed. An Amp paid tier gives you a big discount on orbs and includes Amp credits that you can use on any model.",
+    "+A paid Amp tier includes orbin' time (minutes of orbs, our machines in the cloud that run your agents) and Amp credits (which you can use for inference on all models).",
+    "+You can keep using Amp by upgrading to a higher paid tier or buying more credits. See Orb pricing.",
+    "+Cancel any time in your user settings. Your paid tier stays active until the end of its current monthly period.",
+    "+Students and teachers can get Megawatt for $10 per month. Learn about the Education Discount."
+  ],
+  "all_lines": 10,
+  "reviewed": false
+}

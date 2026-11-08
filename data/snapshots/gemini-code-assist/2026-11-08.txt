@@ -1,0 +1,213 @@
+Gemini Code Assist Standard and Enterprise subscriptions | Gemini for Google Cloud | Google Cloud Documentation
+Skip to main content
+Documentation
+close
+Get Started
+Get Started with Google Cloud
+Product List
+Cloud Customer Care
+Featured Products
+Agent Platform
+Apigee API Management
+BigQuery
+Compute Engine
+Cloud CDN
+Cloud Run
+Cloud Storage
+Cloud SQL
+Gemini Enterprise
+Google Kubernetes Engine
+Looker
+Cross-product Tools
+Access and resources management
+Costs and usage management
+Infrastructure as code
+SDK, languages, frameworks, and tools
+Technology Areas
+AI and ML
+Application development
+Application hosting
+Compute
+Data analytics and pipelines
+Databases
+Distributed, hybrid, and multicloud
+Industry solutions
+Migration
+Networking
+Observability and monitoring
+Security
+Storage
+/
+Console
+English
+Deutsch
+Español – América Latina
+Français
+Indonesia
+Italiano
+Português – Brasil
+עברית
+中文 – 简体
+中文 – 繁體
+日本語
+한국어
+Sign in
+Gemini for Google Cloud
+Start free
+Overview
+Guides
+API and references
+Resources
+Documentation
+More
+Overview
+Guides
+API and references
+Resources
+Console
+Gemini
+All resources
+Pricing
+Quotas and limits
+Gemini for Google Cloud release notes
+Gemini Code Assist release notes
+Billing questions
+Locations
+Service Level Agreement
+Gemini Code Assist FAQs
+Deprecations
+Feature deprecations
+Gemini Code Assist Standard and Enterprise subscriptions
+Deprecated IAM permissions
+Get Started
+Get Started with Google Cloud
+Product List
+Cloud Customer Care
+Featured Products
+Agent Platform
+Apigee API Management
+BigQuery
+Compute Engine
+Cloud CDN
+Cloud Run
+Cloud Storage
+Cloud SQL
+Gemini Enterprise
+Google Kubernetes Engine
+Looker
+Cross-product Tools
+Access and resources management
+Costs and usage management
+Infrastructure as code
+SDK, languages, frameworks, and tools
+Technology Areas
+AI and ML
+Application development
+Application hosting
+Compute
+Data analytics and pipelines
+Databases
+Distributed, hybrid, and multicloud
+Industry solutions
+Migration
+Networking
+Observability and monitoring
+Security
+Storage
+Home
+Documentation
+AI and ML
+Gemini for Google Cloud
+Resources
+Send feedback
+Gemini Code Assist Standard and Enterprise subscriptions
+Stay organized with collections
+Save and categorize content based on your preferences.
+Starting October 9, 2026, you can no longer purchase new Gemini Code Assist Standard or Enterprise subscriptions. Additionally, new Gemini Enterprise Standard and Plus subscriptions no longer include an entitlement to Gemini Code Assist.
+Your existing subscriptions will continue to have access to Gemini Code Assist until the following dates:
+Existing Gemini Code Assist subscriptions will remain supported until the end of your contractual agreement.
+If you have an annual subscription, you can continue to
+auto-renew your subscription
+until January 31, 2027. After this date, annual subscriptions can't be renewed.
+If you have a monthly subscription, you can continue
+auto-renew your subscription
+until December 31, 2027. After this date, monthly subscriptions can't be renewed.
+Existing Gemini Enterprise subscriptions will retain the their Gemini Code Assist entitlement until March 31, 2027.
+Going forward, agentic coding assistance will be available through
+Antigravity
+, which is included in
+Gemini Enterprise editions
+. You should plan your subscription transition to Gemini Enterprise before your plan reaches its final renewal or contract end date.
+FAQs
+Where can I find more information about Antigravity IDEs?
+See
+Antigravity IDE extensions
+, which includes extensions for VS Code and JetBrains.
+How do I migrate from Gemini CLI to Antigravity CLI?
+See our
+migration guide
+.
+Can I still add licenses to my existing Gemini Code Assist subscription?
+You can continue to
+add licenses
+until January 31, 2027. After this date, no new licenses can be added.
+What models are supported for Gemini Code Assist?
+Support will be limited to the Gemini 3.x model family only.
+Send feedback
+Except as otherwise noted, the content of this page is licensed under the
+Creative Commons Attribution 4.0 License
+, and code samples are licensed under the
+Apache 2.0 License
+. For details, see the
+Google Developers Site Policies
+. Java is a registered trademark of Oracle and/or its affiliates.
+Last updated 2026-10-29 UTC.
+Need to tell us more?
+[[["Easy to understand","easyToUnderstand","thumb-up"],["Solved my problem","solvedMyProblem","thumb-up"],["Other","otherUp","thumb-up"]],[["Hard to understand","hardToUnderstand","thumb-down"],["Incorrect information or sample code","incorrectInformationOrSampleCode","thumb-down"],["Missing the information/samples I need","missingTheInformationSamplesINeed","thumb-down"],["Other","otherDown","thumb-down"]],["Last updated 2026-10-29 UTC."],[],[]]
+Products and pricing
+See all products
+Google Cloud pricing
+Google Cloud Marketplace
+Contact sales
+Support
+Community forums
+Support
+Release Notes
+System status
+Resources
+GitHub
+Getting Started with Google Cloud
+Code samples
+Cloud Architecture Center
+Training and Certification
+Builders Hub
+Engage
+Blog
+Events
+X (Twitter)
+Google Cloud on YouTube
+Google Cloud Tech on YouTube
+Android
+Chrome
+Firebase
+Google AI
+About Google
+Privacy
+Site terms
+Google Cloud terms
+Manage cookies
+Our third decade of climate action: join us
+Sign up for the Google Cloud newsletter
+Subscribe
+English
+Deutsch
+Español – América Latina
+Français
+Indonesia
+Italiano
+Português – Brasil
+עברית
+中文 – 简体
+中文 – 繁體
+日本語
+한국어

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "results": [
     {
       "tool": "cursor",
@@ -13,17 +13,17 @@
     },
     {
       "tool": "windsurf",
-      "status": "same",
-      "chars": 3585
+      "status": "changed",
+      "chars": 3586
     },
     {
       "tool": "claude-claude-code",
-      "status": "same",
-      "chars": 23547
+      "status": "changed",
+      "chars": 23655
     },
     {
       "tool": "chatgpt-codex",
-      "status": "changed",
+      "status": "same",
       "chars": 7390
     },
     {
@@ -53,8 +53,8 @@
     },
     {
       "tool": "jetbrains-ai",
-      "status": "same",
-      "chars": 3984
+      "status": "changed",
+      "chars": 4048
     },
     {
       "tool": "amazon-q-developer",
@@ -68,8 +68,8 @@
     },
     {
       "tool": "devin",
-      "status": "same",
-      "chars": 3585
+      "status": "changed",
+      "chars": 3586
     },
     {
       "tool": "zed",
@@ -104,7 +104,7 @@
     {
       "tool": "base44",
       "status": "changed",
-      "chars": 7498
+      "chars": 7444
     }
   ]
 }

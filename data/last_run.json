@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-10",
+  "date": "2026-11-11",
   "results": [
     {
       "tool": "cursor",
@@ -9,22 +9,22 @@
     {
       "tool": "github-copilot",
       "status": "changed",
-      "chars": 42642
+      "chars": 42734
     },
     {
       "tool": "windsurf",
-      "status": "same",
-      "chars": 3586
+      "status": "changed",
+      "chars": 3854
     },
     {
       "tool": "claude-claude-code",
       "status": "changed",
-      "chars": 23871
+      "chars": 23832
     },
     {
       "tool": "chatgpt-codex",
       "status": "changed",
-      "chars": 7373
+      "chars": 7390
     },
     {
       "tool": "replit",
@@ -33,12 +33,12 @@
     },
     {
       "tool": "lovable",
-      "status": "same",
-      "chars": 3898
+      "status": "changed",
+      "chars": 4033
     },
     {
       "tool": "bolt-new",
-      "status": "changed",
+      "status": "same",
       "chars": 4993
     },
     {
@@ -63,13 +63,13 @@
     },
     {
       "tool": "gemini-code-assist",
-      "status": "same",
+      "status": "changed",
       "chars": 5403
     },
     {
       "tool": "devin",
-      "status": "same",
-      "chars": 3586
+      "status": "changed",
+      "chars": 3854
     },
     {
       "tool": "zed",
@@ -78,7 +78,7 @@
     },
     {
       "tool": "warp",
-      "status": "changed",
+      "status": "same",
       "chars": 9094
     },
     {
@@ -88,7 +88,7 @@
     },
     {
       "tool": "qodo",
-      "status": "changed",
+      "status": "same",
       "chars": 7809
     },
     {

@@ -1,0 +1,12 @@
+{
+  "tool": "devin",
+  "date": "2026-11-11",
+  "url": "https://devin.ai/pricing",
+  "price_lines": [
+    "+2 concurrent sessions in Free mode per user",
+    "+2 per user",
+    "+By team and per user"
+  ],
+  "all_lines": 26,
+  "reviewed": false
+}

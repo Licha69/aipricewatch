@@ -1,0 +1,27 @@
+{
+  "tool": "factory",
+  "date": "2026-11-12",
+  "url": "https://factory.ai/pricing",
+  "price_lines": [
+    "-01",
+    "+0",
+    "+$0",
+    "+2",
+    "+0",
+    "+$100/mo per individual",
+    "+$200/mo per individual",
+    "-02",
+    "-$100",
+    "+6",
+    "+0",
+    "+$60",
+    "-03",
+    "-$200",
+    "-04",
+    "-$60/mo",
+    "-per team, plus $40/mo per seat",
+    "+per team, plus $40/mo per individual"
+  ],
+  "all_lines": 87,
+  "reviewed": false
+}

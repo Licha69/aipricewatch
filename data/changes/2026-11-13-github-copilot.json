@@ -1,0 +1,10 @@
+{
+  "tool": "github-copilot",
+  "date": "2026-11-13",
+  "url": "https://github.com/features/copilot/plans",
+  "price_lines": [
+    "+Substantial, well-scoped coding tasks, such as fixing a complex bug or making a change across several files, when additional model calls may be worth the extra time and AI credits."
+  ],
+  "all_lines": 61,
+  "reviewed": false
+}

@@ -1,0 +1,17 @@
+{
+  "tool": "base44",
+  "date": "2026-11-16",
+  "url": "https://base44.com/pricing",
+  "price_lines": [
+    "-15",
+    "+14",
+    "-22",
+    "+19",
+    "-27",
+    "+54",
+    "-35",
+    "+40"
+  ],
+  "all_lines": 10,
+  "reviewed": false
+}

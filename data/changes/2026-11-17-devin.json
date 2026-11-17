@@ -1,0 +1,12 @@
+{
+  "tool": "devin",
+  "date": "2026-11-17",
+  "url": "https://devin.ai/pricing",
+  "price_lines": [
+    "-/MONTH FOR TEAM PLAN + $40/MO PER FULL DEV SEAT",
+    "+PER MONTH",
+    "-$40/month per full user"
+  ],
+  "all_lines": 5,
+  "reviewed": false
+}

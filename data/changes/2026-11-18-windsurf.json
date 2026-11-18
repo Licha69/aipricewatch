@@ -1,0 +1,16 @@
+{
+  "tool": "windsurf",
+  "date": "2026-11-18",
+  "url": "https://windsurf.com/pricing",
+  "price_lines": [
+    "-$0",
+    "-$20",
+    "-PER MONTH",
+    "-$200",
+    "-PER MONTH",
+    "+Shared on-demand credits for up to 100 members",
+    "+Teams is self-serve at a flat $80/month."
+  ],
+  "all_lines": 151,
+  "reviewed": false
+}

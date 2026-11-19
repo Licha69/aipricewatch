@@ -1,0 +1,15 @@
+{
+  "tool": "warp",
+  "date": "2026-11-19",
+  "url": "https://www.warp.dev/pricing",
+  "price_lines": [
+    "+12",
+    "+12",
+    "+13",
+    "+2",
+    "+2",
+    "+free Factories credits"
+  ],
+  "all_lines": 80,
+  "reviewed": false
+}

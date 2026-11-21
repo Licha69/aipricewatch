@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-20",
+  "date": "2026-11-21",
   "results": [
     {
       "tool": "cursor",
@@ -8,13 +8,13 @@
     },
     {
       "tool": "github-copilot",
-      "status": "changed",
+      "status": "same",
       "chars": 43640
     },
     {
       "tool": "windsurf",
       "status": "changed",
-      "chars": 3466
+      "chars": 3782
     },
     {
       "tool": "claude-claude-code",
@@ -33,7 +33,7 @@
     },
     {
       "tool": "lovable",
-      "status": "changed",
+      "status": "same",
       "chars": 3782
     },
     {
@@ -69,7 +69,7 @@
     {
       "tool": "devin",
       "status": "changed",
-      "chars": 3782
+      "chars": 3466
     },
     {
       "tool": "zed",
@@ -78,7 +78,7 @@
     },
     {
       "tool": "warp",
-      "status": "changed",
+      "status": "same",
       "chars": 51738
     },
     {

@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "results": [
     {
       "tool": "cursor",
@@ -13,7 +13,7 @@
     },
     {
       "tool": "windsurf",
-      "status": "changed",
+      "status": "same",
       "chars": 3782
     },
     {
@@ -23,8 +23,8 @@
     },
     {
       "tool": "chatgpt-codex",
-      "status": "same",
-      "chars": 7390
+      "status": "changed",
+      "chars": 7373
     },
     {
       "tool": "replit",
@@ -69,7 +69,7 @@
     {
       "tool": "devin",
       "status": "changed",
-      "chars": 3466
+      "chars": 3782
     },
     {
       "tool": "zed",
@@ -103,8 +103,8 @@
     },
     {
       "tool": "base44",
-      "status": "same",
-      "chars": 7352
+      "status": "changed",
+      "chars": 7366
     }
   ]
 }

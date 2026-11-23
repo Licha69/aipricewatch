@@ -1,5 +1,5 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "results": [
     {
       "tool": "cursor",
@@ -18,13 +18,13 @@
     },
     {
       "tool": "claude-claude-code",
-      "status": "same",
-      "chars": 23861
+      "status": "changed",
+      "chars": 23951
     },
     {
       "tool": "chatgpt-codex",
       "status": "changed",
-      "chars": 7373
+      "chars": 7489
     },
     {
       "tool": "replit",
@@ -33,8 +33,8 @@
     },
     {
       "tool": "lovable",
-      "status": "same",
-      "chars": 3782
+      "status": "changed",
+      "chars": 3786
     },
     {
       "tool": "bolt-new",
@@ -48,8 +48,8 @@
     },
     {
       "tool": "tabnine",
-      "status": "same",
-      "chars": 4981
+      "status": "changed",
+      "chars": 5297
     },
     {
       "tool": "jetbrains-ai",
@@ -69,7 +69,7 @@
     {
       "tool": "devin",
       "status": "changed",
-      "chars": 3782
+      "chars": 3466
     },
     {
       "tool": "zed",
@@ -88,8 +88,8 @@
     },
     {
       "tool": "qodo",
-      "status": "same",
-      "chars": 7791
+      "status": "changed",
+      "chars": 7934
     },
     {
       "tool": "sourcegraph-amp",
@@ -104,7 +104,7 @@
     {
       "tool": "base44",
       "status": "changed",
-      "chars": 7366
+      "chars": 7374
     }
   ]
 }

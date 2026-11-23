@@ -1,0 +1,25 @@
+{
+  "tool": "qodo",
+  "date": "2026-11-23",
+  "url": "https://www.qodo.ai/pricing/",
+  "price_lines": [
+    "-Get started with unlimited credits",
+    "+$0",
+    "+Unlimited reviews and credits",
+    "+Shared credits that scale with your team",
+    "-Unlimited credits",
+    "-~14 Reviews/Mo",
+    "+/mo",
+    "+$30",
+    "+$60",
+    "+$240",
+    "-~29 Reviews/Mo",
+    "-4,000 credits",
+    "-~114 Reviews/Mo",
+    "-16,000 credits",
+    "-Customer-set monthly overage cap",
+    "-Monthly billing \u2022 no commitment"
+  ],
+  "all_lines": 85,
+  "reviewed": false
+}

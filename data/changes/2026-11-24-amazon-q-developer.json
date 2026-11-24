@@ -1,0 +1,11 @@
+{
+  "tool": "amazon-q-developer",
+  "date": "2026-11-24",
+  "url": "https://aws.amazon.com/q/developer/pricing/",
+  "price_lines": [
+    "-Activating the Amazon Q Developer Pro subscription refers to the specific actions or events that trigger the start of the monthly subscription fee for a user. Signing in to Amazon Q chat in the console or other AWS pages, signing in to Amazon Q chat in an IDE, or downloading the toolkit will not incur the subscription fee. The activation occurs when you perform activities with Amazon Q Developer such as:",
+    "+Activating the Amazon Q Developer Pro subscription refers to the specific actions or events that trigger the start of the monthly subscription fee for a user. Signing in to other AWS pages, signing in to Amazon Q chat in an IDE, or downloading the toolkit will not incur the subscription fee. The activation occurs when you perform activities with Amazon Q Developer such as:"
+  ],
+  "all_lines": 2,
+  "reviewed": false
+}

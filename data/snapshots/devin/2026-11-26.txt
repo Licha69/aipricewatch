@@ -1,0 +1,210 @@
+Product
+Solutions
+Resources
+Customers
+Pricing
+Blog
+Get a demo
+Log in
+Get started
+Plans and pricing
+Teams and Enterprise
+Individual
+Teams
+RECOMMENDED
+$80
+PER MONTH
+Shared on-demand credits for up to 100 members
+Start with Teams
+Access to Devin Bots
+Share and collaborate with multiplayer sessions
+2 concurrent sessions in Free mode per user
+SAML/OIDC SSO
+Cost controls with 3 usage tiers
+Centralized billing
+Slack channel support
+Use your ChatGPT plan
+Enterprise
+Let's talk
+Built to scale across your organization
+Get a demo
+BUILT TO SCALE ACROSS YOUR ORGANIZATION:
+Highest priority support
+Dedicated account management
+SCIM and role-based access control
+Centralized enterprise admin controls
+Dedicated deployment option
+Devin Bots
+First class support for
+every major model provider
+Compare plans
+Free
+$0/month
+Download
+Pro
+$20/month
+Get Pro
+Max
+$200/month
+Get Max
+Teams
+$80/month
+Start
+Enterprise
+Let's talk
+Get a demo
+SEATS
+Members
+1
+1
+1
+Up to 100
+Unlimited
+DEVIN DESKTOP
+Tab
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Unlimited
+Premium models
+–
+Fast context
+Free SWE-2
+Slow
+–
+DEVIN CLOUD
+Devin Bots
+–
+–
+DeepWiki
+–
+Devin API
+–
+Ask Devin
+–
+Advanced capabilities
+–
+Sharing and collaboration
+–
+–
+–
+Concurrent sessions limit
+–
+Up to 10
+Up to 10
+Unlimited
+Unlimited
+Concurrent sessions in Free mode
+–
+–
+–
+2 per user
+–
+INTEGRATIONS
+Slack and Teams
+–
+Linear and Jira
+–
+GitHub, GitLab, and Bitbucket
+–
+Custom git provider support
+–
+–
+–
+–
+ACCOUNT SUPPORT
+Dedicated Slack Connect channel for support
+–
+–
+–
+Optional onboarding call with the Cognition team
+–
+–
+–
+Dedicated account and engineering support
+Access to early feature releases and research previews
+–
+–
+–
+Custom
+Dedicated account team
+–
+–
+–
+–
+Custom terms
+–
+–
+–
+–
+Enterprise accounts
+Centralized management of multiple Devin organizations
+–
+–
+–
+–
+COST CONTROLS
+Usage limits
+–
+–
+–
+3 tiers
+By team and per user
+SECURITY
+SAML/OIDC SSO
+–
+–
+–
+SCIM provisioning
+–
+–
+–
+–
+Centralized enterprise admin controls
+–
+–
+–
+–
+Teamspace isolation
+–
+–
+–
+–
+Deploy in your virtual private cloud (VPC)
+–
+–
+–
+–
+Start your team on Devin
+Teams is self-serve at a flat $80/month.
+Start with Teams
+Get a demo
+Frequently Asked Questions
+How does usage work?
+Each paid plan comes with a usage allowance that refreshes automatically on a daily and weekly basis. For the majority of users, this quota will be enough to fully cover all agent usage. Cost per message varies based on the model used, the task size and complexity, and the reasoning required.
+What happens when I reach my usage limit?
+Most users will never hit their limits. If you do go beyond your included usage on a paid plan, you can purchase extra usage which is consumed at API pricing.
+How can I make my usage limits last longer?
+Control the size of your prompts. Be precise with your instructions, but remove unnecessary context.
+Switch to smaller models for routine tasks. Using mini models like Haiku, GPT 5.2 Mini, and open source models like Kimi K2.5 will extend your usage.
+What is the Max plan?
+The Max plan is for power users who need significantly higher usage quotas. It includes everything in Pro, plus significantly higher quotas.
+What is included in the Free plan?
+The Free plan includes a light quota to code with agents, limited model availability, unlimited inline edits, and unlimited Tab completions.
+Company
+Careers
+Brand
+About
+Support
+Legal
+Terms of Service
+Acceptable Use Policy
+Privacy Policy
+Data Use
+Your Privacy Choices
+Connect
+X
+LinkedIn
+YouTube
+Reddit

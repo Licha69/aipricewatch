@@ -1,0 +1,13 @@
+{
+  "tool": "sourcegraph-amp",
+  "date": "2026-11-26",
+  "url": "https://ampcode.com/pricing",
+  "price_lines": [
+    "+Yes. Uploads have a daily and a monthly limit:",
+    "+Hobby: 1 GiB a day and 3 GiB a month",
+    "+Paid tiers and Enterprise: 30 GiB a day and 100 GiB a month, including a tier your workspace pays for",
+    "+The daily limit resets at 00:00 UTC. The monthly limit resets at 00:00 UTC on the first day of each calendar month, not on your billing date."
+  ],
+  "all_lines": 8,
+  "reviewed": false
+}

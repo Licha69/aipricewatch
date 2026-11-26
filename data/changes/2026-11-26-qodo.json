@@ -1,0 +1,12 @@
+{
+  "tool": "qodo",
+  "date": "2026-11-26",
+  "url": "https://www.qodo.ai/pricing/",
+  "price_lines": [
+    "+About $1.55 on average, with no per-seat pricing. Reviews run on Auto by default: Qodo reads each change and matches the review depth to its risk. A small, low-risk change gets a Lite review. Most changes get a Standard review. Complex or high-risk changes get an Extended multi-agent review. Trivial changes are skipped. You pay only for the reviews that run and you can set a fixed depth per repository if you prefer.",
+    "-platform that brings automated, context-aware review into your IDE, pull requests, CLI, and Git workflows. It\u2019s built for complex codebases, with context across multi-repos, to surface critical issues early, enforce standards, shorten feedback cycles, and ship better code faster. In Qodo, AI code review, code quality, and SDLC governance come together in one platform for teams that care as much about",
+    "+platform that brings automated, context-aware review into your pull requests, coding agents, CLI, and Git workflows. It\u2019s built for complex codebases, with context across multi-repos, to surface critical issues early, enforce standards, shorten feedback cycles, and ship better code faster. In Qodo, AI code review, code quality, and SDLC governance come together in one platform for teams that care as much about"
+  ],
+  "all_lines": 9,
+  "reviewed": false
+}

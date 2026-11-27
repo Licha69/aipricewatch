@@ -1,0 +1,253 @@
+Qodo Plans & Pricing | 14-Day Free Trial
+Skip to content
+New: Auto Approval Workflows and Agent Session Review
+See what shipped →
+Log in
+Platform
+Book a Demo
+Start Trial
+Book a Demo
+Start Trial
+Platform
+Multi Agent Code Review
+Enforce organizational standards on every pull request.
+Wisdom Base
+Bring knowledge from your codebase, PR history, and business requirements into every step of your agentic SDLC.
+Rules & Skills Lifecycle
+Transform tribal knowledge and PR history into self-learning standards.
+Cross Repo Review
+Catch breaking changes before they reach other repos and cause downstream impact.
+Software Map
+New
+See how every repo, service and contract connects. Track the blast radius of every change.
+Agentic Toolbox
+New
+Give coding agents (including Codex, Claude, and Kiro) a CLI-powered quality counterpart.
+Solutions
+Quality Control and Governance for the Agentic Software Factory
+Apply your standards to every change your coding agents produce, from first draft to merge.
+High Precision Code Review at Scale
+Surface the findings that matter across every repo and every PR, with signal your engineers trust.
+Quality Governance for AI-Generated Code
+Hold AI-written code to the same rules, requirements, and review bar as everything else you ship.
+Resources
+Book a Demo
+Start Trial
+Book a Demo
+Start Trial
+Explore
+Learning
+Webinars, tutorials and interviews
+Docs
+Get started with Qodo
+Blog
+Tech content and product updates
+AI Code Review Benchmark
+Measuring issue finding in PR reviews
+The Agentic Review Podcast
+Code Quality & AI Development
+Community
+Open Source
+Free for open source projects
+Events & Webinars
+Join us wherever you are
+Super Qodoer
+Qodo Ambassador Program
+Company
+About
+Our mission, team and investors
+Careers
+Become part of the team
+Contact
+We love hearing from you
+Pricing
+Enterprise
+Log in
+Log in
+Book a Demo
+Start Trial
+32.5K
+Code Quality
+that
+Scales with Your Team
+$0.015/credit, pooled across the team
+Switch packs anytime
+No annual commitment on Pro Team plan
+No rate limits
+Free trial
+Unlimited reviews
+Explore Qodo’s full code review platform
+$0
+for 14 days
+Start Free Trial
+How it works
+No credit card required
+Unlimited reviews and credits
+Pick a credit pack when it ends
+what’s included
+Agentic PR code review
+Pre-PR review skills
+Rules system, no limit
+Git integrations
+Dashboard and analytics
+Pro team
+recommended
+Shared credits that scale with your team
+$30
+/mo
+$30
+$60
+$240
+~19 PR reviews
+2,000 credits
+See additional plan options
+Start Free Trial
+How it works
+$.015 per credit, pooled across the team
+Switch packs anytime, no annual commitment
+No rate limits
+Overage at the same rate, up to a cap you set
+what’s included
+Agentic PR code review
+Pre-PR review skills
+Rules system, no limit
+Git integrations
+Dashboard and analytics
+Enterprise
+Quality and speed across teams and repos
+Custom
+book a demo
+How it works
+Custom pricing, book a demo for a quote
+what’s included
+Everything in Pro Team
+On-prem/air-gapped
+Gerrit support
+BYOK (bring your own LLM keys)
+Audit logs
+Priority support/SLA
+Dedicated CSM
+MSA/DPA
+Compare plans
+Pro Team Plan
+Same as Trial
+Enterprise Plans
+included in both plans
+Pro Team Plan
+Enterprise Plans
+Agentic PR code review
+Pro Team Plan: Included
+Enterprise Plans: Included
+Context Engine (Codebase wisdom, PR History, and more)
+Pro Team Plan: Included
+Enterprise Plans: Included
+Rules Management System
+Pro Team Plan: Included
+Enterprise Plans: Included
+Cross Repo Software Map
+Pro Team Plan: Included
+Enterprise Plans: Included
+Agentic Quality Toolbox for Coding Agents
+Pro Team Plan: Included
+Enterprise Plans: Included
+Analytics Dashboard
+Pro Team Plan: Included
+Enterprise Plans: Included
+Strict Data Retention
+Pro Team Plan: Included
+Enterprise Plans: Included
+enterprise only
+Enterprise Plans
+Single-tenant SaaS
+Pro Team Plan: Not included
+Enterprise Plans: Included
+On-prem / air-gapped
+Pro Team Plan: Not included
+Enterprise Plans: Included
+Gerrit support
+Pro Team Plan: Not included
+Enterprise Plans: Included
+BYOK (bring your own LLM keys)
+Pro Team Plan: Not included
+Enterprise Plans: Included
+Audit logs
+Pro Team Plan: Not included
+Enterprise Plans: Included
+Advanced analytics
+Pro Team Plan: Not included
+Enterprise Plans: Included
+Priority support / SLA
+Pro Team Plan: Not included
+Enterprise Plans: Included
+Dedicated CSM
+Pro Team Plan: Not included
+Enterprise Plans: Included
+MSA / DPA
+Pro Team Plan: Not included
+Enterprise Plans: Included
+Q&A
+Questions?
+What is a credit?
+A credit is the unit Qodo uses to meter review activity. Every code review draws credits from your monthly pool. Smaller PRs draw fewer credits, larger or more complex reviews draw more. Your dashboard shows real-time balance and burn rate so you always know where you stand.
+Do I need a credit card to start the trial?
+No. Sign in with GitHub, Google, or email, install Qodo on your repos, and reviews start running. You will need Admin access to install. A credit card is only required when you pick a paid plan.
+What happens when my trial ends?
+Reviews pause and the dashboard prompts you to pick a plan. We’ll suggest a credit pack based on the review volume your team generated during the trial. Once you upgrade, reviews resume immediately.
+Is there a free plan?
+We don’t offer a permanent free tier. After your trial, pick a paid plan to keep reviewing.
+Do you have a free plan for open source projects?
+Yes. Qualified open source projects can apply to the
+Qodo for Open Source program
+for free access.
+Can I change plans later?
+Yes. Upgrade, downgrade, or switch credit packs from the dashboard at any time. Changes take effect on your next billing cycle.
+What happens if I use all my credits before the month ends?
+Reviews keep running. Once your base credits are depleted, you enter overage at the same per-credit rate as your base plan, with no premium and no penalty. Overage accrues against a monthly spending cap that you set and can change at any time.
+Is there a limit on the number of repositories, users, or reviews?
+No limits on repositories, users, or reviews. Install Qodo on as many repos as you want and add as many users as you need, during your free trial and after you upgrade to Pro Team. Your developers don’t need Qodo accounts. Reviews draw from your team’s shared credit pool, then continue as overage up to the monthly spending cap you set.
+Do unused credits roll over to the next month?
+Credits expire at the end of each monthly cycle. Each cycle starts fresh with a new pool. Pick a plan that fits your typical usage so you’re not leaving credits on the table, and size up if you find yourself in overage every month
+Will my reviews ever stop running unexpectedly?
+No. You’ll get notifications as you approach your overage cap, well before reviews pause. If you hit the cap, you can raise it from the dashboard and reviews resume immediately. If a payment fails, we’ll notify you before reviews pause so you have time to update your card.
+Do you train AI models on my code?
+No. Qodo does not train models on your code. Your code is used only to generate reviews for your team.
+What kind of support do I get on each plan?
+All paid self-serve plans include standard support: documentation, in-product help, and ticket-based response from our team. Enterprise plans add priority response, a dedicated SLA, and an assigned Qodo team member for your account.
+How much does a review cost?
+About $1.55 on average, with no per-seat pricing. Reviews run on Auto by default: Qodo reads each change and matches the review depth to its risk. A small, low-risk change gets a Lite review. Most changes get a Standard review. Complex or high-risk changes get an Extended multi-agent review. Trivial changes are skipped. You pay only for the reviews that run and you can set a fixed depth per repository if you prefer.
+see qodo in action
+Looking for a tailored walk through?
+Book a demo
+Qodo is an
+AI code review
+platform that brings automated, context-aware review into your pull requests, coding agents, CLI, and Git workflows. It’s built for complex codebases, with context across multi-repos, to surface critical issues early, enforce standards, shorten feedback cycles, and ship better code faster. In Qodo, AI code review, code quality, and SDLC governance come together in one platform for teams that care as much about
+how code is reviewed
+as how fast it ships.
+Products
+Git Integration
+Product updates
+Report Issues
+Resources
+Blog
+Docs
+Events
+Media Kit
+Qodo Trust Center
+Learn
+Code Review Academy
+AI For Coding
+Qodo & Google Cloud
+Glossary
+About
+Pricing
+Our Mission
+Meet The Team
+Careers
+Backed By
+Data Privacy And Security
+We support all major programming languages
+Available now on
+@ 2026 Qodo. All Rights Reserved.
+Terms of Use
+Privacy Policy
+Data Processing Addendum

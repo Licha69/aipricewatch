@@ -1,9 +1,9 @@
 {
-  "date": "2026-11-26",
+  "date": "2026-11-27",
   "results": [
     {
       "tool": "cursor",
-      "status": "changed",
+      "status": "same",
       "chars": 15012
     },
     {
@@ -13,7 +13,7 @@
     },
     {
       "tool": "windsurf",
-      "status": "changed",
+      "status": "same",
       "chars": 3466
     },
     {
@@ -24,7 +24,7 @@
     {
       "tool": "chatgpt-codex",
       "status": "changed",
-      "chars": 7482
+      "chars": 7465
     },
     {
       "tool": "replit",
@@ -34,7 +34,7 @@
     {
       "tool": "lovable",
       "status": "changed",
-      "chars": 3658
+      "chars": 3656
     },
     {
       "tool": "bolt-new",
@@ -73,7 +73,7 @@
     },
     {
       "tool": "zed",
-      "status": "changed",
+      "status": "same",
       "chars": 5587
     },
     {
@@ -89,12 +89,12 @@
     {
       "tool": "qodo",
       "status": "changed",
-      "chars": 8834
+      "chars": 8762
     },
     {
       "tool": "sourcegraph-amp",
       "status": "changed",
-      "chars": 4462
+      "chars": 4458
     },
     {
       "tool": "factory",
